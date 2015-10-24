@@ -1,2 +1,4 @@
 # maverick
-The repository for team jain/graham-knight for cscw 2015 at the University of Victoria.
+The repository for team Jain/Graham-Knight for CSCW 2015 at the University of Victoria.
+
+<insert abstract here>
