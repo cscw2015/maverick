@@ -1,6 +1,6 @@
 Analyzing and Modernizing Victoria City Council's Communications: An Interim Report
 ===================
-## Group members: 
+## Group members: Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, & Tian Geng
 ## Introduction
 
 - goal is to discover what methods the city council of Victoria currently uses for collaboration and communication
@@ -112,10 +112,10 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- secondary method is through observing public city meetings
 	- observation provides as a small risk mitigation for first
 	- if city official are unable to provide time for interviews, we still have something to work from
-- goal is to conduct three 30 minute interviews
+- goal is to conduct eight 30 minute interviews 
 	- council members to be interviewed decided primarily on availability, since our time for project is limited
-	- want to interview two members from Victoria city council as well as one member from city council of Vancouver
-	- interview from Vancouver is to have comparison data with a larger city
+	- want to interview six members from Victoria city council as well as two members from city council of Vancouver
+	- interviews from Vancouver is to have comparison data with a larger city
 - also using public city meetings to observe usage of computers in facilitating meetings, if at all
 	- meetings occur every two weeks, held at City Hall in Victoria on Thursdays at 7pm
 	- attended two meetings on October 15th and October 29th
