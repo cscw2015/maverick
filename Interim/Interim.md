@@ -2,11 +2,120 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 ===================
 ### Group members: 
 ### Introduction
+
+- goal is to discover what methods the city council of Victoria currently uses for collaboration and communication
+- includes public council meetings as well as their internal communications
+- research questions:
+	1. What technologies already exist or are being used to help city councillors in their meetings, for document sharing and communications?
+	2. What issues are they currently facing with their present technology?
+	3. How can we improve communication between city councillors?
+- one area we want to focus on is preparation and management of council meetings via technology
+	- what technologies are used to prepare for the meetings
+	- how is agenda constructed?
+	- how are by-laws introduced, modified and finalized via technology?
+	- what is used *during* meetings to facilitate and share information
+- methods of gathering:
+	- interviews with city councillors from Victoria
+	- smaller number of interviews with Vancouver city councillors (as a control group)
+	- attending public council meetings to see what current practices are
+- much of existing research about city governments is about how to improve government-citizen relations
+	- not as much on how technology plays a role in this, or if there is it's outdated
+- we want to focus on inter-governmental collaborations and how city coordinates itself to solve issues
+
 ### Related Work
+- goal with section: introduce CSCW usage in other sectors 
 #### CSCW Use in Government and Politics
+- as internet usage exploded, public sector realized the need to tap into these new technologies
+- three governmental relationships to consider[1]:
+	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
+	2. **Government to Business**: purchase for property, equipment, office supplies
+	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[2]
+- Stuttgart city council used Cuparla environment in 1998 to improve access to information and collaboration between council members
+- designed with aim to support political entities
+- supports functions such as information, communication, coordination, collaboration [3]
+<image here of Cuparla>
+- examples of other technologies being used by other municipal governments: 
+	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [4]
+	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [5]
+	- IVS-City Council software used in city council meetings during voting process, done with keypads [6]
+- some city councils work with software companies to provide solutions to public-sector requirements
+- example: Peterborough City Council working with XCD HR to automate number of manual HR processes [7]
+- lets employees take time normally spent on paperwork to focus on more crucial aspects of job
+- business benefits include:
+	- Immediate benefits/efficiency gains across the board (for HR, managers, and employees)
+	- Improved reporting capability with 24/7 up-to-date decision making data available to appropriate audience supporting CMT
+	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
+	- HR workload has become more manageable and CIPD skills put to better use
+	- Less chasing is required due to approval process and email alert reminders on managers and employees [7]
+< need transition into next section here > 
 #### CSCW in Meetings
+- according to Schümmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
+	- the peopleware perspective, the design of social processes that are executed by team members,
+	- the generic groupware perspective for designing supportive software tools, and
+	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [8]
+- factors that influence effectiveness in meetings: motivation and reliability, clear goals, information, context, focus and efficiency, trust and openness, respect, communication, participation and results [8]	
+- number of electronic meeting systems currently being used, will only consider two here
+- Benyon and Mival note use of blended spaces in some meetings, where technology and physical space are designed in tandem [9]
+	- spaces allow for a more ergonomic environment for participants
+	- creates increased collaboration opportunities
+	- example of blended space using tablets, keyboards, laptops, wall-mounted touchscreens, video-conferencing, ambient lighting [9]
+	<insert Figure 2 here>
+- Sarda et. al. propose system that engages a real-time feedback system to track speaking behaviours of participants in meetings [10]
+	- "talking mannerisms of individiuals play an important factor for meetings to be productive and achieve certain objectives" [10]
+	- keeping track of who is talking and when could help meeting run more efficiently
+	- Sarda et. al. designed and implemented recording-based system for keeping track of who speak and when, to fairly distribute airtime
+< need transition into next section here > 
 #### Group Dynamics
-### Methodology
+- important to understand communication dynamics of groups
+- important to understand why innovation in public sector is important 
+- Victoria operates as mayor-council system, as opposed to council-manager system used in some municipalities [11]
+	- gives mayor additional powers; need to do more to understand full powers of mayor
+- as Cheyne notes, there are "weak mayors" without veto power and "strong mayors" [12]
+- website for city of Victoria contains a number of documents such as strategic plan and annual reports
+- not immediately evident whether it contains information about structure of Victoria city government
+	- may need to obtain information through email exchanges with the city
+- city council of Victoria is a government entity that can be described as group of people working together
+- study of groups has been undertaken for decades
+- Poole notes there is always a tension between focusing on group as whole versus individiual members [13]
+	- Group members' characteristics interact to produce group characteristics, which forms complex relationship at many levels "which leads to non-independence of individual data" [13]
+	- "some members influence each other strongly, whereas others are isolated from the group and exert little influence, and still others are somewhere in between." 
+	- complex nature of group dynamics means that any study will need to take into account behaviour of individual and communications of group
+- group dynamics change over time
+	- example: guest may sit in at council meeting, which may change way members interact
+	- most <data> collection methods, which are often done only once in studies, cannot adequately capture full scope of communication
+	- to mitigate, our group will attend two consecutive council meetings to note changes between
+	- membership of council remains fixed, so do not have to track membership variation
+	- council is relatively small; many problems associated with observing communication behaviour of large groups will not be paramount
+- Ihkre notes taht local governments are more likely to innovate than governments at state or federal level
+	- because of "their small size and capacirty to make decisions quickly and decisively." [14]
+	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [15].
+	- potential is there to influence common good with our research by focusing on city council
+	- Walker says innovation is a core tasks of public institutions and that "innovation has been promoted around world as a key tool to improve public services" [16].
+	- local governments also get a lot of pressure to "do more with less" [16]
+	- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
+- our methodology will be interview questions posed to city councilors as well as attending meetings
+	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
+	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [13]
+	- interviews may procure false information because what members say may not match behaviour
+###	Methodology
+- collecting data from two main sources
+	- primary method is through interviews of city council members
+	- secondary method is through observing public city meetings
+	- observation provides as a small risk mitigation for first
+	- if city official are unable to provide time for interviews, we still have something to work from
+- goal is to conduct three 30 minute interviews
+	- council members to be interviewed decided primarily on availability, since our time for project is limited
+	- want to interview two members from Victoria city council as well as one member from city council of Vancouver
+	- interview from Vancouver is to have comparison data with a larger city
+- also using public city meetings to observe usage of computers in facilitating meetings, if at all
+	- meetings occur every two weeks, held at City Hall in Victoria on Thursdays at 7pm
+	- attended two meetings on October 15th and October 29th
+	- primary goal with attending these meetings was to observe how meetings were conducted
+		- what technology is used to administer and share documents
+		- how do they allow for crowd contribution
+		- how is discussion moderated and facilitated
+
+< need more transitions > 
 ### Milestones
 
 - old milestones alongside current status
@@ -40,4 +149,30 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - transition into next section
 
 ### Expected Results
+- expect to find out what technology council is currently using 
+	- what this technology is used for in day-to-day operations and in meetings
+	- expect to identify the needs the councillors have, and whether technology meets all their needs
+	- make recommendations of software platforms that can shore up weaknesses we find in communication processes to help in efficiency
+- as researchers, expect to gain greater knowledge of Victoria city council and processes
+	- how processes of council relate to CSCW
+	- how council members relate to each other 
+	- expect to show city council what technology is out there
+	- hope to provide strong base to integrate further technologies in future
 ### References
+
+1. Tat-Kei Ho, A. (2002). Reinventing local governments and the e-government initiative. *Public administration review, 62*(4), 434-444.
+2. Reddick, C. G. (2004). A two-stage model of e-government growth: Theories and empirical evidence for US cities. *Government Information Quarterly, 21*(1), 51-64.
+3. Schwabe, G., & Krcmar, H. (2000). Digital material in a political work context-The case of Cuparla. *ECIS 2000 Proceedings*, 150.
+4. "Preston City Council selects Cadcorp SIS and GeognoSIS softare for its new corporate, web-based GIS" http://www.cadcorp.com/news-events/preston-city-council-selects-cadcorp-sis-and-geognosis-software-for-its-new Accessed on October 13, 2015. 
+5. Heath, N. "It's not just Munich: Open source gains new ground in Germany"  http://www.techrepublic.com/blog/european-technology/its-not-just-munich-open-source-gains-new-ground-in-germany/ Accessed on October 12, 2015
+6. "IVS City Council" https://www.ivsystem.nl/en/products-services/software/ivs-city-council-2/ Accessed October 13, 2015.
+7. "XCD HR teams with Peterborough City Council to provide software solution that transforms business operations as much as 4x" http://www.xcdhr.com/uncategorized/xcd-hr-teams-with-peterborough-city-council-to-provide-software-solution-that-transforms-business-operations-by-as-much-as-4x/ Accessed October 12, 2015.
+8. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
+9. Benyon, D., & Mival, O. (2015). Blended Spaces for Collaboration. *Computer Supported Collaborative Work (CSCW)*, 1-27.
+10. Sarda, S., Constable, M., Dauwels, J. Dauwels, S., Elgendi, M., Mengyu, Z., ... & Magnetat-Thalmann, N. (2014). Real-time feedback system for monitoring and faciliating discussions. *Natural Interaction with Robots, Knowbots and Smartphones* (pp. 375-387). Springer New York.
+11. Hayes, K., & Chang, S. (1990). The relative efficiency of city manager and mayor-council forms of government. *Southern Economic Journal*, 167-177. 
+12. Cheyne, C. (2004). Changing local political leadership: the New Zealand mayor in contemporary local governance. *Political Science, 56*(2) 51-64. 
+13. Poole, M. S., Keyton, J., & Frey, L. R. (1999). *Group communications methodology* (pp 92-112). L. R. Frey, D. S. Gouran, & M. S. Poole (Eds.). Thousand Oaks, CA: Sage Publications. 
+14. Ihrke, D., Proctor, R., & Gapris, J. (2003). Understanding innovation in municipal government: City council member perspectives. *Journal of Urban Affairs, 25*(1), 79-90. 
+15. Haus, M., & Sweeting, D. (2006). Local democracy and political leadership: Drawing a map. *Political studies, 54*(2), 267-288.
+16. Walker, R. M. (2006). Innovation type and diffusion: An empirical analysis of local government. *Public administration, 84*(2), 311-335.
