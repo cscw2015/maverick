@@ -1,7 +1,7 @@
 Analyzing and Modernizing Victoria City Council's Communications: An Interim Report
 ===================
-### Group members: 
-### Introduction
+## Group members: 
+## Introduction
 
 - goal is to discover what methods the city council of Victoria currently uses for collaboration and communication
 - includes public council meetings as well as their internal communications
@@ -22,9 +22,12 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- not as much on how technology plays a role in this, or if there is it's outdated
 - we want to focus on inter-governmental collaborations and how city coordinates itself to solve issues
 
-### Related Work
+## Related Work
+
 - goal with section: introduce CSCW usage in other sectors 
-#### CSCW Use in Government and Politics
+
+### CSCW Use in Government and Politics
+
 - as internet usage exploded, public sector realized the need to tap into these new technologies
 - three governmental relationships to consider[1]:
 	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
@@ -47,8 +50,10 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
 	- HR workload has become more manageable and CIPD skills put to better use
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [7]
-< need transition into next section here > 
-#### CSCW in Meetings
+<need transition into next section here> 
+
+### CSCW in Meetings
+
 - according to Schümmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
 	- the peopleware perspective, the design of social processes that are executed by team members,
 	- the generic groupware perspective for designing supportive software tools, and
@@ -64,8 +69,10 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- "talking mannerisms of individiuals play an important factor for meetings to be productive and achieve certain objectives" [10]
 	- keeping track of who is talking and when could help meeting run more efficiently
 	- Sarda et. al. designed and implemented recording-based system for keeping track of who speak and when, to fairly distribute airtime
-< need transition into next section here > 
-#### Group Dynamics
+<need transition into next section here> 
+
+### Group Dynamics
+
 - important to understand communication dynamics of groups
 - important to understand why innovation in public sector is important 
 - Victoria operates as mayor-council system, as opposed to council-manager system used in some municipalities [11]
@@ -97,7 +104,9 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
 	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [13]
 	- interviews may procure false information because what members say may not match behaviour
-###	Methodology
+
+##	Methodology
+
 - collecting data from two main sources
 	- primary method is through interviews of city council members
 	- secondary method is through observing public city meetings
@@ -116,7 +125,8 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		- how is discussion moderated and facilitated
 
 < need more transitions > 
-### Milestones
+
+## Milestones
 
 - old milestones alongside current status
 - talk about why certain issues are pending
@@ -124,7 +134,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - old table doesn't address when we plan to have transcriptions done of interviews
 - old table doesn't address when we plan to give city council a report
 
-#### Status on Original Milestones
+### Status on Original Milestones
 | Date | Task to Complete | Status |
 |------|------------------|--------|
 |October 15| City Meeting 1 | Finished |
@@ -142,13 +152,13 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - have a new table below, with all the adjusted dates
 - explain reasoning behind adjusting each date
 
-#### New Timeline
+### New Timeline
 | Date | Task to Complete | 
 |------|------------------|
 
 - transition into next section
 
-### Expected Results
+## Expected Results
 - expect to find out what technology council is currently using 
 	- what this technology is used for in day-to-day operations and in meetings
 	- expect to identify the needs the councillors have, and whether technology meets all their needs
@@ -158,7 +168,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- how council members relate to each other 
 	- expect to show city council what technology is out there
 	- hope to provide strong base to integrate further technologies in future
-### References
+## References
 
 1. Tat-Kei Ho, A. (2002). Reinventing local governments and the e-government initiative. *Public administration review, 62*(4), 434-444.
 2. Reddick, C. G. (2004). A two-stage model of e-government growth: Theories and empirical evidence for US cities. *Government Information Quarterly, 21*(1), 51-64.
