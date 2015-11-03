@@ -2,7 +2,7 @@ Interview Question List
 ============
 - What information do you need to share on a day-to-day basis to do your job? And how do you accomplish this?
 - Which level of data privacy is required ?
-- How do you ensure that the data you need to share remains private?
+- How do you ensure that the data you need to share that needs to be private remains private?
 - Regarding bill creation:
 	- What channels do you use to collect background data on issues?
 	- How do you collate your data? How do you organize it?
@@ -13,9 +13,9 @@ Interview Question List
 	- Phones -- do they use smartphones? Which phones? For what purposes do they use phones?
 	- Email -- how frequently do they use it? Which parties/groups/organizations do they primarily use email to communicate with?
 	- In-house communication -- what protocols do they use to facilitate discussion between city workers? How effective/how frequently used are these protocols?
-	- Document sharing -- how do they share documents between individuals and groups? What sort of permissions/privileges do users have for editing and manipulating important documents?
-	- Meetings -- what do they use to organize and run meetings? Do they allow for meetings to be conducted without need for colocation (remote meetings?) How frequent are these meetings, and how is data collected from meetings?
+	- Document sharing -- how do they share documents between individuals and groups, including the public? What sort of permissions/privileges do users have for editing and manipulating important documents?
+	- Meetings -- what do they use to organize and run meetings? What tools do they use to allow councillors to remotely participate in meetings? 
 - Personal comfort level with computers and phones
-	- How comfortable are you with their smartphones and computers?
+	- How comfortable are they with their smartphones and computers?
 	- How do you rate your technology literacy? What do you feel particularly comfortable doing with technology?
 	- Do you feel your current tech setup limits your workflow in any way? If yes, then what ways (in terms of technology) would you prefer to mitigate this? 
