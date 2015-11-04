@@ -93,7 +93,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- to mitigate, our group will attend two consecutive council meetings to note changes between
 	- membership of council remains fixed, so do not have to track membership variation
 	- council is relatively small; many problems associated with observing communication behaviour of large groups will not be paramount
-- Ihkre notes that local governments are more likely to innovate than governments at state or federal level
+- Ihkre notes taht local governments are more likely to innovate than governments at state or federal level
 	- because of "their small size and capacirty to make decisions quickly and decisively." [14]
 	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [15].
 	- potential is there to influence common good with our research by focusing on city council
