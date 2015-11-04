@@ -1,7 +1,7 @@
 Interview Question List
 ============
 - What information do you need to share on a day-to-day basis to do your job? And how do you accomplish this?
-- Which level of data privacy is required ?
+- What data needs to remain private?
 - How do you ensure that the data you need to share that needs to be private remains private?
 - Regarding bill creation:
 	- What channels do you use to collect background data on issues?
