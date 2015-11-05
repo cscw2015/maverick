@@ -1,6 +1,9 @@
 Analyzing and Modernizing Victoria City Council's Communications: An Interim Report
 ===================
-## Group members: Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, & Tian Geng
+## Group members 
+
+Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
+
 ## Introduction
 
 - goal is to discover what methods the city council of Victoria currently uses for collaboration and communication
@@ -28,7 +31,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 ### CSCW in Meetings
 
-- according to SchÃ¼mmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
+- according to Schümmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
 	- the peopleware perspective, the design of social processes that are executed by team members,
 	- the generic groupware perspective for designing supportive software tools, and
 	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1]
@@ -103,7 +106,15 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
 	- HR workload has become more manageable and CIPD skills put to better use
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
+
 <need transition into next section here> 
+
+### B.C. Government: Current Issues with Transparency
+http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
+- needs to be talked about
+	- one-off incident? 
+	- systemic issue?
+- relation to Victoria city government, if any
 
 ##	Methodology
 
@@ -135,6 +146,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - old table doesn't address when we plan to give city council a report
 
 ### Status on Original Milestones
+
 | Date | Task to Complete | Status |
 |------|------------------|--------|
 |October 15| City Meeting 1 | Finished |
@@ -163,12 +175,51 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 |November 27|Data Analysis will be done|
 |December 2|Project Presentation|
 |December 4|Final Report|
-|December 4|Consultant’s Report|
-- transition into next section
+|December 4|Consultant's Report|
+
+- given that some of these deadlines involve much more work than others, work has to be split up
 
 ## Roles And Tasks Division
 
+- previous document didn't highlight what roles each member would focus on in project
+- not all members attended city council meetings due to schedule conflicts 
+- not all members are conducting interviews due to time constraints and other obligations in the project
+
+####Kimberlee Graham-Knight: Group Leader
+- ensure all group members are fulfilling roles
+- regularly checks in with group members to answer questions and help resolve issues
+- delegation of tasks to other group members as required
+- conducting interviews on two city council members
+- attendance and observation of city council meetings
+
+####Roshni Jain: Data Analysis
+- transcription for interviews once audio files are available
+- overseeing analysis of data after transcription
+- literature review and background research
+- attendance and observation of city council meetings
+
+####Nigel Dufty: Data Collection
+- ensures any sensitive information (interview audio logs, transcripts) is kept on an encrypted USB stick
+- attendance and observation of city council meetings
+- interviews with two city council members
+
+####Tian Geng: Data Analysis
+- transcription for interviews once audio files are available
+- literature review and background research
+- interviews with two city council members
+
+####Myan Panikkar: Editor
+- ensures that all written deliverables (namely, reports) are coherent, cohesive and complete
+- spearheading writing of consultant report to council
+- delegation of report sections and report writing to ensure equitable division of work
+- questionnaire/interviews with Vancouver city council members
+- attendance and observation of city council meetings
+
+- while everyone has a defined "role" responsibilities do overlap a fair bit in the data collection itself
+	- intentional, to make sure everyone working on project has some sort of perspective on city operations
+
 ## Expected Results
+
 - expect to find out what technology council is currently using 
 	- what this technology is used for in day-to-day operations and in meetings
 	- expect to identify the needs the councillors have, and whether technology meets all their needs
@@ -178,9 +229,10 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- how council members relate to each other 
 	- expect to show city council what technology is out there
 	- hope to provide strong base to integrate further technologies in future
+
 ## References
 
-1. SchÃ¼mmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
+1. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
 2. Benyon, D., & Mival, O. (2015). Blended Spaces for Collaboration. *Computer Supported Collaborative Work (CSCW)*, 1-27.
 3. Sarda, S., Constable, M., Dauwels, J. Dauwels, S., Elgendi, M., Mengyu, Z., ... & Magnetat-Thalmann, N. (2014). Real-time feedback system for monitoring and faciliating discussions. *Natural Interaction with Robots, Knowbots and Smartphones* (pp. 375-387). Springer New York.
 4. Hayes, K., & Chang, S. (1990). The relative efficiency of city manager and mayor-council forms of government. *Southern Economic Journal*, 167-177. 
