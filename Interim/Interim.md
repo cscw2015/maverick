@@ -155,7 +155,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 ### New Timeline
 | Date | Task to Complete | 
 |------|------------------|
-|November 3|Requests for Interview sent|
+|November 4|Requests for Interview sent|
 |November 4|Oral update on project|
 |November 13|Interim Project Report|
 |November 20|Interviews will be Completed|
