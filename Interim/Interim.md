@@ -26,47 +26,21 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 - goal with section: introduce CSCW usage in other sectors 
 
-### CSCW Use in Government and Politics
-
-- as internet usage exploded, public sector realized the need to tap into these new technologies
-- three governmental relationships to consider[1]:
-	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
-	2. **Government to Business**: purchase for property, equipment, office supplies
-	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[2]
-- Stuttgart city council used Cuparla environment in 1998 to improve access to information and collaboration between council members
-- designed with aim to support political entities
-- supports functions such as information, communication, coordination, collaboration [3]
-<image here of Cuparla>
-- examples of other technologies being used by other municipal governments: 
-	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [4]
-	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [5]
-	- IVS-City Council software used in city council meetings during voting process, done with keypads [6]
-- some city councils work with software companies to provide solutions to public-sector requirements
-- example: Peterborough City Council working with XCD HR to automate number of manual HR processes [7]
-- lets employees take time normally spent on paperwork to focus on more crucial aspects of job
-- business benefits include:
-	- Immediate benefits/efficiency gains across the board (for HR, managers, and employees)
-	- Improved reporting capability with 24/7 up-to-date decision making data available to appropriate audience supporting CMT
-	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
-	- HR workload has become more manageable and CIPD skills put to better use
-	- Less chasing is required due to approval process and email alert reminders on managers and employees [7]
-<need transition into next section here> 
-
 ### CSCW in Meetings
 
 - according to Schümmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
 	- the peopleware perspective, the design of social processes that are executed by team members,
 	- the generic groupware perspective for designing supportive software tools, and
-	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [8]
-- factors that influence effectiveness in meetings: motivation and reliability, clear goals, information, context, focus and efficiency, trust and openness, respect, communication, participation and results [8]	
+	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1]
+- factors that influence effectiveness in meetings: motivation and reliability, clear goals, information, context, focus and efficiency, trust and openness, respect, communication, participation and results [1]	
 - number of electronic meeting systems currently being used, will only consider two here
-- Benyon and Mival note use of blended spaces in some meetings, where technology and physical space are designed in tandem [9]
+- Benyon and Mival note use of blended spaces in some meetings, where technology and physical space are designed in tandem [2]
 	- spaces allow for a more ergonomic environment for participants
 	- creates increased collaboration opportunities
-	- example of blended space using tablets, keyboards, laptops, wall-mounted touchscreens, video-conferencing, ambient lighting [9]
+	- example of blended space using tablets, keyboards, laptops, wall-mounted touchscreens, video-conferencing, ambient lighting [2]
 	<insert Figure 2 here>
-- Sarda et. al. propose system that engages a real-time feedback system to track speaking behaviours of participants in meetings [10]
-	- "talking mannerisms of individiuals play an important factor for meetings to be productive and achieve certain objectives" [10]
+- Sarda et. al. propose system that engages a real-time feedback system to track speaking behaviours of participants in meetings [3]
+	- "talking mannerisms of individiuals play an important factor for meetings to be productive and achieve certain objectives" [3]
 	- keeping track of who is talking and when could help meeting run more efficiently
 	- Sarda et. al. designed and implemented recording-based system for keeping track of who speak and when, to fairly distribute airtime
 <need transition into next section here> 
@@ -75,16 +49,16 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 - important to understand communication dynamics of groups
 - important to understand why innovation in public sector is important 
-- Victoria operates as mayor-council system, as opposed to council-manager system used in some municipalities [11]
+- Victoria operates as mayor-council system, as opposed to council-manager system used in some municipalities [4]
 	- gives mayor additional powers; need to do more to understand full powers of mayor
-- as Cheyne notes, there are "weak mayors" without veto power and "strong mayors" [12]
+- as Cheyne notes, there are "weak mayors" without veto power and "strong mayors" [5]
 - website for city of Victoria contains a number of documents such as strategic plan and annual reports
 - not immediately evident whether it contains information about structure of Victoria city government
 	- may need to obtain information through email exchanges with the city
 - city council of Victoria is a government entity that can be described as group of people working together
 - study of groups has been undertaken for decades
-- Poole notes there is always a tension between focusing on group as whole versus individiual members [13]
-	- Group members' characteristics interact to produce group characteristics, which forms complex relationship at many levels "which leads to non-independence of individual data" [13]
+- Poole notes there is always a tension between focusing on group as whole versus individiual members [6]
+	- Group members' characteristics interact to produce group characteristics, which forms complex relationship at many levels "which leads to non-independence of individual data" [6]
 	- "some members influence each other strongly, whereas others are isolated from the group and exert little influence, and still others are somewhere in between." 
 	- complex nature of group dynamics means that any study will need to take into account behaviour of individual and communications of group
 - group dynamics change over time
@@ -94,16 +68,42 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- membership of council remains fixed, so do not have to track membership variation
 	- council is relatively small; many problems associated with observing communication behaviour of large groups will not be paramount
 - Ihkre notes taht local governments are more likely to innovate than governments at state or federal level
-	- because of "their small size and capacirty to make decisions quickly and decisively." [14]
-	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [15].
+	- because of "their small size and capacirty to make decisions quickly and decisively." [7]
+	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [8].
 	- potential is there to influence common good with our research by focusing on city council
-	- Walker says innovation is a core tasks of public institutions and that "innovation has been promoted around world as a key tool to improve public services" [16].
-	- local governments also get a lot of pressure to "do more with less" [16]
+	- Walker says innovation is a core tasks of public institutions and that "innovation has been promoted around world as a key tool to improve public services" [9].
+	- local governments also get a lot of pressure to "do more with less" [9]
 	- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
 - our methodology will be interview questions posed to city councilors as well as attending meetings
 	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
-	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [13]
+	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [6]
 	- interviews may procure false information because what members say may not match behaviour
+
+### CSCW Use in Government and Politics
+
+- as internet usage exploded, public sector realized the need to tap into these new technologies
+- three governmental relationships to consider[10]:
+	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
+	2. **Government to Business**: purchase for property, equipment, office supplies
+	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[11]
+- Stuttgart city council used Cuparla environment in 1998 to improve access to information and collaboration between council members
+- designed with aim to support political entities
+- supports functions such as information, communication, coordination, collaboration [12]
+<image here of Cuparla>
+- examples of other technologies being used by other municipal governments: 
+	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [13]
+	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [14]
+	- IVS-City Council software used in city council meetings during voting process, done with keypads [15]
+- some city councils work with software companies to provide solutions to public-sector requirements
+- example: Peterborough City Council working with XCD HR to automate number of manual HR processes [16]
+- lets employees take time normally spent on paperwork to focus on more crucial aspects of job
+- business benefits include:
+	- Immediate benefits/efficiency gains across the board (for HR, managers, and employees)
+	- Improved reporting capability with 24/7 up-to-date decision making data available to appropriate audience supporting CMT
+	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
+	- HR workload has become more manageable and CIPD skills put to better use
+	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
+<need transition into next section here> 
 
 ##	Methodology
 
@@ -155,8 +155,18 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 ### New Timeline
 | Date | Task to Complete | 
 |------|------------------|
-
+|November 3|Requests for Interview sent|
+|November 4|Oral update on project|
+|November 13|Interim Project Report|
+|November 20|Interviews will be Completed|
+|November 23|Transcripts will be Completed|
+|November 27|Data Analysis will be done|
+|December 2|Project Presentation|
+|December 4|Final Report|
+|December 4|Consultant�s Report|
 - transition into next section
+
+## Roles And Tasks Division
 
 ## Expected Results
 - expect to find out what technology council is currently using 
@@ -170,19 +180,19 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- hope to provide strong base to integrate further technologies in future
 ## References
 
-1. Tat-Kei Ho, A. (2002). Reinventing local governments and the e-government initiative. *Public administration review, 62*(4), 434-444.
-2. Reddick, C. G. (2004). A two-stage model of e-government growth: Theories and empirical evidence for US cities. *Government Information Quarterly, 21*(1), 51-64.
-3. Schwabe, G., & Krcmar, H. (2000). Digital material in a political work context-The case of Cuparla. *ECIS 2000 Proceedings*, 150.
-4. "Preston City Council selects Cadcorp SIS and GeognoSIS softare for its new corporate, web-based GIS" http://www.cadcorp.com/news-events/preston-city-council-selects-cadcorp-sis-and-geognosis-software-for-its-new Accessed on October 13, 2015. 
-5. Heath, N. "It's not just Munich: Open source gains new ground in Germany"  http://www.techrepublic.com/blog/european-technology/its-not-just-munich-open-source-gains-new-ground-in-germany/ Accessed on October 12, 2015
-6. "IVS City Council" https://www.ivsystem.nl/en/products-services/software/ivs-city-council-2/ Accessed October 13, 2015.
-7. "XCD HR teams with Peterborough City Council to provide software solution that transforms business operations as much as 4x" http://www.xcdhr.com/uncategorized/xcd-hr-teams-with-peterborough-city-council-to-provide-software-solution-that-transforms-business-operations-by-as-much-as-4x/ Accessed October 12, 2015.
-8. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
-9. Benyon, D., & Mival, O. (2015). Blended Spaces for Collaboration. *Computer Supported Collaborative Work (CSCW)*, 1-27.
-10. Sarda, S., Constable, M., Dauwels, J. Dauwels, S., Elgendi, M., Mengyu, Z., ... & Magnetat-Thalmann, N. (2014). Real-time feedback system for monitoring and faciliating discussions. *Natural Interaction with Robots, Knowbots and Smartphones* (pp. 375-387). Springer New York.
-11. Hayes, K., & Chang, S. (1990). The relative efficiency of city manager and mayor-council forms of government. *Southern Economic Journal*, 167-177. 
-12. Cheyne, C. (2004). Changing local political leadership: the New Zealand mayor in contemporary local governance. *Political Science, 56*(2) 51-64. 
-13. Poole, M. S., Keyton, J., & Frey, L. R. (1999). *Group communications methodology* (pp 92-112). L. R. Frey, D. S. Gouran, & M. S. Poole (Eds.). Thousand Oaks, CA: Sage Publications. 
-14. Ihrke, D., Proctor, R., & Gapris, J. (2003). Understanding innovation in municipal government: City council member perspectives. *Journal of Urban Affairs, 25*(1), 79-90. 
-15. Haus, M., & Sweeting, D. (2006). Local democracy and political leadership: Drawing a map. *Political studies, 54*(2), 267-288.
-16. Walker, R. M. (2006). Innovation type and diffusion: An empirical analysis of local government. *Public administration, 84*(2), 311-335.
+1. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
+2. Benyon, D., & Mival, O. (2015). Blended Spaces for Collaboration. *Computer Supported Collaborative Work (CSCW)*, 1-27.
+3. Sarda, S., Constable, M., Dauwels, J. Dauwels, S., Elgendi, M., Mengyu, Z., ... & Magnetat-Thalmann, N. (2014). Real-time feedback system for monitoring and faciliating discussions. *Natural Interaction with Robots, Knowbots and Smartphones* (pp. 375-387). Springer New York.
+4. Hayes, K., & Chang, S. (1990). The relative efficiency of city manager and mayor-council forms of government. *Southern Economic Journal*, 167-177. 
+5. Cheyne, C. (2004). Changing local political leadership: the New Zealand mayor in contemporary local governance. *Political Science, 56*(2) 51-64. 
+6. Poole, M. S., Keyton, J., & Frey, L. R. (1999). *Group communications methodology* (pp 92-112). L. R. Frey, D. S. Gouran, & M. S. Poole (Eds.). Thousand Oaks, CA: Sage Publications. 
+7. Ihrke, D., Proctor, R., & Gapris, J. (2003). Understanding innovation in municipal government: City council member perspectives. *Journal of Urban Affairs, 25*(1), 79-90. 
+8. Haus, M., & Sweeting, D. (2006). Local democracy and political leadership: Drawing a map. *Political studies, 54*(2), 267-288.
+9. Walker, R. M. (2006). Innovation type and diffusion: An empirical analysis of local government. *Public administration, 84*(2), 311-335.
+10. Tat-Kei Ho, A. (2002). Reinventing local governments and the e-government initiative. *Public administration review, 62*(4), 434-444.
+11. Reddick, C. G. (2004). A two-stage model of e-government growth: Theories and empirical evidence for US cities. *Government Information Quarterly, 21*(1), 51-64.
+12. Schwabe, G., & Krcmar, H. (2000). Digital material in a political work context-The case of Cuparla. *ECIS 2000 Proceedings*, 150.
+13. "Preston City Council selects Cadcorp SIS and GeognoSIS softare for its new corporate, web-based GIS" http://www.cadcorp.com/news-events/preston-city-council-selects-cadcorp-sis-and-geognosis-software-for-its-new Accessed on October 13, 2015. 
+14. Heath, N. "It's not just Munich: Open source gains new ground in Germany"  http://www.techrepublic.com/blog/european-technology/its-not-just-munich-open-source-gains-new-ground-in-germany/ Accessed on October 12, 2015
+15. "IVS City Council" https://www.ivsystem.nl/en/products-services/software/ivs-city-council-2/ Accessed October 13, 2015.
+16. "XCD HR teams with Peterborough City Council to provide software solution that transforms business operations as much as 4x" http://www.xcdhr.com/uncategorized/xcd-hr-teams-with-peterborough-city-council-to-provide-software-solution-that-transforms-business-operations-by-as-much-as-4x/ Accessed October 12, 2015.
