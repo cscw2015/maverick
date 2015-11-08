@@ -24,7 +24,7 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 - much of existing research about city governments is about how to improve government-citizen relations
 	- not as much on how technology plays a role in this, or if there is it's outdated
 - we want to focus on inter-governmental collaborations and how city coordinates itself to solve issues
-
+- research of this type can provide beneficial information to councillors on how to improve their operations, and provide transparency to citizens on how government collates information and develops laws for the city
 ## Related Work
 
 - goal with section: introduce CSCW usage in other sectors 
@@ -111,10 +111,12 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 
 ### B.C. Government: Current Issues with Transparency
 http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
+http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
 - needs to be talked about
 	- one-off incident? 
 	- systemic issue?
 - relation to Victoria city government, if any
+	- does geographic proximity lead municipal government to allow similar permissions for its council members?
 
 ##	Methodology
 
@@ -135,7 +137,7 @@ http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mail
 		- how do they allow for crowd contribution
 		- how is discussion moderated and facilitated
 
-< need more transitions > 
+<need more transitions> 
 
 ## Milestones
 
@@ -218,17 +220,26 @@ http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mail
 - while everyone has a defined "role" responsibilities do overlap a fair bit in the data collection itself
 	- intentional, to make sure everyone working on project has some sort of perspective on city operations
 
-## Expected Results
+## Impact
 
-- expect to find out what technology council is currently using 
-	- what this technology is used for in day-to-day operations and in meetings
-	- expect to identify the needs the councillors have, and whether technology meets all their needs
-	- make recommendations of software platforms that can shore up weaknesses we find in communication processes to help in efficiency
-- as researchers, expect to gain greater knowledge of Victoria city council and processes
-	- how processes of council relate to CSCW
-	- how council members relate to each other 
-	- expect to show city council what technology is out there
-	- hope to provide strong base to integrate further technologies in future
+- project can immediately offer two things:
+1. Outside perspective on current communication practices within the government, which may help identify flaws in communication practices
+2. Transparency on communication practices employed by the government, so controversies like the current BC government FOI requests can be avoided
+- scale and time frame of project don't allow for in-depth analysis
+	- similar studies could be conducted on other municipal governments, provincial governments or even federal
+	- larger time frame would allow for observation of different meetings and follow-up interviews
+
+## Preliminary Results
+
+- notes from city meetings here
+- small analysis of meetings
+
+## Remaining in Project
+
+- finish interviews with councillors
+	- most are scheduled
+- transcription of interviews
+
 
 ## References
 
