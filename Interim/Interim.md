@@ -40,7 +40,11 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- spaces allow for a more ergonomic environment for participants
 	- creates increased collaboration opportunities
 	- example of blended space using tablets, keyboards, laptops, wall-mounted touchscreens, video-conferencing, ambient lighting [2]
-	<insert Figure 2 here>
+	
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/CSCW--Blended%20spaces.png">
+</p>
+
 - Sarda et. al. propose system that engages a real-time feedback system to track speaking behaviours of participants in meetings [3]
 	- "talking mannerisms of individiuals play an important factor for meetings to be productive and achieve certain objectives" [3]
 	- keeping track of who is talking and when could help meeting run more efficiently
