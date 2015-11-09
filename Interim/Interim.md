@@ -13,15 +13,17 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- what technologies are used to prepare for the meetings
 	- how is agenda constructed?
 	- how are by-laws introduced, modified and finalized via technology?
-	- what is used *during* meetings to facilitate and share information
+	- how is the by-law process made transparent to the public
+	- what is used *during* meetings to facilitate and share information?
+	- what software is used for remote access to meetings?
 - methods of gathering:
 	- interviews with city councillors from Victoria
 	- smaller number of interviews with Vancouver city councillors (as a control group)
 	- attending public council meetings to see what current practices are
 - much of existing research about city governments is about how to improve government-citizen relations
 	- not as much on how technology plays a role in this, or if there is it's outdated
-- we want to focus on inter-governmental collaborations and how city coordinates itself to solve issues
-
+- we want to focus on inter-governmental collaborations and how city councillors coordinates themselves to solve issues
+- research of this type can provide beneficial information to councillors on how to improve their operations, and provide transparency to citizens on how government collates information and develops laws for the city
 ## Related Work
 
 - goal with section: introduce CSCW usage in other sectors 
@@ -52,6 +54,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - Victoria operates as mayor-council system, as opposed to council-manager system used in some municipalities [4]
 	- gives mayor additional powers; need to do more to understand full powers of mayor
 - as Cheyne notes, there are "weak mayors" without veto power and "strong mayors" [5]
+<still need to find out about which system Victoria has>
 - website for city of Victoria contains a number of documents such as strategic plan and annual reports
 - not immediately evident whether it contains information about structure of Victoria city government
 	- may need to obtain information through email exchanges with the city
@@ -67,14 +70,14 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- to mitigate, our group will attend two consecutive council meetings to note changes between
 	- membership of council remains fixed, so do not have to track membership variation
 	- council is relatively small; many problems associated with observing communication behaviour of large groups will not be paramount
-- Ihkre notes taht local governments are more likely to innovate than governments at state or federal level
-	- because of "their small size and capacirty to make decisions quickly and decisively." [7]
+- Ihkre notes that local governments are more likely to innovate than governments at state or federal level
+	- because of "their small size and capacity to make decisions quickly and decisively." [7]
 	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [8].
 	- potential is there to influence common good with our research by focusing on city council
 	- Walker says innovation is a core tasks of public institutions and that "innovation has been promoted around world as a key tool to improve public services" [9].
 	- local governments also get a lot of pressure to "do more with less" [9]
 	- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
-- our methodology will be interview questions posed to city councilors as well as attending meetings
+- our methodology will be interview questions posed to city councillors as well as attending meetings
 	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
 	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [6]
 	- interviews may procure false information because what members say may not match behaviour
@@ -105,6 +108,18 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
 <need transition into next section here> 
 
+<<<<<<< HEAD
+=======
+### B.C. Government: Current Issues with Transparency
+http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
+http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
+- needs to be talked about
+	- one-off incident? 
+	- systemic issue?
+- relation to Victoria city government, if any
+	- does geographic proximity lead municipal government to allow similar permissions for its council members?
+
+>>>>>>> origin/master
 ##	Methodology
 
 - collecting data from two main sources
@@ -124,7 +139,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		- how do they allow for crowd contribution
 		- how is discussion moderated and facilitated
 
-< need more transitions > 
+<need more transitions> 
 
 ## Milestones
 
@@ -168,6 +183,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 ## Roles And Tasks Division
 
+<<<<<<< HEAD
 ## Expected Results
 - expect to find out what technology council is currently using 
 	- what this technology is used for in day-to-day operations and in meetings
@@ -178,6 +194,66 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- how council members relate to each other 
 	- expect to show city council what technology is out there
 	- hope to provide strong base to integrate further technologies in future
+=======
+- previous document didn't highlight what roles each member would focus on in project
+- not all members attended city council meetings due to schedule conflicts 
+- not all members are conducting interviews due to time constraints and other obligations in the project
+
+####Kimberlee Graham-Knight: Group Leader
+- ensure all group members are fulfilling roles
+- regularly checks in with group members to answer questions and help resolve issues
+- delegation of tasks to other group members as required
+- conducting interviews on two city council members
+- attendance and observation of city council meetings
+
+####Roshni Jain: Data Analysis
+- transcription for interviews once audio files are available
+- overseeing analysis of data after transcription
+- literature review and background research
+- attendance and observation of city council meetings
+
+####Nigel Dufty: Data Collection
+- ensures any sensitive information (interview audio logs, transcripts) is kept on an encrypted USB stick
+- attendance and observation of city council meetings
+- interviews with two city council members
+
+####Tian Geng: Data Analysis
+- transcription for interviews once audio files are available
+- literature review and background research
+- interviews with two city council members
+
+####Myan Panikkar: Editor
+- ensures that all written deliverables (namely, reports) are coherent, cohesive and complete
+- spearheading writing of consultant report to council
+- delegation of report sections and report writing to ensure equitable division of work
+- questionnaire/interviews with Vancouver city council members
+- attendance and observation of city council meetings
+
+- while everyone has a defined "role" responsibilities do overlap a fair bit in the data collection itself
+	- intentional, to make sure everyone working on project has some sort of perspective on city operations
+
+## Impact
+
+- project can immediately offer two things:
+1. Outside perspective on current communication practices within the government, which may help identify flaws in communication practices
+2. Transparency on communication practices employed by the government, so controversies like the current BC government FOI requests can be avoided
+- scale and time frame of project don't allow for in-depth analysis
+	- similar studies could be conducted on other municipal governments, provincial governments or even federal
+	- larger time frame would allow for observation of different meetings and follow-up interviews
+
+## Preliminary Results
+
+- notes from city meetings here
+- small analysis of meetings
+
+## Remaining in Project
+
+- finish interviews with councillors
+	- most are scheduled
+- transcription of interviews
+
+
+>>>>>>> origin/master
 ## References
 
 1. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
