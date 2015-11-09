@@ -96,7 +96,11 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - Stuttgart city council used Cuparla environment in 1998 to improve access to information and collaboration between council members
 - designed with aim to support political entities
 - supports functions such as information, communication, coordination, collaboration [12]
-<image here of Cuparla>
+
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpeg">
+</p>
+
 - examples of other technologies being used by other municipal governments: 
 	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [13]
 	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [14]
