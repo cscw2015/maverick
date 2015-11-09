@@ -98,7 +98,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - supports functions such as information, communication, coordination, collaboration [12]
 
 <p align="center">
-<img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpeg">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpg">
 </p>
 
 - examples of other technologies being used by other municipal governments: 
