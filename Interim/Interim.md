@@ -1,6 +1,6 @@
 Analyzing and Modernizing Victoria City Council's Communications: An Interim Report
 ===================
-## Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, & Tian Geng
+## Group members: Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, & Tian Geng
 ## Introduction
 
 - goal is to discover what methods the city council of Victoria currently uses for collaboration and communication
@@ -96,11 +96,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - Stuttgart city council used Cuparla environment in 1998 to improve access to information and collaboration between council members
 - designed with aim to support political entities
 - supports functions such as information, communication, coordination, collaboration [12]
-
-<p align="center">
-<img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpg">
-</p>
-
+<image here of Cuparla>
 - examples of other technologies being used by other municipal governments: 
 	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [13]
 	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [14]
@@ -114,10 +110,8 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
 	- HR workload has become more manageable and CIPD skills put to better use
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
-
 <need transition into next section here> 
 
-<<<<<<< HEAD
 ### History of CSCW Use in Government
 
 ####Curparla
@@ -126,7 +120,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- the need of technology for support is analysed 
 	- then the system is developed
 	- then the system is implemented in the organization to serve the particular need.
-**Reasons behind to innovate Curparla **
+	**Reasons behind to innovate Curparla**
 	- Detailed analysis of Stuttgart city council work revealed the certain characteristics as shown below:
 		- Any time any place support to council members since they didnít had fix office location to prepare for city-hall meetings.
 		- Council members collaborate and behave differently in different contexts. Informal and open within their party groups and were more controlled and formal in official council meetings.
@@ -136,7 +130,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		- To bring effectiveness and flexibility in the work of the councils.
 		- To have more access to information by council members
 		- To reduce communication barriers between council and administration and within the council.
-**Methodology followed **
+	**Methodology followed**
 	- Detailed analysis of council work was done by Needs Driven Analysis .
 	- Need for group support was found which served the basis for the Curpala design.
 	- Implementation of the design within the council was done as a preliminary level.
@@ -144,18 +138,16 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		- In first cycle, the Curparla was tested by 11 city council members . And the results obtained from them are then used to do second analysis , design, implementation and evaluation phase.
 		- In the second cycle, this software was test 55 or 56 active city council members.
 		- A field test of Curparla was performed on the small city of Kornwestheim to determine the effectiveness of the tool.[17]
-**Curparla Software Design**
+	**Curparla Software Design**
 	- designed with aim to support political entities
 	- supports functions such as information, communication, coordination, collaboration
 	- Based on the city council actual work procedure, the design consist of  rooms : private room - where the council member works at home, party room - where he collaborates with his party colleagues , a room for committee meetings, a room for work groups, a private post office, and a library for filed information.
 	- Documents created in private room can be shared by placing in the corresponding room where he wants to share in.[18]
 <Figure of Curparla here>
-**Evaluation of Curparla**
+	**Evaluation of Curparla**
 	- Curparla was evaluated on five sets of criteria :Cost, Time, Quality , Flexibility and Human Situation  on four levels : Individual, Group, Process  and Organization as shown in the figure [19]
 <<<<<<< HEAD
 =======
-=======
->>>>>>> origin/master
 ### B.C. Government: Current Issues with Transparency
 http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
 http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
@@ -165,6 +157,7 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 - relation to Victoria city government, if any
 	- does geographic proximity lead municipal government to allow similar permissions for its council members?
 
+>>>>>>> origin/master
 ##	Methodology
 
 - collecting data from two main sources
@@ -223,12 +216,23 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 |November 27|Data Analysis will be done|
 |December 2|Project Presentation|
 |December 4|Final Report|
-|December 4|Consultant's Report|
-
+|December 4|Consultantís Report|
 - transition into next section
 
 ## Roles And Tasks Division
 
+<<<<<<< HEAD
+## Expected Results
+- expect to find out what technology council is currently using 
+	- what this technology is used for in day-to-day operations and in meetings
+	- expect to identify the needs the councillors have, and whether technology meets all their needs
+	- make recommendations of software platforms that can shore up weaknesses we find in communication processes to help in efficiency
+- as researchers, expect to gain greater knowledge of Victoria city council and processes
+	- how processes of council relate to CSCW
+	- how council members relate to each other 
+	- expect to show city council what technology is out there
+	- hope to provide strong base to integrate further technologies in future
+=======
 - previous document didn't highlight what roles each member would focus on in project
 - not all members attended city council meetings due to schedule conflicts 
 - not all members are conducting interviews due to time constraints and other obligations in the project
@@ -286,6 +290,8 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 	- most are scheduled
 - transcription of interviews
 
+
+>>>>>>> origin/master
 ## References
 
 1. Sch√ºmmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
