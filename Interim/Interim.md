@@ -16,14 +16,16 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 	- what technologies are used to prepare for the meetings
 	- how is agenda constructed?
 	- how are by-laws introduced, modified and finalized via technology?
-	- what is used *during* meetings to facilitate and share information
+	- how is the by-law process made transparent to the public
+	- what is used *during* meetings to facilitate and share information?
+	- what software is used for remote access to meetings?
 - methods of gathering:
 	- interviews with city councillors from Victoria
 	- smaller number of interviews with Vancouver city councillors (as a control group)
 	- attending public council meetings to see what current practices are
 - much of existing research about city governments is about how to improve government-citizen relations
 	- not as much on how technology plays a role in this, or if there is it's outdated
-- we want to focus on inter-governmental collaborations and how city coordinates itself to solve issues
+- we want to focus on inter-governmental collaborations and how city councillors coordinates themselves to solve issues
 - research of this type can provide beneficial information to councillors on how to improve their operations, and provide transparency to citizens on how government collates information and develops laws for the city
 ## Related Work
 
@@ -31,7 +33,7 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 
 ### CSCW in Meetings
 
-- according to Schümmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
+- according to SchÃ¼mmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
 	- the peopleware perspective, the design of social processes that are executed by team members,
 	- the generic groupware perspective for designing supportive software tools, and
 	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1]
@@ -55,6 +57,7 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 - Victoria operates as mayor-council system, as opposed to council-manager system used in some municipalities [4]
 	- gives mayor additional powers; need to do more to understand full powers of mayor
 - as Cheyne notes, there are "weak mayors" without veto power and "strong mayors" [5]
+<still need to find out about which system Victoria has>
 - website for city of Victoria contains a number of documents such as strategic plan and annual reports
 - not immediately evident whether it contains information about structure of Victoria city government
 	- may need to obtain information through email exchanges with the city
@@ -70,14 +73,14 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 	- to mitigate, our group will attend two consecutive council meetings to note changes between
 	- membership of council remains fixed, so do not have to track membership variation
 	- council is relatively small; many problems associated with observing communication behaviour of large groups will not be paramount
-- Ihkre notes taht local governments are more likely to innovate than governments at state or federal level
-	- because of "their small size and capacirty to make decisions quickly and decisively." [7]
+- Ihkre notes that local governments are more likely to innovate than governments at state or federal level
+	- because of "their small size and capacity to make decisions quickly and decisively." [7]
 	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [8].
 	- potential is there to influence common good with our research by focusing on city council
 	- Walker says innovation is a core tasks of public institutions and that "innovation has been promoted around world as a key tool to improve public services" [9].
 	- local governments also get a lot of pressure to "do more with less" [9]
 	- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
-- our methodology will be interview questions posed to city councilors as well as attending meetings
+- our methodology will be interview questions posed to city councillors as well as attending meetings
 	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
 	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [6]
 	- interviews may procure false information because what members say may not match behaviour
@@ -243,7 +246,7 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 
 ## References
 
-1. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
+1. SchÃ¼mmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
 2. Benyon, D., & Mival, O. (2015). Blended Spaces for Collaboration. *Computer Supported Collaborative Work (CSCW)*, 1-27.
 3. Sarda, S., Constable, M., Dauwels, J. Dauwels, S., Elgendi, M., Mengyu, Z., ... & Magnetat-Thalmann, N. (2014). Real-time feedback system for monitoring and faciliating discussions. *Natural Interaction with Robots, Knowbots and Smartphones* (pp. 375-387). Springer New York.
 4. Hayes, K., & Chang, S. (1990). The relative efficiency of city manager and mayor-council forms of government. *Southern Economic Journal*, 167-177. 
