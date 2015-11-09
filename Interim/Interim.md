@@ -186,9 +186,12 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 ### B.C. Government: Current Issues with Transparency
 http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
 http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
+http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts-rcmp-after-scathing-report/article26926616/ <not cited yet>
+
 - needs to be talked about
-	- one-off incident? 
-	- systemic issue?
+	- is definitely a systemic issue, BC government appears to routinely delete emails it considers "transitory" and responds to freedom of information requests verbally so that there is no written record of the response
+	- need to get better systems in place to ensure written records of requests
+	- need to limit power of executives in order to ensure important documents to not end up being deleted
 - relation to Victoria city government, if any
 	- does geographic proximity lead municipal government to allow similar permissions for its council members?
 
