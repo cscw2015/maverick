@@ -1,6 +1,6 @@
 Analyzing and Modernizing Victoria City Council's Communications: An Interim Report
 ===================
-## Group members: Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, & Tian Geng
+## Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, & Tian Geng
 ## Introduction
 
 - goal is to discover what methods the city council of Victoria currently uses for collaboration and communication
@@ -96,7 +96,11 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - Stuttgart city council used Cuparla environment in 1998 to improve access to information and collaboration between council members
 - designed with aim to support political entities
 - supports functions such as information, communication, coordination, collaboration [12]
-<image here of Cuparla>
+
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpg">
+</p>
+
 - examples of other technologies being used by other municipal governments: 
 	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [13]
 	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [14]
@@ -110,8 +114,10 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
 	- HR workload has become more manageable and CIPD skills put to better use
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
+
 <need transition into next section here> 
 
+<<<<<<< HEAD
 ### History of CSCW Use in Government
 
 ####Curparla
@@ -148,6 +154,8 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Curparla was evaluated on five sets of criteria :Cost, Time, Quality , Flexibility and Human Situation  on four levels : Individual, Group, Process  and Organization as shown in the figure [19]
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/master
 ### B.C. Government: Current Issues with Transparency
 http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
 http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
@@ -157,7 +165,6 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 - relation to Victoria city government, if any
 	- does geographic proximity lead municipal government to allow similar permissions for its council members?
 
->>>>>>> origin/master
 ##	Methodology
 
 - collecting data from two main sources
@@ -216,23 +223,12 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 |November 27|Data Analysis will be done|
 |December 2|Project Presentation|
 |December 4|Final Report|
-|December 4|Consultantís Report|
+|December 4|Consultant's Report|
+
 - transition into next section
 
 ## Roles And Tasks Division
 
-<<<<<<< HEAD
-## Expected Results
-- expect to find out what technology council is currently using 
-	- what this technology is used for in day-to-day operations and in meetings
-	- expect to identify the needs the councillors have, and whether technology meets all their needs
-	- make recommendations of software platforms that can shore up weaknesses we find in communication processes to help in efficiency
-- as researchers, expect to gain greater knowledge of Victoria city council and processes
-	- how processes of council relate to CSCW
-	- how council members relate to each other 
-	- expect to show city council what technology is out there
-	- hope to provide strong base to integrate further technologies in future
-=======
 - previous document didn't highlight what roles each member would focus on in project
 - not all members attended city council meetings due to schedule conflicts 
 - not all members are conducting interviews due to time constraints and other obligations in the project
@@ -290,8 +286,6 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 	- most are scheduled
 - transcription of interviews
 
-
->>>>>>> origin/master
 ## References
 
 1. Sch√ºmmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
