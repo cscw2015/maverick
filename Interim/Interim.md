@@ -112,6 +112,40 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
 <need transition into next section here> 
 
+### History of CSCW Use in Government
+
+####Curparla
+
+- Number of socio-tech  projects are coming on a timely manner to improve the city council administration in terms of effective communication by following the below level of practices:
+	- the need of technology for support is analysed 
+	- then the system is developed
+	- then the system is implemented in the organization to serve the particular need.
+**Reasons behind to innovate Curparla **
+	- Detailed analysis of Stuttgart city council work revealed the certain characteristics as shown below:
+		- Any time any place support to council members since they didn’t had fix office location to prepare for city-hall meetings.
+		- Council members collaborate and behave differently in different contexts. Informal and open within their party groups and were more controlled and formal in official council meetings.
+		- No proper structure was followed in communication i.e each member had right to initiate and involve other members of the administration in any order.
+		- The usage of computers were not much within the council .
+	- Objective of the Curparla Project was
+		- To bring effectiveness and flexibility in the work of the councils.
+		- To have more access to information by council members
+		- To reduce communication barriers between council and administration and within the council.
+**Methodology followed **
+	- Detailed analysis of council work was done by Needs Driven Analysis .
+	- Need for group support was found which served the basis for the Curpala design.
+	- Implementation of the design within the council was done as a preliminary level.
+	- After few months, the analysis of the Curparla usage was performed in two cycles:
+		- In first cycle, the Curparla was tested by 11 city council members . And the results obtained from them are then used to do second analysis , design, implementation and evaluation phase.
+		- In the second cycle, this software was test 55 or 56 active city council members.
+		- A field test of Curparla was performed on the small city of Kornwestheim to determine the effectiveness of the tool.[17]
+**Curparla Software Design**
+	- designed with aim to support political entities
+	- supports functions such as information, communication, coordination, collaboration
+	- Based on the city council actual work procedure, the design consist of  rooms : private room - where the council member works at home, party room - where he collaborates with his party colleagues , a room for committee meetings, a room for work groups, a private post office, and a library for filed information.
+	- Documents created in private room can be shared by placing in the corresponding room where he wants to share in.[18]
+<Figure of Curparla here>
+**Evaluation of Curparla**
+	- Curparla was evaluated on five sets of criteria :Cost, Time, Quality , Flexibility and Human Situation  on four levels : Individual, Group, Process  and Organization as shown in the figure [19]
 <<<<<<< HEAD
 =======
 ### B.C. Government: Current Issues with Transparency
@@ -276,3 +310,6 @@ http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project
 14. Heath, N. "It's not just Munich: Open source gains new ground in Germany"  http://www.techrepublic.com/blog/european-technology/its-not-just-munich-open-source-gains-new-ground-in-germany/ Accessed on October 12, 2015
 15. "IVS City Council" https://www.ivsystem.nl/en/products-services/software/ivs-city-council-2/ Accessed October 13, 2015.
 16. "XCD HR teams with Peterborough City Council to provide software solution that transforms business operations as much as 4x" http://www.xcdhr.com/uncategorized/xcd-hr-teams-with-peterborough-city-council-to-provide-software-solution-that-transforms-business-operations-by-as-much-as-4x/ Accessed October 12, 2015.
+17. Schwabe, G., & Krcmar, H. (2000). Piloting Socio-Technical Innovation. ECIS 2000 Proceedings, 27.
+18. Schwabe, G., & Krcmar, H. (2000). Digital material in a political work context-The case of Cuparla. ECIS 2000 Proceedings, 150.
+19. http://www.zora.uzh.ch/57144/1/20120125131854_merlin-id_3158.pdf
