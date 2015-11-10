@@ -213,11 +213,7 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 
 ## Milestones
 
-- old milestones alongside current status
-- talk about why certain issues are pending
-- what adjusting date of completing for interviews means (is it a setback?)
-- old table doesn't address when we plan to have transcriptions done of interviews
-- old table doesn't address when we plan to give city council a report
+The following table outlines our previous milestones and our progress on these milestones as of November 4th (when we gave an oral update on our project). Many of our milestones were met successfully, but a few issues arose when we compared our progress to our initial timeline draft. 
 
 ### Status on Original Milestones
 
@@ -235,8 +231,15 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 |December 2| Project Presentation | N/A | 
 |December 4| Project Report Finalized | N/A |
 
-- have a new table below, with all the adjusted dates
-- explain reasoning behind adjusting each date
+One of the more visible issues that can be seen from this table pertains to the interviews. Specifically, we intended to send out requests for interviews on October 19 (when we planned to have our ethics application completed) but we did not complete this until November 4th. While we recognize that our initial deadline was ambitious, leaving our requests for interview until this past week does set us back slightly. Combine this with our increased number of interviews planned and our next deadlines become much stricter. Our new planned date to complete interviews is November 20th. Part of the reason we chose this date pertains to our next issue.
+
+The next issue that this table fails to address is when we plan to have the data from our interviews transcribed. As we plan to do eight interviews in total, transcribing these interviews will take a considerable amount of time. However, we do not have a considerable amount of time available to complete the interviews, transcribe the interviews, interpret their results and propose possible changes to the city's technological setup (if necessary). Currently, we plan to transcribe interviews as we finish. We do need to set a final date for when we want these transcriptions to be complete, so to allow ourselves enough time to analyze the data we chose November 23rd as the final date for interview transcriptions to be completed. 
+
+A third issue that that isn't visible from looking at this table is that we never detailed what would be given to the city council of Victoria as a final deliverable, nor did we state when such a deliverable would be completed and delivered to the city. To address this, we chose to develop a non-academic report to deliver to the city council of Victoria. This report will be less formal in nature and will not contain as many of the academic citations as our final report will, but it will follow a similar structure in order to highlight our findings from the interviews we plan to conduct. 
+
+- may also give a power point presentation on our findings; still in the air 
+
+Given these issues, we made amendments to our timeline from November 4th and beyond. The following table details the changes we previously described in our timeline. 
 
 ### New Timeline
 | Date | Task to Complete | 
