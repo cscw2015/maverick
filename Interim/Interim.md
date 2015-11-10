@@ -2,7 +2,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 ===================
 ## Group members 
 
-Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
+Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 
 ## Introduction
 
@@ -27,6 +27,7 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 	- not as much on how technology plays a role in this, or if there is it's outdated
 - we want to focus on inter-governmental collaborations and how city councillors coordinates themselves to solve issues
 - research of this type can provide beneficial information to councillors on how to improve their operations, and provide transparency to citizens on how government collates information and develops laws for the city
+
 ## Related Work
 
 - goal with section: introduce CSCW usage in other sectors 
@@ -110,7 +111,72 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Pamikkar, Nigel Dufty, Tian Geng
 	- HR workload has become more manageable and CIPD skills put to better use
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
 
-<need transition into next section here> 
+###History of CSCW Use in Government
+
+####Cuparla
+
+- Number of socio-tech  projects are coming on a timely manner to improve the city council administration in terms of effective communication by following the below level of practices:
+	1. the need of technology for support is analysed 
+	2. then the system is developed
+	3. then the system is implemented in the organization to serve the particular need.
+
+#####Creating Cuparla
+
+- Detailed analysis of Stuttgart city council work revealed certain characteristics as shown below:
+	- Any time any place support to council members since they didn't have fixed office location to prepare for city-hall meetings.
+	- Council members collaborate and behave differently in different contexts. Informal and open within their party groups and were more controlled and formal in official council meetings.
+	- No proper structure was followed in communication; each member had right to initiate and involve other members of the administration in any order.
+	- Minimal computer usage within council itself
+- Objective of the Cuparla Project was
+	- To bring effectiveness and flexibility in the work of the councils.
+	- To have more access to information by council members
+	- To reduce communication barriers between council and administration and within the council.
+
+#####Methodology used in developing Cuparla
+
+- Detailed analysis of council work was done by Needs Driven Analysis
+- Need for group support was found which served the basis for the Cuparla design.
+- Implementation of the design within the council was done as a preliminary level.
+- After few months, the analysis of the Cuparla usage was performed in two cycles:
+	- In first cycle, the Cuparla was tested by 11 city council members
+		- results obtained from them are then used to do second analysis, design, implementation and evaluation phase
+	- In the second cycle, this software was tested on 55 or 56 active city council members
+- A field test of Cuparla was performed on the small city of Kornwestheim to determine the effectiveness of the tool [17]
+	
+#####Cuparla Software Design
+
+- designed with aim to support political entities
+- supports functions such as information, communication, coordination, collaboration
+- Based on the city council actual work procedure, the design consist of rooms, shown in figure below: 
+	- private room - where the council member works at home 
+	- party room - where council member collaborates with their party colleagues
+	- room for committee meetings
+	- room for work groups
+	- private post office
+	- library for filed information
+- Documents created in private room can be shared by placing in the room they wish to share in [18]
+
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpg">
+</p>
+
+##### Evaluation of Cuparla
+
+- Cuparla was evaluated on five sets of criteria and four levels of aggregation[19]: 
+	- Cost 
+	- Time
+	- Quality
+	- Flexibility
+	- Human Situation, further evaluated on: Individual, Group, Process Organization
+- criteria and levels of aggregation aligned to create a 4x5 matrix, shown below
+
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/Evaluation of Curparla.png">
+</p>
+
+- any notes made in eval were attributed only to lowest applicable level
+	- e.g. costs of server are attributed to **group**, PC in office is attributed to individual **user**
+	- seems to be an effort to reduce redundancy in data from evaluation
 
 ### B.C. Government: Current Issues with Transparency
 http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
