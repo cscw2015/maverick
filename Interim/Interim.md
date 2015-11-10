@@ -245,14 +245,15 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 	- councillors indicate they would like to speak by raising hand
 	- mayor writes down a list on paper of which councillor(s) are speaking next
 	- people presenting give slides to council beforehand
-	-  
 - small analysis of meetings
 
 ## Remaining in Project
 
 - finish interviews with councillors
 	- most are scheduled
-- transcription of interviews
+	- will be pursuing people who aren't necessarily city councillors
+- transcription of interviews: preliminary data analysis at same time as transcription
+- analysis of data
 
 
 ## References
