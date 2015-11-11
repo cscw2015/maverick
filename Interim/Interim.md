@@ -211,7 +211,52 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 
 <need more transitions> 
 
-## Milestones
+## Impact
+
+- project can immediately offer two things:
+1. Outside perspective on current communication practices within the government, which may help identify flaws in communication practices
+2. Transparency on communication practices employed by the government, so controversies like the current BC government FOI requests can be avoided
+- scale and time frame of project don't allow for in-depth analysis
+	- similar studies could be conducted on other municipal governments, provincial governments or even federal
+	- larger time frame would allow for observation of different meetings and follow-up interviews
+
+## Preliminary Results
+
+- some notes from meetings
+	- all councillors are already using laptops/tablets at the meetings
+	- start meetings by announcing changes to agenda from when it was published
+	- many items on the agenda are "late items"
+	- voting is done by simple hand raise
+	- councillors indicate they would like to speak by raising hand
+	- mayor writes down a list on paper of which councillor(s) are speaking next
+	- people presenting give slides to council beforehand
+- small analysis of meetings
+
+## Remaining in Project
+
+- finish interviews with councillors
+	- most are scheduled
+	- will be pursuing people who aren't necessarily city councillors
+- transcription of interviews: preliminary data analysis at same time as transcription
+- analysis of data
+
+## Appendix 1: Team Roles
+
+####Kimberlee Graham-Knight: Group Leader
+Kimberlee is taking on the role of group leader. She is responsible for regularly checking in on each group member to ensure that they are fulfilling their roles and that any issues or questions they have can be addressed as soon as possible. This includes delegating tasks as necessary. Kimberlee is also responsible for conducting some of our interviews with city councillors, and has attended some of the city council meetings to help establish a background for our research. 
+
+####Roshni Jain: Data Analysis
+Roshni is responsible for overseeing the analysis of all the data we collect from interviews. As interviews are completed, she and Tian will be transcribing the audio recordings provided from these interviews. After all the transcriptions are completed, Roshni <>. Roshni is also responsible for reviewing any relevant literature and collating the background research necessary to ground this project and give it context. To assist with providing context, Roshni has attended some of the city council meetings. 
+####Nigel Dufty: Data Collection
+Nigel is responsible for a majority of the data collection involved in the project. He is working with Kimberlee and Tian to organize and conduct interviews of Victoria city council members. To ensure that the audio files from the interviews are kept secure, Nigel is acting as an intermediary for transferring audio from the interviews to Roshni and Tian via an encrypted USB stick. Nigel has also attended city council meetings to help provide context for interviews and for our background research. 
+
+####Tian Geng: Data Analysis
+Tian is working with Roshni to create transcriptions of interviews as they are completed. He is also working with Kimberlee and Nigel to conduct interviews of city council members of Victoria. Tian is also responsible for conducting literature review alongside Roshni. 
+
+####Myan Panikkar: Editor
+Myan is responsible for all written deliverables in the project. As the primary editor, his job is to ensure that documents needed for the project are coherent, cohesive, and that they are delivered as complete products. This involves some leadership alongside Kimberlee, namely for delegating section content amongst group members as necessary. Myan will also be writing and designing the consultant report that our group intends to deliver to the city council after our interview data has been analyzed. <may do questionnaire for Vancouver still> Myan also attended city council meetings to help provide background research. 
+
+## Appendix 2: Milestones
 
 The following table outlines our previous milestones and our progress on these milestones as of November 4th (when we gave an oral update on our project). Many of our milestones were met successfully, but a few issues arose when we compared our progress to our initial timeline draft. 
 
@@ -253,77 +298,6 @@ Given these issues, we made amendments to our timeline from November 4th and bey
 |December 2|Project Presentation|
 |December 4|Final Report|
 |December 4|Consultant's Report|
-
-- given that some of these deadlines involve much more work than others, work has to be split up
-
-## Roles And Tasks Division
-
-- previous document didn't highlight what roles each member would focus on in project
-- not all members attended city council meetings due to schedule conflicts 
-- not all members are conducting interviews due to time constraints and other obligations in the project
-
-####Kimberlee Graham-Knight: Group Leader
-- ensure all group members are fulfilling roles
-- regularly checks in with group members to answer questions and help resolve issues
-- delegation of tasks to other group members as required
-- conducting interviews on two city council members
-- attendance and observation of city council meetings
-
-####Roshni Jain: Data Analysis
-- transcription for interviews once audio files are available
-- overseeing analysis of data after transcription
-- literature review and background research
-- attendance and observation of city council meetings
-
-####Nigel Dufty: Data Collection
-- ensures any sensitive information (interview audio logs, transcripts) is kept on an encrypted USB stick
-- attendance and observation of city council meetings
-- interviews with two city council members
-
-####Tian Geng: Data Analysis
-- transcription for interviews once audio files are available
-- literature review and background research
-- interviews with two city council members
-
-####Myan Panikkar: Editor
-- ensures that all written deliverables (namely, reports) are coherent, cohesive and complete
-- spearheading writing of consultant report to council
-- delegation of report sections and report writing to ensure equitable division of work
-- questionnaire/interviews with Vancouver city council members
-- attendance and observation of city council meetings
-
-- while everyone has a defined "role" responsibilities do overlap a fair bit in the data collection itself
-	- intentional, to make sure everyone working on project has some sort of perspective on city operations
-
-## Impact
-
-- project can immediately offer two things:
-1. Outside perspective on current communication practices within the government, which may help identify flaws in communication practices
-2. Transparency on communication practices employed by the government, so controversies like the current BC government FOI requests can be avoided
-- scale and time frame of project don't allow for in-depth analysis
-	- similar studies could be conducted on other municipal governments, provincial governments or even federal
-	- larger time frame would allow for observation of different meetings and follow-up interviews
-
-## Preliminary Results
-
-- some notes from meetings
-	- all councillors are already using laptops/tablets at the meetings
-	- start meetings by announcing changes to agenda from when it was published
-	- many items on the agenda are "late items"
-	- voting is done by simple hand raise
-	- councillors indicate they would like to speak by raising hand
-	- mayor writes down a list on paper of which councillor(s) are speaking next
-	- people presenting give slides to council beforehand
-- small analysis of meetings
-
-## Remaining in Project
-
-- finish interviews with councillors
-	- most are scheduled
-	- will be pursuing people who aren't necessarily city councillors
-- transcription of interviews: preliminary data analysis at same time as transcription
-- analysis of data
-
 
 ## References
 
