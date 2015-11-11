@@ -178,6 +178,37 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 	- e.g. costs of server are attributed to **group**, PC in office is attributed to individual **user**
 	- seems to be an effort to reduce redundancy in data from evaluation
 
+####Government 2.0
+
+- Government 2.0 , reflecting the concept of web 2.0 [20] is the extension of the Web 1.0 technologies (which are already been in use by most of the city councils under e-government). 
+- Web 2.0 emphasis to e-democracy wherein multimodal, non-hierarchal, collaborative and deliberative networks can be built .
+- It emphasize on  more interactive process with the potential use of media for promoting citizen participation . [21]
+
+#####Research strategies followed
+ 
+- The following questions were asked :
+	- “Are web 2.0 applications relevant for the government context?
+	- If they are, in what way is web 2.0 likely to have an impact on government?
+	- How significant could this impact be?
+	- How are web 2.0 applications implemented in the government context?”
+- To answer the above questions, the below methods are followed:
+	- “A web survey of existing innovative web 2.0 initiatives in government-related activities was conducted 
+	- A desk-based review of existing web 2.0 applications in the private sector, in order to understand applications that could also have potential for government
+	- A set of case studies of existing experiences, based on desk research and interviews with the project managers.”
+
+#####Research Findings:
+- The methods followed helped them to find following results:
+	- It gave an overview where the web 2.0 technologies can be used
+	- How each of the domains could get impacted  through the adoption of web 2.0 applications.
+
+#####Impact of Web 2.0 on Government:
+<Figure>
+- Here, users are both civil servants and citizens.
+	- The centre circle represents group of users who are active in designing and delivering the service. The web 2.0 is used by analysts to create wiki-based intelligence reports in Intellipedia, or citizens creating a new petition online.
+	- The second circle represents the group of users who play a fundamental role in ensuring the quality and relevance of content submitted by other users.For example: the rating of evidence submitted to Peer-to-Patent
+	- The third circle represents the users who used the web 2.0 applications and get benefitted from the other user’s services.For instance, review on any e-petition by other users helped the users to come up with some decision.
+	- The fourth circle represents to those who used the online services to get the quality data without any voluntary engagement.”In the private sector, a classic example is the "most read articles" page in online newspapers”.[22]
+
 ### B.C. Government: Current Issues with Transparency
 http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
 http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
@@ -317,3 +348,10 @@ Given these issues, we made amendments to our timeline from November 4th and bey
 14. Heath, N. "It's not just Munich: Open source gains new ground in Germany"  http://www.techrepublic.com/blog/european-technology/its-not-just-munich-open-source-gains-new-ground-in-germany/ Accessed on October 12, 2015
 15. "IVS City Council" https://www.ivsystem.nl/en/products-services/software/ivs-city-council-2/ Accessed October 13, 2015.
 16. "XCD HR teams with Peterborough City Council to provide software solution that transforms business operations as much as 4x" http://www.xcdhr.com/uncategorized/xcd-hr-teams-with-peterborough-city-council-to-provide-software-solution-that-transforms-business-operations-by-as-much-as-4x/ Accessed October 12, 2015.
+17. Schwabe, G., & Krcmar, H. (2000). Piloting Socio-Technical Innovation. ECIS 2000 Proceedings, 27.
+18. Schwabe, G., & Krcmar, H. (2000). Digital material in a political work context-The case of Cuparla. ECIS 2000 Proceedings, 150.
+19. Schwage, G. (2000). From Analysis to Evaluation - The Case of Cuparla. Found online: [http://www.zora.uzh.ch/57144/1/20120125131854_merlin-id_3158.p](http://www.zora.uzh.ch/57144/1/20120125131854_merlin-id_3158.p)
+20. Reddick, C. G. (Ed.). (2010). Politics, Democracy and E-Government: Participation and Service Delivery: Participation and Service Delivery. IGI Global.
+21. Kloby, K. (Ed.). (2012). Citizen 2.0: Public and Governmental Interaction through Web 2.0 Technologies: Public and Governmental Interaction Through Web 2.0 Technologies. IGI Global.
+22. Osimo, D. (2008). Web 2.0 in government: Why and how. Institute for Prospectice Technological Studies (IPTS), JRC, European Commission, EUR, 23358.
+
