@@ -32,11 +32,10 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 
 ### CSCW in Meetings
 
-- according to SchÃ¼mmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
+- according to Schümmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
 	- the peopleware perspective, the design of social processes that are executed by team members,
 	- the generic groupware perspective for designing supportive software tools, and
 	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1]
-<insert figure here>
 
 ### Local Government Innovation
 
@@ -55,10 +54,6 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
 	2. **Government to Business**: purchase for property, equipment, office supplies
 	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[11]
-- Stuttgart city council used Cuparla environment in 1998 to improve access to information and collaboration between council members
-- designed with aim to support political entities
-- supports functions such as information, communication, coordination, collaboration [12]
-<image here of Cuparla>
 - examples of other technologies being used by other municipal governments: 
 	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [13]
 	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [14]
@@ -86,12 +81,12 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 
 #####Creating Cuparla
 
-- Detailed analysis of Stuttgart city council work revealed certain characteristics as shown below:
-	- Any time any place support to council members since they didn't have fixed office location to prepare for city-hall meetings.
+- Detailed analysis of Stuttgart city council work revealed certain characteristics
+	- Any time any place support to council members was required since they didn't have fixed office locations to prepare for city-hall meetings.
 	- Council members collaborate and behave differently in different contexts. Informal and open within their party groups and were more controlled and formal in official council meetings.
-	- No proper structure was followed in communication; each member had right to initiate and involve other members of the administration in any order.
+	- No proper structure was followed in communication; each member had right to initiate and involve other members of the administration in any order
 	- Minimal computer usage within council itself
-- Objective of the Cuparla Project was
+- Objectives of the Cuparla Project:
 	- To bring effectiveness and flexibility in the work of the councils.
 	- To have more access to information by council members
 	- To reduce communication barriers between council and administration and within the council.
@@ -142,12 +137,13 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 	- e.g. costs of server are attributed to **group**, PC in office is attributed to individual **user**
 	- seems to be an effort to reduce redundancy in data from evaluation
 
-####Open-source
+####Open Source
 
-- FOSS = “free, open-source software” “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [23]
-- can save significant amounts of money, but the cost of migration, including training of employees, must be taken into account.
+- FOSS = “free, open-source software” 
+- “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [23]
+- can save significant amounts of money, but the cost of migration, including training of employees, must be taken into account
 
-#####Reasons Behind Innovating with Open-Source
+#####Reasons Behind Innovating with Open Source
 - migrating to a new system involves risks, so it's often a top-down approach by politicians. [23]
 - "factors that influence innovation:
 	1. pressure from legislators or politicians; 
@@ -155,18 +151,18 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 	3. crises or visible public failures; 
 	4. internal failings such as an inability to coordinate across departments or meet the demands of a program;
 	5. new opportunities that occur through development of new technologies or other factors.” [23]
-- independence [23]
-- effectiveness [23]
-- cost savings [23]
+- independence
+- effectiveness 
+- cost savings 
 - In the case of Munich, Microsoft discontinued its support for Windows NT [24]
 - greater vendor independence (more competition in the software market) [24]
 - "future-proofness" of open protocols, data formats and interfaces [24]
 
-#####Methodology to evaluate usage of open-source:
+#####Methodology to evaluate usage of open source
 - semi-structured interviews [23]
 - “The interview instrument consisted of a set of identical questions related to motivation, implementation, and results. Each questionnaire also contained a set of questions specific to the position of the interviewee. To facilitate coding and analysis of the interviews I used N-Vivo, a qualitative analysis software program. I also relied on internal reports, audits, and news releases published by each city to develop the necessary background for the research and to substantiate information collected through interviews. Finally, I surveyed news accounts to corroborate data produced by the cities and the interviews” [23]
 
-#####Implementation of Open-Source in Munich:
+#####Implementation of OpenSource in Munich:
 - “The alternatives were: 
 	1. MS XP + MS Office XP 
 	2. MS XP + OpenOffice 
@@ -182,47 +178,53 @@ Both transitional solutions presented architectural and operational complexities
 	4. the project had to have the support of both political leadership and heads of the administration; 
 	5. proactive education and involvement of employees would be essential” [24]
 
-######Timeline 
-- November 2001: Munich decided to investigate open-source options in operating systems and office suites. [24]
-- April 2002: Commissioned a consulting company for options. [24]
-- May 2003: Made the decision to migrate to open-source software and web applications. [24]
-- 2004: Migration to open-source began. [24]
-- Note: The first city to use open-source was Schwäbisch Hall in Baden-Würtemberg, who migrated their servers in 2002 and all their desktops in 2004. [24]
+######Timeline for Munich's Migration
+- November 2001: Munich decided to investigate open-source options in operating systems and office suites
+- April 2002: Commissioned a consulting company for options
+- May 2003: Made the decision to migrate to open-source software and web applications.
+- 2004: Migration to open-source began.
+- Note: The first city to use open-source was Schwäbisch Hall in Baden-Würtemberg, who migrated their servers in 2002 and all their desktops in 2004 [24]
 
 ####Government 2.0
 
 - Government 2.0 , reflecting the concept of web 2.0 [20] is the extension of the Web 1.0 technologies (which are already been in use by most of the city councils under e-government). 
-- Web 2.0 emphasis to e-democracy wherein multimodal, non-hierarchal, collaborative and deliberative networks can be built .
-- It emphasize on  more interactive process with the potential use of media for promoting citizen participation . [21]
+- Web 2.0 emphasis to e-democracy wherein multimodal, non-hierarchal, collaborative and deliberative networks can be built.
+- It emphasizes a more interactive process with the potential use of media for promoting citizen participation. [21]
 
 #####Research strategies followed
  
-- The following questions were asked :
-	- Are web 2.0 applications relevant for the government context?
+- The following questions were asked:
+	- Are web 2.0 applications relevant for the government context?
 	- If they are, in what way is web 2.0 likely to have an impact on government?
 	- How significant could this impact be?
-	- How are web 2.0 applications implemented in the government context?
+	- How are web 2.0 applications implemented in the government context?
 - To answer the above questions, the below methods are followed:
-	- A web survey of existing innovative web 2.0 initiatives in government-related activities was conducted 
+	- A web survey of existing innovative web 2.0 initiatives in government-related activities was conducted 
 	- A desk-based review of existing web 2.0 applications in the private sector, in order to understand applications that could also have potential for government
-	- A set of case studies of existing experiences, based on desk research and interviews with the project managers.
+	- A set of case studies of existing experiences, based on desk research and interviews with the project managers.
 
 #####Research Findings:
-- The methods followed helped them to find following results:
+- The methods followed helped them to find following results
 	- It gave an overview where the web 2.0 technologies can be used
 	- How each of the domains could get impacted  through the adoption of web 2.0 applications.
 
-#####Impact of Web 2.0 on Government:
-<Figure>
-- Here, users are both civil servants and citizens.
+#####Impact of Web 2.0 on Government
+
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/Web2.0.png">
+</p>
+
+- Here, users are both civil servants and citizens
 	- The centre circle represents group of users who are active in designing and delivering the service. The web 2.0 is used by analysts to create wiki-based intelligence reports in Intellipedia, or citizens creating a new petition online.
-	- The second circle represents the group of users who play a fundamental role in ensuring the quality and relevance of content submitted by other users.For example: the rating of evidence submitted to Peer-to-Patent
-	- The third circle represents the users who used the web 2.0 applications and get benefitted from the other users services.For instance, review on any e-petition by other users helped the users to come up with some decision.
-	- The fourth circle represents to those who used the online services to get the quality data without any voluntary engagement.In the private sector, a classic example is the "most read articles" page in online newspapers.[22]
+	- The second circle represents the group of users who play a fundamental role in ensuring the quality and relevance of content submitted by other users. For example: the rating of evidence submitted to Peer-to-Patent
+	- The third circle represents the users who used the web 2.0 applications and get benefitted from the other user's services. For instance, review on any e-petition by other users helped the users to come up with some decision.
+	- The fourth circle represents to those who used the online services to get the quality data without any voluntary engagement. In the private sector, a classic example is the "most read articles" page in online newspapers.[22]
 
 ### B.C. Government: Current Issues with Transparency
 http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
+
 http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
+
 http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts-rcmp-after-scathing-report/article26926616/ <not cited yet>
 
 - needs to be talked about
@@ -345,7 +347,7 @@ Given these issues, we made amendments to our timeline from November 4th and bey
 
 ## References
 
-1. SchÃ¼mmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
+1. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
 2. Benyon, D., & Mival, O. (2015). Blended Spaces for Collaboration. *Computer Supported Collaborative Work (CSCW)*, 1-27.
 3. Sarda, S., Constable, M., Dauwels, J. Dauwels, S., Elgendi, M., Mengyu, Z., ... & Magnetat-Thalmann, N. (2014). Real-time feedback system for monitoring and faciliating discussions. *Natural Interaction with Robots, Knowbots and Smartphones* (pp. 375-387). Springer New York.
 4. Hayes, K., & Chang, S. (1990). The relative efficiency of city manager and mayor-council forms of government. *Southern Economic Journal*, 167-177. 
