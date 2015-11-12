@@ -1,8 +1,42 @@
 Analyzing and Modernizing Victoria City Council's Communications: An Interim Report
 ===================
-## Group members 
-
-Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Related Work](#related-work)
+	1. [CSCW in Meetings](#cscw-in-meetings)
+	2. [Local Government Innovation](#local-government-innovation)
+	3. [CSCW Use in Government and Politics](#cscw-use-in-government-and-politics)
+	4. [History of CSCW Use in Government](#history-of-cscw-use-in-government)
+		1. [Cuparla](#cuparla)
+			1. [Creating Cuparla](#creating-cuparla)
+			2. [Methdology used in developing Cuparla](#methodology-used-in-developing-cuparla)
+			3. [Cuparla Software Design](#cuparla-software-design)
+			4. [Evaluation of Cuparla](#evaluation-of-cuparla)
+		2. [Open Source](#open-source)
+			1. [Reasons behind innovating with Open Source](#reasons-behind-innovating-with-open-source)
+			2. [Methodology to evaluate usage of Open Source](#methodology-to-evaluate-usage-of-open-source)
+			3. [Implementation of Open Source in Munich](#implementation-of-open-source-in-munich)
+			4. [Timeline for Munich's Migration](#timeline-for-munichs-migration)
+		3. [Government 2.0](#government-20)
+			1. [Research Strategies Followed](#research-strategies-followed)
+			2. [Research Findings](#research-findings)
+			3. [Impact of Web 2.0 on Government](#impact-of-web-20-on-government)
+	5. [BC Government: Current Issues with Transparency](#bc-government-current-issues-with-transparency)
+3. [Methodology](#methodology)
+4. [Impact](#impact)
+5. [Preliminary Results](#preliminary-results)
+6. [Remaining in Project](#remaining-in-project)
+7. [Appendices](#appendices)
+	1. [Appendix 1: Team Roles](#appendix-1-team-roles)
+		1. [Kimberlee Graham-Knight](#kimberlee-graham-knight-group-leader)
+		2. [Roshni Jain](#roshni-jain-data-analysis)
+		3. [Nigel Dufty](#nigel-dufty-data-collection)
+		4. [Tian Geng](#tian-geng-data-analysis)
+		5. [Myan Panikkar](#myan-panikkar-editor)
+	2. [Appendix 2: Milestones](#appendix-2-milestones)
+		1. [Status on Original Milestones](#status-on-original-milestones)
+		2. [New Timeline](#new-timeline)
+8. [References](#references)
 
 ## Introduction
 
@@ -162,7 +196,7 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 - semi-structured interviews [23]
 - “The interview instrument consisted of a set of identical questions related to motivation, implementation, and results. Each questionnaire also contained a set of questions specific to the position of the interviewee. To facilitate coding and analysis of the interviews I used N-Vivo, a qualitative analysis software program. I also relied on internal reports, audits, and news releases published by each city to develop the necessary background for the research and to substantiate information collected through interviews. Finally, I surveyed news accounts to corroborate data produced by the cities and the interviews” [23]
 
-#####Implementation of OpenSource in Munich:
+#####Implementation of Open Source in Munich
 - “The alternatives were: 
 	1. MS XP + MS Office XP 
 	2. MS XP + OpenOffice 
@@ -245,8 +279,9 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 	- if city official are unable to provide time for interviews, we still have something to work from
 - goal is to conduct eight 30 minute interviews 
 	- council members to be interviewed decided primarily on availability, since our time for project is limited
-	- want to interview six members from Victoria city council as well as two members from city council of Vancouver
-	- interviews from Vancouver is to have comparison data with a larger city
+	- want to interview six members from Victoria city council as well as a member of Sooke city council
+	- interviews from Sooke is to have comparison data with a larger city
+	- also wish to conduct one or two interviews with public figures that involve themselves with city council on a regular basis
 - also using public city meetings to observe usage of computers in facilitating meetings, if at all
 	- meetings occur every two weeks, held at City Hall in Victoria on Thursdays at 7pm
 	- attended two meetings on October 15th and October 29th
@@ -286,7 +321,9 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 - transcription of interviews: preliminary data analysis at same time as transcription
 - analysis of data
 
-## Appendix 1: Team Roles
+##Appendices
+
+### Appendix 1: Team Roles
 
 ####Kimberlee Graham-Knight: Group Leader
 Kimberlee is taking on the role of group leader. She is responsible for regularly checking in on each group member to ensure that they are fulfilling their roles and that any issues or questions they have can be addressed as soon as possible. This includes delegating tasks as necessary. Kimberlee is also responsible for conducting some of our interviews with city councillors, and has attended some of the city council meetings to help establish a background for our research. 
