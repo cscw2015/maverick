@@ -30,50 +30,16 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 
 ## Related Work
 
-- goal with section: introduce CSCW usage in other sectors 
-
 ### CSCW in Meetings
 
 - according to SchÃ¼mmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
 	- the peopleware perspective, the design of social processes that are executed by team members,
 	- the generic groupware perspective for designing supportive software tools, and
 	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1]
-- factors that influence effectiveness in meetings: motivation and reliability, clear goals, information, context, focus and efficiency, trust and openness, respect, communication, participation and results [1]	
-- number of electronic meeting systems currently being used, will only consider two here
-- Benyon and Mival note use of blended spaces in some meetings, where technology and physical space are designed in tandem [2]
-	- spaces allow for a more ergonomic environment for participants
-	- creates increased collaboration opportunities
-	- example of blended space using tablets, keyboards, laptops, wall-mounted touchscreens, video-conferencing, ambient lighting [2]
-	<insert Figure 2 here>
-- Sarda et. al. propose system that engages a real-time feedback system to track speaking behaviours of participants in meetings [3]
-	- "talking mannerisms of individiuals play an important factor for meetings to be productive and achieve certain objectives" [3]
-	- keeping track of who is talking and when could help meeting run more efficiently
-	- Sarda et. al. designed and implemented recording-based system for keeping track of who speak and when, to fairly distribute airtime
-<need transition into next section here> 
+<insert figure here>
 
-### Group Dynamics
+### Local Government Innovation
 
-- important to understand communication dynamics of groups
-- important to understand why innovation in public sector is important 
-- Victoria operates as mayor-council system, as opposed to council-manager system used in some municipalities [4]
-	- gives mayor additional powers; need to do more to understand full powers of mayor
-- as Cheyne notes, there are "weak mayors" without veto power and "strong mayors" [5]
-<still need to find out about which system Victoria has>
-- website for city of Victoria contains a number of documents such as strategic plan and annual reports
-- not immediately evident whether it contains information about structure of Victoria city government
-	- may need to obtain information through email exchanges with the city
-- city council of Victoria is a government entity that can be described as group of people working together
-- study of groups has been undertaken for decades
-- Poole notes there is always a tension between focusing on group as whole versus individiual members [6]
-	- Group members' characteristics interact to produce group characteristics, which forms complex relationship at many levels "which leads to non-independence of individual data" [6]
-	- "some members influence each other strongly, whereas others are isolated from the group and exert little influence, and still others are somewhere in between." 
-	- complex nature of group dynamics means that any study will need to take into account behaviour of individual and communications of group
-- group dynamics change over time
-	- example: guest may sit in at council meeting, which may change way members interact
-	- most <data> collection methods, which are often done only once in studies, cannot adequately capture full scope of communication
-	- to mitigate, our group will attend two consecutive council meetings to note changes between
-	- membership of council remains fixed, so do not have to track membership variation
-	- council is relatively small; many problems associated with observing communication behaviour of large groups will not be paramount
 - Ihkre notes that local governments are more likely to innovate than governments at state or federal level
 	- because of "their small size and capacity to make decisions quickly and decisively." [7]
 	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [8].
@@ -81,10 +47,6 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 	- Walker says innovation is a core tasks of public institutions and that "innovation has been promoted around world as a key tool to improve public services" [9].
 	- local governments also get a lot of pressure to "do more with less" [9]
 	- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
-- our methodology will be interview questions posed to city councillors as well as attending meetings
-	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
-	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [6]
-	- interviews may procure false information because what members say may not match behaviour
 
 ### CSCW Use in Government and Politics
 
@@ -112,6 +74,8 @@ Kimberlee Graham-Knight, Roshni Jain, Myan Panikkar, Nigel Dufty, Tian Geng
 	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
 
 ###History of CSCW Use in Government
+
+- goal with section: show some examples of CSCW use in local government, and why they were chosen
 
 ####Cuparla
 
@@ -217,6 +181,7 @@ Both transitional solutions presented architectural and operational complexities
 	3. cooperation of all software partners would be necessary as software is customized, and as applications are redeveloped; 
 	4. the project had to have the support of both political leadership and heads of the administration; 
 	5. proactive education and involvement of employees would be essential” [24]
+
 ######Timeline 
 - November 2001: Munich decided to investigate open-source options in operating systems and office suites. [24]
 - April 2002: Commissioned a consulting company for options. [24]
@@ -269,8 +234,10 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 
 ##	Methodology
 
-- collecting data from two main sources
-	- primary method is through interviews of city council members
+- our methodology will be interview questions posed to city councillors as well as attending meetings
+	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
+	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [6]
+	- interviews may procure false information because what members say may not match behaviour
 	- secondary method is through observing public city meetings
 	- observation provides as a small risk mitigation for first
 	- if city official are unable to provide time for interviews, we still have something to work from
