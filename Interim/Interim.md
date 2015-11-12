@@ -81,27 +81,6 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	- local governments also get a lot of pressure to "do more with less" [9]
 	- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
 
-### CSCW Use in Government and Politics
-
-- as internet usage exploded, public sector realized the need to tap into these new technologies
-- three governmental relationships to consider[10]:
-	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
-	2. **Government to Business**: purchase for property, equipment, office supplies
-	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[11]
-- examples of other technologies being used by other municipal governments: 
-	- Preston City Council selected Cadcorp SIS desktop & Cadcord GeognoSIS web-based software: provides data migration solution and ability to read/display multiple graphic and database formats [13]
-	- Munich City Council replaced all Microsoft software with open source equivalents, saving money on IT costs and proprietary licenses [14]
-	- IVS-City Council software used in city council meetings during voting process, done with keypads [15]
-- some city councils work with software companies to provide solutions to public-sector requirements
-- example: Peterborough City Council working with XCD HR to automate number of manual HR processes [16]
-- lets employees take time normally spent on paperwork to focus on more crucial aspects of job
-- business benefits include:
-	- Immediate benefits/efficiency gains across the board (for HR, managers, and employees)
-	- Improved reporting capability with 24/7 up-to-date decision making data available to appropriate audience supporting CMT
-	- Improved access to information to support a more mobile workforce using current communication tools: phone, tablet, pc, from anywhere via cloud
-	- HR workload has become more manageable and CIPD skills put to better use
-	- Less chasing is required due to approval process and email alert reminders on managers and employees [16]
-
 ###History of CSCW Use in Government
 
 - goal with section: show some examples of CSCW use in local government, and why they were chosen
@@ -170,6 +149,47 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - any notes made in eval were attributed only to lowest applicable level
 	- e.g. costs of server are attributed to **group**, PC in office is attributed to individual **user**
 	- seems to be an effort to reduce redundancy in data from evaluation
+
+####E-government
+
+- "delivery of government information and services through the Internet 24 hours a day, 7 days per week" [25]
+- does not consider non-Internet technologies
+- three governmental relationships to consider[10]:
+	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
+	2. **Government to Business**: purchase for property, equipment, office supplies
+	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[11]
+
+#####Reasons behind innovating with e-government
+- increasing demands for timely and accurate communications
+- emerging opportunities in electronic communications
+- more ownership of home PC’s
+- goal of citizen and customer communication [26]
+
+#####Methodology to evaluate use of e-government
+- in Corpus Christi, used case study approach
+- data included experiences of co-author, interviews with select individuals and archival records
+
+#####Implementation of e-government in Corpus Christi
+- site went live in late October 1999
+- cost of implementing site in 1999 was approx. $13,000.
+- Internet site replicated as Intranet for city employees, includes city directory, city policies, training calendars, a bulletin board, other communications important to employees
+- forms and applications online, from printable to e-mailable, building permits, job applications, utility bills, parking and traffic ticket payment and info
+- staff trained by Communication and Quality Management dept. in Adobe Acrobat 4.0, Adobe ImageReady and Macromedia DreamWeaver
+
+######Challenges
+- people creating fake sites and getting the city to include them (eg. Fire Dept) 
+- putting building permits online
+- 100,000 hits/month on website first year, 10,000/day after
+- people not using online services after major investment
+- requests to put job applications, engineering plans online
+- different than e-business in 3 main respects: Access, Structure, Accountability
+- Access: business can choose its customers; city cannot
+	- lack of access to e-government furthers economic inequality
+	- people with disabilities need dedicated web programming to access site
+	- public forums elicit hate speech, so tough to include them on city websites
+- Structure: decision-making more dispersed in public sector than business
+- Accountability: constraint
+	- once project is funded, can be micro-managed to ensure correct performance [26]
 
 ####Open Source
 
@@ -409,4 +429,6 @@ Given these issues, we made amendments to our timeline from November 4th and bey
 22. Osimo, D. (2008). Web 2.0 in government: Why and how. Institute for Prospectice Technological Studies (IPTS), JRC, European Commission, EUR, 23358.
 23. Cassell, M. (2008). Why governments innovate: Adoption and implementation of open source software by four European cities. International public management Journal, 11(2), 193-213.
 24. Grassmuck, V. “LiMux — Free Software for Munich” (2005) http://waste.informatik.hu-berlin.de/grassmuck/texts/limux.pdf Accessed November 11, 2015.
+25. Reddick, C. G., & Frank, H. A. (2007). The perceived impacts of e-government on US cities: A survey of Florida and Texas City managers. Government Information Quarterly, 24(3), 576-594.
+26. Jorgensen, D. J., & Cable, S. (2002). Facing the challenges of e-goverment: A case study of the city of Corpus Christi, Texas. SAM Advanced Management Journal, 67(3), 15.
 
