@@ -254,10 +254,12 @@ Both transitional solutions presented architectural and operational complexities
 ####Government 2.0
 
 - Government 2.0 , reflecting the concept of web 2.0 [14] is the extension of the Web 1.0 technologies (which are already been in use by most of the city councils under e-government). 
-- Web 2.0 emphasis to e-democracy wherein multimodal, non-hierarchal, collaborative and deliberative networks can be built.
+- Web 2.0 emphasis to e-democracy wherein multimodal, non-hierarchal and collaborative networks between government people and citizens can be built.
 - It emphasizes a more interactive process with the potential use of media for promoting citizen participation. [15]
 
 #####Research strategies followed
+
+- The group IPTS (Institute of Prospective Technological Studies) conducted a research which aims to monitor Web 2.0 and their socio-economic impact on government related activities. 
  
 - The following questions were asked:
 	- Are web 2.0 applications relevant for the government context?
