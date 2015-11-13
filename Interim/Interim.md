@@ -5,19 +5,23 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 2. [Related Work](#related-work)
 	1. [CSCW in Meetings](#cscw-in-meetings)
 	2. [Local Government Innovation](#local-government-innovation)
-	3. [CSCW Use in Government and Politics](#cscw-use-in-government-and-politics)
-	4. [History of CSCW Use in Government](#history-of-cscw-use-in-government)
+	3. [History of CSCW Use in Government](#history-of-cscw-use-in-government)
 		1. [Cuparla](#cuparla)
 			1. [Creating Cuparla](#creating-cuparla)
 			2. [Methdology used in developing Cuparla](#methodology-used-in-developing-cuparla)
 			3. [Cuparla Software Design](#cuparla-software-design)
 			4. [Evaluation of Cuparla](#evaluation-of-cuparla)
-		2. [Open Source](#open-source)
+		2. [E-government](#e-government)
+			1. [Reasons behind innovating with e-government](#reasons-behind-innovating-with-e-government)
+			2. [Methodology to evaluate use of e-government](#methodology-to-evaluate-use-of-e-government)
+			3. [Implementation of e-government in Corpus Christi](#implementation-of-e-government-in-corpus-christi)
+			4. [Challenges of e-government](#challenges-of-e-government)
+		3. [Open Source](#open-source)
 			1. [Reasons behind innovating with Open Source](#reasons-behind-innovating-with-open-source)
 			2. [Methodology to evaluate usage of Open Source](#methodology-to-evaluate-usage-of-open-source)
 			3. [Implementation of Open Source in Munich](#implementation-of-open-source-in-munich)
 			4. [Timeline for Munich's Migration](#timeline-for-munichs-migration)
-		3. [Government 2.0](#government-20)
+		4. [Government 2.0](#government-20)
 			1. [Research Strategies Followed](#research-strategies-followed)
 			2. [Research Findings](#research-findings)
 			3. [Impact of Web 2.0 on Government](#impact-of-web-20-on-government)
@@ -160,23 +164,27 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[11]
 
 #####Reasons behind innovating with e-government
+
 - increasing demands for timely and accurate communications
 - emerging opportunities in electronic communications
 - more ownership of home PC’s
 - goal of citizen and customer communication [26]
 
 #####Methodology to evaluate use of e-government
+
 - in Corpus Christi, used case study approach
 - data included experiences of co-author, interviews with select individuals and archival records
 
 #####Implementation of e-government in Corpus Christi
+
 - site went live in late October 1999
 - cost of implementing site in 1999 was approx. $13,000.
 - Internet site replicated as Intranet for city employees, includes city directory, city policies, training calendars, a bulletin board, other communications important to employees
 - forms and applications online, from printable to e-mailable, building permits, job applications, utility bills, parking and traffic ticket payment and info
 - staff trained by Communication and Quality Management dept. in Adobe Acrobat 4.0, Adobe ImageReady and Macromedia DreamWeaver
 
-######Challenges
+######Challenges of e-government
+
 - people creating fake sites and getting the city to include them (eg. Fire Dept) 
 - putting building permits online
 - 100,000 hits/month on website first year, 10,000/day after
@@ -257,7 +265,7 @@ Both transitional solutions presented architectural and operational complexities
 	- A desk-based review of existing web 2.0 applications in the private sector, in order to understand applications that could also have potential for government
 	- A set of case studies of existing experiences, based on desk research and interviews with the project managers.
 
-#####Research Findings:
+#####Research Findings
 - The methods followed helped them to find following results
 	- It gave an overview where the web 2.0 technologies can be used
 	- How each of the domains could get impacted  through the adoption of web 2.0 applications.
@@ -431,4 +439,3 @@ Given these issues, we made amendments to our timeline from November 4th and bey
 24. Grassmuck, V. “LiMux — Free Software for Munich” (2005) http://waste.informatik.hu-berlin.de/grassmuck/texts/limux.pdf Accessed November 11, 2015.
 25. Reddick, C. G., & Frank, H. A. (2007). The perceived impacts of e-government on US cities: A survey of Florida and Texas City managers. Government Information Quarterly, 24(3), 576-594.
 26. Jorgensen, D. J., & Cable, S. (2002). Facing the challenges of e-goverment: A case study of the city of Corpus Christi, Texas. SAM Advanced Management Journal, 67(3), 15.
-
