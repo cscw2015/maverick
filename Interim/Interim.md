@@ -296,29 +296,13 @@ http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts
 - relation to Victoria city government, if any
 	- does geographic proximity lead municipal government to allow similar permissions for its council members?
 
-##	Methodology
+##Methodology
 
-- our methodology will be interview questions posed to city councillors as well as attending meetings
-	- Poole notes that group observation and asking questions of individual members are two best ways to obtain group dynamics information
-	- specifically recommend in-depth interviews with open-ended questions in order to "obtain symbols that members naturally use to describe their behaviour" [17]
-	- interviews may procure false information because what members say may not match behaviour
-	- secondary method is through observing public city meetings
-	- observation provides as a small risk mitigation for first
-	- if city official are unable to provide time for interviews, we still have something to work from
-- goal is to conduct eight 30 minute interviews 
-	- council members to be interviewed decided primarily on availability, since our time for project is limited
-	- want to interview six members from Victoria city council as well as a member of Sooke city council
-	- interviews from Sooke is to have comparison data with a larger city
-	- also wish to conduct one or two interviews with public figures that involve themselves with city council on a regular basis
-- also using public city meetings to observe usage of computers in facilitating meetings, if at all
-	- meetings occur every two weeks, held at City Hall in Victoria on Thursdays at 7pm
-	- attended two meetings on October 15th and October 29th
-	- primary goal with attending these meetings was to observe how meetings were conducted
-		- what technology is used to administer and share documents
-		- how do they allow for crowd contribution
-		- how is discussion moderated and facilitated
+We will be collecting data from two main sources. Our primary method of data collection will be through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collectionn for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors is the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, should we be unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
 
-<need more transitions> 
+Our goal is to conduct eight 30 minute interview sessions. The council members that we will be interviewing will be decided primarily on availability, as the time available for this research is limited. We want to interview six members of the Victoria city council (including the mayor), a member of Sooke city council, and public figures that involve themselves with the city council on a regular basis. These interviews will be semi-structured, so that we can elaborate on topics that come up through discussion in the interviews. 
+
+As mentioned before, we also attended public city meetings to observe the usage of computers in facilitating meetings. These meetings typically occur every two weeks on Thursday nights at 7:00pm, and are held at City Hall in Victoria. The two meetings attended were held on October 15th and October 29th. The primary goal with attending these meetings was to observe and assess the conduction of the meetings based on the following metrics: what technologies do they use to administer and share documents, how do they allow for crowd contribution, and how is discussion moderated and facilitated. 
 
 ## Impact
 
