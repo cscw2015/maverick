@@ -25,12 +25,9 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 			1. [Research Strategies Followed](#research-strategies-followed)
 			2. [Research Findings](#research-findings)
 			3. [Impact of Web 2.0 on Government](#impact-of-web-20-on-government)
-	5. [BC Government: Current Issues with Transparency](#bc-government-current-issues-with-transparency)
 3. [Methodology](#methodology)
 4. [Impact](#impact)
-5. [Preliminary Results](#preliminary-results)
-6. [Remaining in Project](#remaining-in-project)
-7. [Appendices](#appendices)
+5. [Appendices](#appendices)
 	1. [Appendix 1: Team Roles](#appendix-1-team-roles)
 		1. [Kimberlee Graham-Knight](#kimberlee-graham-knight-group-leader)
 		2. [Roshni Jain](#roshni-jain-data-analysis)
@@ -40,7 +37,8 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	2. [Appendix 2: Milestones](#appendix-2-milestones)
 		1. [Status on Original Milestones](#status-on-original-milestones)
 		2. [New Timeline](#new-timeline)
-8. [References](#references)
+	3. [Appendix 3: Preliminary Results](#appendix-3-preliminary-results)
+6. [References](#references)
 
 ## Introduction
 
@@ -73,9 +71,9 @@ Before looking at previous implementations of computer-supported collaborative w
 ### CSCW in Meetings
 
 According to Schümmer, there are three distinct facets of designing an electronic face-to-face meeting system:
-- the peopleware perspective, the design of social processes that are executed by team members,
-- the generic groupware perspective for designing supportive software tools, and
-- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1].
+1. the peopleware perspective, the design of social processes that are executed by team members,
+2. the generic groupware perspective for designing supportive software tools, and
+3. the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1].
 
 Arguably, the hardest facet of designing an electronic meeting system for a group is understanding their needs. Given the level of support in the open source community today, innovation in designing supportive software tools is easier to come by than before. <maybe insert examples here later> Along with this, before designing a meeting space for a group to allow for better collaboration you must understand _who_ you are building the room for, _what_ they need in their room to effectively collaborate and _why_ collaboration is necessary in their line of work.
 
@@ -93,7 +91,7 @@ Innovation is an important part of any continued collaborative group work. Walke
 
 ###History of CSCW Use in Government
 
-- goal with section: show some examples of CSCW use in local government, and why they were chosen
+Here are some examples of previous attempts to integrate CSCW into government organizations. These examples are in chronological order, and attempt to focus on the processes used to research the organizations involved as well as how they built or identified what software suites would be most applicable for the given organization. 
 
 ####Cuparla
 
@@ -178,7 +176,7 @@ Innovation is an important part of any continued collaborative group work. Walke
 
 #####Methodology to evaluate use of e-government
 
-- in Corpus Christi, used case study approach
+- in Corpus Christi, Texas, used case study approach
 - data included experiences of co-author, interviews with select individuals and archival records
 
 #####Implementation of e-government in Corpus Christi
@@ -288,20 +286,6 @@ Both transitional solutions presented architectural and operational complexities
 	- The third circle represents the users who used the web 2.0 applications and get benefitted from the other user's services. For instance, review on any e-petition by other users helped the users to come up with some decision.
 	- The fourth circle represents to those who used the online services to get the quality data without any voluntary engagement. In the private sector, a classic example is the "most read articles" page in online newspapers.[16]
 
-### B.C. Government: Current Issues with Transparency
-http://www.theglobeandmail.com/news/national/bc-government-triple-deleted-e-mails-related-to-the-highway-of-tears/article26969375/ <not cited yet>
-
-http://www.cbc.ca/news/canada/british-columbia/massey-tunnel-replacement-project-foi-returns-no-records-1.3303545 <not cited yet>
-
-http://www.theglobeandmail.com/news/british-columbia/privacy-commissioner-alerts-rcmp-after-scathing-report/article26926616/ <not cited yet>
-
-- needs to be talked about
-	- is definitely a systemic issue, BC government appears to routinely delete emails it considers "transitory" and responds to freedom of information requests verbally so that there is no written record of the response
-	- need to get better systems in place to ensure written records of requests
-	- need to limit power of executives in order to ensure important documents to not end up being deleted
-- relation to Victoria city government, if any
-	- does geographic proximity lead municipal government to allow similar permissions for its council members?
-
 ##Methodology
 
 We will be collecting data from two main sources. Our primary method of data collection will be through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collectionn for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors is the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, should we be unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
@@ -318,26 +302,6 @@ As mentioned before, we also attended public city meetings to observe the usage 
 - scale and time frame of project don't allow for in-depth analysis
 	- similar studies could be conducted on other municipal governments, provincial governments or even federal
 	- larger time frame would allow for observation of different meetings and follow-up interviews
-
-## Preliminary Results
-
-- some notes from meetings
-	- all councillors are already using laptops/tablets at the meetings
-	- start meetings by announcing changes to agenda from when it was published
-	- many items on the agenda are "late items"
-	- voting is done by simple hand raise
-	- councillors indicate they would like to speak by raising hand
-	- mayor writes down a list on paper of which councillor(s) are speaking next
-	- people presenting give slides to council beforehand
-- small analysis of meetings
-
-## Remaining in Project
-
-- finish interviews with councillors
-	- most are scheduled
-	- will be pursuing people who aren't necessarily city councillors
-- transcription of interviews: preliminary data analysis at same time as transcription
-- analysis of data
 
 ##Appendices
 
@@ -356,7 +320,7 @@ Nigel is responsible for a majority of the data collection involved in the proje
 Tian is working with Roshni to create transcriptions of interviews as they are completed. He is also working with Kimberlee and Nigel to conduct interviews of city council members of Victoria. Tian is also responsible for conducting literature review alongside Roshni. 
 
 ####Myan Panikkar: Editor
-Myan is responsible for all written deliverables in the project. As the primary editor, his job is to ensure that documents needed for the project are coherent, cohesive, and that they are delivered as complete products. This involves some leadership alongside Kimberlee, namely for delegating section content amongst group members as necessary. Myan will also be writing and designing the consultant report that our group intends to deliver to the city council after our interview data has been analyzed. <may do questionnaire for Vancouver still> Myan also attended city council meetings to help provide background research. 
+Myan is responsible for all written deliverables in the project. As the primary editor, his job is to ensure that documents needed for the project are coherent, cohesive, and that they are delivered as complete products. This involves some leadership alongside Kimberlee, namely for delegating section content amongst group members as necessary. Myan will also be writing and designing the consultant report that our group intends to deliver to the city council after our interview data has been analyzed. Myan also attended city council meetings to help provide background research. 
 
 ## Appendix 2: Milestones
 
@@ -384,8 +348,6 @@ The next issue that this table fails to address is when we plan to have the data
 
 A third issue that that isn't visible from looking at this table is that we never detailed what would be given to the city council of Victoria as a final deliverable, nor did we state when such a deliverable would be completed and delivered to the city. To address this, we chose to develop a non-academic report to deliver to the city council of Victoria. This report will be less formal in nature and will not contain as many of the academic citations as our final report will, but it will follow a similar structure in order to highlight our findings from the interviews we plan to conduct. 
 
-- may also give a power point presentation on our findings; still in the air 
-
 Given these issues, we made amendments to our timeline from November 4th and beyond. The following table details the changes we previously described in our timeline. 
 
 ### New Timeline
@@ -400,6 +362,22 @@ Given these issues, we made amendments to our timeline from November 4th and bey
 |December 2|Project Presentation|
 |December 4|Final Report|
 |December 4|Consultant's Report|
+
+At this point in the project, we have a few tasks left to accomplish. Some of our interviews have been completed already, but we have to finish the remainder of the interviews. Some of our original interview targets have been shifted around due to the previous candidates being unavailable, with some of these new candidates being non-council members. These changes have been reflected in the [Methodology](#methodology) section. 
+
+As each interview is completed, we have to transcribe them. The dates above are the _final_ dates for interviews and their respective transcriptions; we will be dealing with the data as it flows in. Once we have all of the interview data in a usable format, analysis will be conducted on it to determine the best method of approach for the city council. This best method (or set of methods) will then be presented in a report to the city council at the end of the semester. 
+
+## Appendix 3: Preliminary Results
+
+- some notes from meetings
+	- all councillors are already using laptops/tablets at the meetings
+	- start meetings by announcing changes to agenda from when it was published
+	- many items on the agenda are "late items"
+	- voting is done by simple hand raise
+	- councillors indicate they would like to speak by raising hand
+	- mayor writes down a list on paper of which councillor(s) are speaking next
+	- people presenting give slides to council beforehand
+- small analysis of meetings
 
 ## References
 
