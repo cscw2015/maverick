@@ -68,22 +68,28 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 ## Related Work
 
+Before looking at previous implementations of computer-supported collaborative work (CSCW) in government settings, we need to understand some of the difficulties of integrating CSCW into meetings and why it is important for municipal governments to want to incorporate CSCW into their workflow. 
+
 ### CSCW in Meetings
 
-- according to Schümmer, 3 distinct facets of designing an electronic face-to-face meeting system: 
-	- the peopleware perspective, the design of social processes that are executed by team members,
-	- the generic groupware perspective for designing supportive software tools, and
-	- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1]
+According to Schümmer, there are three distinct facets of designing an electronic face-to-face meeting system:
+- the peopleware perspective, the design of social processes that are executed by team members,
+- the generic groupware perspective for designing supportive software tools, and
+- the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1].
+
+Arguably, the hardest facet of designing an electronic meeting system for a group is understanding their needs. Given the level of support in the open source community today, innovation in designing supportive software tools is easier to come by than before. <maybe insert examples here later> Along with this, before designing a meeting space for a group to allow for better collaboration you must understand _who_ you are building the room for, _what_ they need in their room to effectively collaborate and _why_ collaboration is necessary in their line of work.
+
+Addressing the first point that Schümmer makes is part of the reason behind our study. To ensure that our government has room to innovate, an assessment of their current technological integration and their current communication practices is necessary. 
 
 ### Local Government Innovation
 
-- Ihkre notes that local governments are more likely to innovate than governments at state or federal level
-	- because of "their small size and capacity to make decisions quickly and decisively." [2]
-	- according to Haus, "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [3].
-	- potential is there to influence common good with our research by focusing on city council
-	- Walker says innovation is a core tasks of public institutions and that "innovation has been promoted around world as a key tool to improve public services" [4].
-	- local governments also get a lot of pressure to "do more with less" [4]
-	- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
+Innovation is an important part of any continued collaborative group work. Walker says innovation is a core task of public institutions and that "innovation has been promoted around the world as a key tool to improve public services" [4]. This is one of the reasons we are targeting the city of Victoria with our study: that public services always stand to be improved, and they are in one of the best positions to affect this change. Ihkre notes that local governments are more likely to innovate than governments at state or federal level because of "their small size and capacity to make decisions quickly and decisively," [2] and this is another reason as to why we are targeting the city of Victoria. While standards do exist at the provincial and federal level for regulating what technologies can be used in government organizations, a municipal government stands to gain more from integrating new technology on a regular basis and is in a good position to do so. 
+
+- Haus claims that "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [3]. 
+- local governments also get a lot of pressure to "do more with less" [4]
+- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
+
+- transition into history
 
 ###History of CSCW Use in Government
 
