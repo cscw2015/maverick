@@ -46,14 +46,13 @@ Given the rapid pace at which various technologies have evolved over the past fe
 One area in particular that we want to focus on is the preparation and management of council meetings via technology. Specifically, we want to find out what technologies are used to prepare for the city council's meetings. What software do they use to construct their meeting agendas? How do they use technology to introduce new bylaws, modify them, and then finalize them? What steps does the city take to make this process transparent to the public? Do city councillors use software or other tools during meetings to facilitate the sharing of information? How do city councillors use software to afford the opportunity for remote participation in meetings? These are all questions that we wish to answer in our study.  
 
 One of the main reasons for conducting this study is that most of the existing research about city governments is about how to improve government-citizen relations. There have not been as many studies on how technology plays a role in governmental organization. For the studies that have been conducted, many of the more prominent studies are outdated by at least 10 years, and/or focus on municipalities located in Europe or in the United States. By conducting this study, we offer an opportunity for the municipal government of Victoria to make their current software integration status transparent to its citizens. Transparency on current practices regarding software can be healthy for growth and improvement (as seen in the open source community), and research of this type can provide beneficial information to councillors on what they can do to improve their usage of technology. 
-
 To accomplish this study of Victoria's municipal government, we will be conducting interviews with its city councillors. This is our primary source of data, as these councillors are the primary focus of this study. To augment these interviews with city councillors, we will also be conducting interviews with various members of the public that are affiliated with the municipal government of Victoria, as well as at least one interview with a member of Sooke's city council for comparison data. Alongside these interviews, we will be observing public council meetings to see what their current practices are for conducting meetings with the public. 
 
 The next section goes over the previous research done in this field and how this previous research is relevant to the research questions we are currently pursuing.
 
 ## Related Work
 
-Before looking at previous implementations of computer-supported collaborative work (CSCW) in government settings, we need to understand some of the difficulties of integrating CSCW into meetings. We also need context for why it is important for municipal governments to want to incorporate modern CSCW into their workflow. 
+Before looking at previous implementations of computer-supported collaborative work (CSCW) in government settings, we need to understand some of the difficulties of integrating CSCW into meetings. We also need context for why it is important for municipal governments to want to incorporate modern CSCW into their work flow. 
 
 ### CSCW in Meetings
 
@@ -63,7 +62,7 @@ According to Schümmer, there are three distinct facets of designing an electron
 2. the generic groupware perspective for designing supportive software tools, and
 3. the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space.
 
-Arguably, the hardest facet of designing an electronic meeting system for a group is understanding their needs. To properly assess the needs of a group that needs to meet on a regular basis, you need to observe how the group interacts in a meeting and what the group needs from their available technology to augment and improve their workflow. While many tools (both open source and proprietary) today are being rapidly developed and improved on, they are not guaranteed to meet the needs of public officials. 
+Arguably, the hardest facet of designing an electronic meeting system for a group is understanding their needs. To properly assess the needs of a group that needs to meet on a regular basis, you need to observe how the group interacts in a meeting and what the group needs from their available technology to augment and improve their work flow. While many tools (both open source and proprietary) today are being rapidly developed and improved on, they are not guaranteed to meet the needs of public officials. 
 
 Addressing the first point that Schümmer makes is part of the reason behind our study. To ensure that our government has room to innovate, an assessment of their current technological integration and their current communication practices is necessary. 
 
@@ -87,7 +86,7 @@ Much of this research focused on _how_ these software suites were designed and i
 
 ####Cuparla
 
-In 1995, a number of socio-tech projects were coming on a timely manner to improve the city council administration (in terms of effective communication). In the example of Cuparla, the developers first assessed the need of technology for support. After completing this analysis, they developed this system and then implemented it in specific municipal organizations to serve their particular need. 
+In 1995, a number of socio-technical projects were coming on a timely manner to improve the city council administration (in terms of effective communication). In the example of Cuparla, the developers first assessed the need of technology for support. After completing this analysis, they developed this system and then implemented it in specific municipal organizations to serve their particular need. 
 
 Cuparla was only adopted by a few smaller city councils in Germany, and the literature about it is limited to 5 articles, all by the same author. However, it is a case study in an early adoption of a comprehensive software suite by city council, hence its relevance to our research. 
 
@@ -134,7 +133,7 @@ Evaluation of cuparla was done on five sets of criteria and four levels of aggre
 <img src="https://github.com/cscw2015/maverick/blob/master/Interim/Evaluation of Curparla.png">
 </p>
 
-Using a matrix of this sort seemed to be an effot to reduce the redundancy in data from the evaluation. We will not be using such a method in our study to evaluate software, as our study is more exploratory than evaluatory. 
+Using a matrix of this sort seemed to be an effort to reduce the redundancy in data obtained from the evaluation. We will not be using such a method in our study to evaluate software, as our study is more of an exploratory study. 
 
 ####E-government
 
@@ -188,7 +187,7 @@ Whenever a group migrates to a new system, there are risks involved. A top-down 
  
 However, that is not to say that this type of change is always caused by a negative event. Many times, groups that make this sort of migration to open source software are looking for independence from propriety software. The effectiveness of the software can also play a factor, as many times there is an open source alternative to proprietary software that has equal or greater functional capability than its proprietary counterpart(s). Cost can also play a factor, as previously companies would have to pay for licenses to use proprietary products. Today there also exist subscription models for these proprietary solutions, so a group (public or private) may look to open source alternatives to save on cost. 
 
-In the case of Munich, Microsoft was slated to discontinue its support for Windows NT by 2004 due to systemic security flaws [new citation], which was the operating system that Munich's city had been primarily using. They took this opportunity to seek alternative solutions in an effort to achieve "greater vendor independence" and take advantage of a highly competitive software market [16]. One of their goals was also to utilise the "future-proofness" of open protocols, data formats and interfaces, and the solution they eventually arrived at was to migrate to open source software. 
+In the case of Munich, Microsoft was slated to discontinue its support for Windows NT by 2004 due to systemic security flaws [new citation], which was the operating system that Munich's city had been primarily using. They took this opportunity to seek alternative solutions in an effort to achieve "greater vendor independence" and take advantage of a highly competitive software market [16]. One of their goals was also to utilize the "future-proofness" of open protocols, data formats and interfaces, and the solution they eventually arrived at was to migrate to open source software. 
 
 #####Transition to Open Source in Munich
 
@@ -198,7 +197,7 @@ The following list details all the options that Munich considered after Microsof
 2. MS XP + OpenOffice 
 3. GNU/Linux + OpenOffice 
 
-For the option of GNU/Linux, given that this was a major change compared to updating to the current Microsoft OS, they also considere two transitional solutions: 
+For the option of GNU/Linux, given that this was a major change compared to updating to the current Microsoft OS, they also considered two transitional solutions: 
 
 1. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
 2. GNU/Linux + OpenOffice + Terminal Server
@@ -251,7 +250,7 @@ This project immediately offers two things to the city of Victoria:
 
 A longer time frame for this study could have allowed for follow-up interviews, observation of private meetings (as opposed to primarily public forums), or even designing and testing a new suite of software that focuses in particular on the needs of the municipality of Victoria. 
 
-Similarily, this study could also be modified to assess similar issues on a provincial or federal scale. Such modified studies would need to have a broader focus (they may involve assessing the public's desires of the government vs. the government's responsibilities towards communications and data privacy) and would require a much larger time frame. 
+Similarly, this study could also be modified to assess similar issues on a provincial or federal scale. Such modified studies would need to have a broader focus (they may involve assessing the public's desires of the government vs. the government's responsibilities towards communications and data privacy) and would require a much larger time frame. 
 
 These types of studies are rarely conducted, in comparison to other fields of work. Typically, government organizations are audited by a specific subset of companies, but these audits tend to focus on ensuring the government is up to the current standard. Our study looks to go beyond the current standards and afford the opportunity for technological innovation, as a benefit for the public. 
 
@@ -269,7 +268,7 @@ Roshni is responsible for overseeing the analysis of all the data we collect fro
 Nigel is responsible for a majority of the data collection involved in the project. He is working with Kimberlee and Tian to organize and conduct interviews of Victoria city council members. To ensure that the audio files from the interviews are kept secure, Nigel is acting as an intermediary for transferring audio from the interviews to Roshni and Tian via an encrypted USB stick. Nigel has also attended city council meetings to help provide context for interviews and for our background research. 
 
 ####Tian Geng: Data Analysis
-Tian is working with Roshni to create transcriptions of interviews as they are completed. He is also working with Kimberlee and Nigel to conduct interviews of city council members of Victoria. Tian is also responsible for conducting literature review alongside Roshni. 
+Tian is working with Roshni to create transcriptions of interviews as they are completed. He is also working with Kimberlee and Nigel to conduct interviews of city council members of Victoria. Tian is also responsible for conducting literature review alongside Roshni and Kimberlee. 
 
 ####Myan Panikkar: Editor
 Myan is responsible for all written deliverables in the project. As the primary editor, his job is to ensure that documents needed for the project are coherent, cohesive, and that they are delivered as complete products. This involves some leadership alongside Kimberlee, namely for delegating section content amongst group members as necessary. Myan will also be writing and designing the consultant report that our group intends to deliver to the city council after our interview data has been analyzed. Myan also attended city council meetings to help provide background research. 
