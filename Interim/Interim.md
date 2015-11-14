@@ -166,34 +166,27 @@ Using a matrix of this sort seemed to be an effot to reduce the redundancy in da
 - emerging opportunities in electronic communications
 - more ownership of home PC’s
 - goal of citizen and customer communication [11]
+- "To increase the government’s level of quality service by making the paper-driven or counter-based services more convenient and accessible to citizens and businesses." [18]
 
 #####Methodology to evaluate use of e-government
 
 - in Corpus Christi, Texas, used case study approach
-- data included experiences of co-author, interviews with select individuals and archival records
+- data included experiences of co-author, interviews with select individuals and archival records [11]
 
 #####Implementation of e-government in Corpus Christi
 
-- site went live in late October 1999
+- site went live in late October 1999 [11]
 - cost of implementing site in 1999 was approx. $13,000.
 - Internet site replicated as Intranet for city employees, includes city directory, city policies, training calendars, a bulletin board, other communications important to employees
 - forms and applications online, from printable to e-mailable, building permits, job applications, utility bills, parking and traffic ticket payment and info
 - staff trained by Communication and Quality Management dept. in Adobe Acrobat 4.0, Adobe ImageReady and Macromedia DreamWeaver
 
-######Challenges of e-government
+#####Benefits of e-government
 
-- people creating fake sites and getting the city to include them (eg. Fire Dept) 
-- putting building permits online (sensitivity)
-- people not using online services after major investment
-- requests to put job applications, engineering plans online
-- different than e-business in 3 main respects: Access, Structure, Accountability
-- Access: business can choose its customers; city cannot
-	- lack of access to e-government furthers economic inequality
-	- people with disabilities need dedicated web programming to access site
-	- public forums elicit hate speech, so tough to include them on city websites
-- Structure: decision-making more dispersed in public sector than business
-- Accountability: constraint
-	- once project is funded, can be micro-managed to ensure correct performance [11]
+- increased government accountability to citizens 
+- greater public access to information and a more efficient, cost-effective government
+- the success and acceptance of e-government initiatives, such as onlinevoting and licence renewal [19]
+- [20]
 
 ####Open Source
 
@@ -413,4 +406,7 @@ On preliminary inspection, there is potentially room for improvement at the coun
 15. Kloby, K. (Ed.). (2012). Citizen 2.0: Public and Governmental Interaction through Web 2.0 Technologies: Public and Governmental Interaction Through Web 2.0 Technologies. IGI Global.
 16. Osimo, D. (2008). Web 2.0 in government: Why and how. Institute for Prospectice Technological Studies (IPTS), JRC, European Commission, EUR, 23358.
 17. Poole, M. S., Keyton, J., & Frey, L. R. (1999). *Group communications methodology* (pp 92-112). L. R. Frey, D. S. Gouran, & M. S. Poole (Eds.). Thousand Oaks, CA: Sage Publications. 
+18. Burn, J., & Robins, G. (2003). Moving towards e-government: a case study of organisational change processes. Logistics Information Management, 16(1), 25-35.
+19. Carter, L., & Bélanger, F. (2005). The utilization of e‐government services: citizen trust, innovation and acceptance factors*. Information systems journal, 15(1), 5-25.
+20. Bhatnagar, S. (2003). The economic and social impact of e-government. Background Paper for UNDESA publication: E-Government—the Citizens and the State: Debating Governance in The Information Age. World Public Sector Report. http://www. iimahd. ernet. in/~ subhash/pdfs/UNDESAeGovReport. pdf.
 [new citation] (2003). *Flaw in RPC Endpoint Mapper Could Allow Denial of Service Attacks (331953)*. Accessed online: https://technet.microsoft.com/library/security/ms03-010
