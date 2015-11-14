@@ -108,6 +108,8 @@ Much of this research focused on _how_ these software suites were designed and i
 	2. then the system is developed
 	3. then the system is implemented in the organization to serve the particular need.
 
+Cuparla was only adopted by a few smaller city councils in Germany, and the literature about it is limited to 5 articles, all by the same author. However, it is a case study in an early adoption of a comprehensive software suite by city council, and the reasons behind it are relevant to our research.
+
 #####Creating Cuparla
 
 - Detailed analysis of Stuttgart city council work revealed certain characteristics
