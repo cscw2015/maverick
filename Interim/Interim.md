@@ -402,28 +402,6 @@ As each interview is completed, we have to transcribe them. The dates above are 
 
 ## Appendix 3: Preliminary Results
 
-- some notes from meetings
-	- all councillors are already using laptops/tablets at the meetings
-	- start meetings by announcing changes to agenda from when it was published
-	- many items on the agenda are "late items"
-	- voting is done by simple hand raise
-	- councillors indicate they would like to speak by raising hand
-	- mayor writes down a list on paper of which councillor(s) are speaking next
-	- people presenting give slides to council beforehand
-	- agendas are posted online (presented to the public) on the Friday before the Thursday meeting
-	- there are frequently changes between when the agenda is posted and the meeting time, which are announced at the beginning of the meeting before the agenda is adopted (Do council members have access to this updated agenda in advance of the meeting?)
-	- a number of councillors (and the mayor) were observed taking notes on paper (although each councillor had a laptop or tablet)
-	- the Agenda is projected on two large screens in Word; the clerk has to scroll down to each agenda items, which can be rather quick if the pace of the meeting is fast (as it was on this day)
-	- agenda items are emailed to the clerk and to council in advance of the meeting
-	- Mayor “circles” points of discussion on her iPad (she said she was circling something related to the meeting on her iPad)
-	- motions are not always read out in full in the meeting; it is counted on that the councillors can read the motions on their laptops or on the big screen televisions
-	- much of the discussion of motions happens in committees before the council meeting
-	- the three public hearings on this day had no members of the public speaking to them—a stark contrast to the 2+ hour hearing for the social housing at the last council meeting
-	- the clock must be reset manually for each speaker who comes to the mic from the public (one time the clerk forgot to reset)
-	- Outlook is used for the email communications we saw in the council meeting; it seems email is used a lot to conduct council business
-	- everyone who speaks at the meeting is welcomed personally by the mayor
-- small analysis of meetings
-
 As we have only completed some of our interviews with councillors and others at this time, we have decided not to include findings from those in this report. However, we have finished our observation of Victoria city council meetings, and have a number of points from this to discuss.
 
 All councillors currently have a laptop or tablet at the meeting. Some laptops run Windows, but most are MacBooks. The meeting begins with the mayor verbally announcing any late additions or changes to the agenda since it was published online on the Friday before the meeting. We observed a number of late items added to the agenda at both meetings we attended. In order to construct the agenda, members email their items to the clerk and to council in advance of the meeting.
