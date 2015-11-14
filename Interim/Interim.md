@@ -103,73 +103,52 @@ Much of this research focused on _how_ these software suites were designed and i
 
 ####Cuparla
 
-- Number of socio-tech  projects are coming on a timely manner to improve the city council administration in terms of effective communication by following the below level of practices:
-	1. the need of technology for support is analysed 
-	2. then the system is developed
-	3. then the system is implemented in the organization to serve the particular need.
+In 1995, a number of socio-tech projects were coming on a timely manner to improve the city council administration (in terms of effective communication). In the example of Cuparla, the developers first assessed the need of technology for support. After completing this analysis, they developed this system and then implemented it in specific municipal organizations to serve their particular need. 
 
-Cuparla was only adopted by a few smaller city councils in Germany, and the literature about it is limited to 5 articles, all by the same author. However, it is a case study in an early adoption of a comprehensive software suite by city council, and the reasons behind it are relevant to our research.
+Cuparla was only adopted by a few smaller city councils in Germany, and the literature about it is limited to 5 articles, all by the same author. However, it is a case study in an early adoption of a comprehensive software suite by city council, hence its relevance to our research. 
 
 #####Creating Cuparla
 
-- Detailed analysis of Stuttgart city council work revealed certain characteristics
-	- Any time any place support to council members was required since they didn't have fixed office locations to prepare for city-hall meetings.
-	- Council members collaborate and behave differently in different contexts. Informal and open within their party groups and were more controlled and formal in official council meetings.
-	- No proper structure was followed in communication; each member had right to initiate and involve other members of the administration in any order
-	- Minimal computer usage within council itself
-- Objectives of the Cuparla Project:
-	- To bring effectiveness and flexibility in the work of the councils.
-	- To have more access to information by council members
-	- To reduce communication barriers between council and administration and within the council.
-- Cuparla was launched at the end of 1995 in the Stuttgart city council.
-- By the fall 1997, alomost every city council member were using this system.
+Cuparla was initially developed for the city of Stuttgart, Germany. A Detailed analysis of Stuttgart city council work revealed certain characteristics of the city council's work:
+- Any software required to support council members needed to have functionality supporting the "any time, any place" style of meeting. This was required as council members did not have fixed office locations to prepare for city hall meetings. 
+- The council members collaborated and behaved differently in different contexts. When in their respective political party groups, council members tended to be more informal and open with regards to communication. In official council meetings, they were more controlled and more formal. 
+- There was no inherent structure to be followed for communication. Each member of the city council had the right to initiate communication and they had the right to involve members of the administration in any order. 
+- At the time, there was minimal computer usage within the council itself. 
+ 
+Given all this information, the developers for Cuparla aimed to satisfy three objectives. Firstly, they sought to bring effectiveness and flexibility in the work of the councils. Secondly, they wanted to provide more access to information for the council members. Finally, they aimed to reduce communication barriers between the council members and administration within the council. The software suite was launched at the end of 1995 in Stuttgart, and by fall 1997, almost every city council member was using the system. 
 
-#####Methodology used in developing Cuparla
-
-- Detailed analysis of council work was done using Needs Driven Analysis(NDA). NDA is suitable to concurrently design software and intervene in an organization in a large group environment.
-- Need for group support was found which served the basis for the Cuparla design.
-- Implementation of the design within the council was done as a preliminary level.
-- After few months, the analysis of the Cuparla usage was performed in two cycles:
-	- In first cycle, the Cuparla was tested by 11 city council members
-		- results obtained from them are then used to do second analysis, design, implementation and evaluation phase
-	- In the second cycle, this software was tested on 55 or 56 active city council members
-- By the end of the second cycle ,a field test of Cuparla was performed on the small city of Kornwestheim.
--  To determine the effectiveness of the tool [5]
-	
 #####Cuparla Software Design
 
-- designed with aim to support political entities
-- supports functions such as information, communication, coordination, collaboration
-- Based on the city council actual work procedure, the design consist of rooms, shown in figure below: 
-	- private room - where the council member works at home 
-	- party room - where council member collaborates with their party colleagues
-	- room for committee meetings
-	- room for work groups
-	- private post office
-	- library for filed information
-- Documents created in private room can be shared by placing in the room they wish to share in [6]
+Cuparla was designed with the aim to support political entities. The following figure is a screenshot of the software suite's main page. As shown by the picture, this software supported many functions, including "information, communication, coordination, and collaboration."  [6]
 
 <p align="center">
 <img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpg">
 </p>
 
+The design of this software was based on the city council's actual work procedure of using distinct *rooms* for different purposes. Each room had its own set of supported functions. Below is a partial listing of the functions supported by each room:
+- **Private Room** - Here, the council member works at home. This function is intended for an individual's work.  
+- **Parliamentary Party** - Using this function, a council member has the opportunity to collaborate with their party colleagues. 
+- **Committees** - This function lets council members collaborate between parties on particular committee issues. 
+- **Library** - This function allowed any council member to have access to previously filed information. 
+
+Any documents created in private rooms could be shared by placing them in the room that the user wished to share the document with. While this type of software design seems trivial and archaic by today's software standards, it was a historical landmark for the field of CSCW in government as there are few, if any, documented software suites that were developed for particular municipalities. Cuparla was one of the pioneers in the field of specialized government software. 
+
+#####Methodology used in developing Cuparla
+
+To properly evaluate the Stuttgart city council, a detailed analysis of council work was done using Needs Driven Analysis(NDA). NDA is suitable to concurrently design software and intervene in an organization in a large group environment. This type of analysis identified the need for group support, which then served as the basis for the design of Cuparla. An initial design was implemented within the council, and the developers allowed for a few months of usage before analyzing the usage and effectiveness of the software. 
+
+Two analysis and development cycles were used to develop Cuparla. In the first cycle, Cuparla was tested by 11 city council members. The results obtained from this initial wave were then used to do a second analysis, design, implementation and evaluation phase. This second software cycle was tested on 55 of 56 active city council members. By the end of the second cycle, a field test of Cuparla was performed on the small city of Kornwestheim, in order to determine the effectiveness of the tool in a different environment [5]. 
+	
+
 ##### Evaluation of Cuparla
 
-- Cuparla was evaluated on five sets of criteria and four levels of aggregation[7]: 
-	- Cost 
-	- Time
-	- Quality
-	- Flexibility
-	- Human Situation, further evaluated on: Individual, Group, Process Organization
-- criteria and levels of aggregation aligned to create a 4x5 matrix, shown below
+Evaluation of cuparla was done on five sets of criteria and four levels of aggregation [7]. The criteria used to evaluate Cuparla were **cost, time, quality, flexilbility,** and **human situation**. The four levels of aggregation used to distinct the user groups involved were the **individual**, the **group**, the **process**, and the **organization**. As seen in the following figure, these criteria were aligned to create a 4x5 matrix for easier evaluation. Any notes made in the evaluation were attributed only to the lowest applicable level. For instance, the costs of a server would be attributed to the **group** as that is the lowest level in direct need of the server, whereas a PC in an office is attributed to the **individual** level. 
 
 <p align="center">
 <img src="https://github.com/cscw2015/maverick/blob/master/Interim/Evaluation of Curparla.png">
 </p>
 
-- any notes made in eval were attributed only to lowest applicable level
-	- e.g. costs of server are attributed to **group**, PC in office is attributed to individual **user**
-	- seems to be an effort to reduce redundancy in data from evaluation
+Using a matrix of this sort seemed to be an effot to reduce the redundancy in data from the evaluation. We will not be using such a method in our study to evaluate software, as our study is more exploratory than evaluatory. 
 
 ####E-government
 
