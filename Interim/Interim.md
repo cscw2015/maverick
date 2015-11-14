@@ -62,6 +62,12 @@ According to Schümmer, there are three distinct facets of designing an electron
 2. the generic groupware perspective for designing supportive software tools, and
 3. the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space.
 
+The following figure helps to provide a context for what Schümmer is trying to illustrate. Specifically, it shows where modern, everyday technology fits in to his model of an electronic meeting system. 
+
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Interim/cscw_in_meetings.png">
+</p>
+
 Arguably, the hardest facet of designing an electronic meeting system for a group is understanding their needs. To properly assess the needs of a group that needs to meet on a regular basis, you need to observe how the group interacts in a meeting and what the group needs from their available technology to augment and improve their work flow. While many tools (both open source and proprietary) today are being rapidly developed and improved on, they are not guaranteed to meet the needs of public officials. 
 
 Addressing the first point that Schümmer makes is part of the reason behind our study. To ensure that our government has room to innovate, an assessment of their current technological integration and their current communication practices is necessary. 
