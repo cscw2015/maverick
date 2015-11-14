@@ -118,17 +118,20 @@ Here are some examples of previous attempts to integrate CSCW into government or
 	- To bring effectiveness and flexibility in the work of the councils.
 	- To have more access to information by council members
 	- To reduce communication barriers between council and administration and within the council.
+- Cuparla was launched at the end of 1995 in the Stuttgart city council.
+- By the fall 1997, alomost every city council member were using this system.
 
 #####Methodology used in developing Cuparla
 
-- Detailed analysis of council work was done by Needs Driven Analysis
+- Detailed analysis of council work was done using Needs Driven Analysis(NDA). NDA is suitable to concurrently design software and intervene in an organization in a large group environment.
 - Need for group support was found which served the basis for the Cuparla design.
 - Implementation of the design within the council was done as a preliminary level.
 - After few months, the analysis of the Cuparla usage was performed in two cycles:
 	- In first cycle, the Cuparla was tested by 11 city council members
 		- results obtained from them are then used to do second analysis, design, implementation and evaluation phase
 	- In the second cycle, this software was tested on 55 or 56 active city council members
-- A field test of Cuparla was performed on the small city of Kornwestheim to determine the effectiveness of the tool [5]
+- By the end of the second cycle ,a field test of Cuparla was performed on the small city of Kornwestheim.
+-  To determine the effectiveness of the tool [5]
 	
 #####Cuparla Software Design
 
