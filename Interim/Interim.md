@@ -129,7 +129,7 @@ Here are some examples of previous attempts to integrate CSCW into government or
 - After few months, the analysis of the Cuparla usage was performed in two cycles:
 	- In first cycle, the Cuparla was tested by 11 city council members
 		- results obtained from them are then used to do second analysis, design, implementation and evaluation phase
-	- In the second cycle, this software was tested on 55 or 56 active city council members
+	- In the second cycle, this software was tested on 55 of 56 active city council members
 - By the end of the second cycle ,a field test of Cuparla was performed on the small city of Kornwestheim.
 -  To determine the effectiveness of the tool [5]
 	
