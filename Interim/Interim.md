@@ -174,10 +174,16 @@ Using a matrix of this sort seemed to be an effot to reduce the redundancy in da
 
 #####Benefits of e-government
 
-- increased government accountability to citizens 
-- greater public access to information and a more efficient, cost-effective government
-- the success and acceptance of e-government initiatives, such as onlinevoting and licence renewal [19]
-- [20]
+The advantages of moving many government processes online are numerous, and include increased government accountability, "greater public access to information and a more efficient, cost-effective government," and easier access to many services including online voting and licence renewal [19].
+
+In his comprehensive paper about the benefits of e-government, Bhatnagar includes a list of some of its social and economic impacts, taken from cases of cities around the world. These benefits include [20]:
+- increased transparency (dissemination of Government rules and procedures; disclosure of public assets; making decisions and actions of civil servants transparent)
+- reducing administrative corruption (putting procedures online so that transactions can be easily monitored)
+- improving service delivery (less time to complete transactions; reduced travel costs for citizens to interact with government; service to larger segment of population)
+- empowerment (of underserved communities; reduce the brokerage power of intermediaries)
+- streamlined administrative process (increased ability of managers to monitor task completion rates of civil servants; improved efficiency of civil servants by automating tedious work; integration of databases, reducing inaccuracies caused by the presence of redundant, duplicate databases)
+- reduced administrative burdens for businesses (faster access to government and less time needed to interact with government)
+- increased revenue (convenient to pay taxes; improved audit to identify defaulters; plug leakage by reducing corruption)
 
 ####Open Source
 
