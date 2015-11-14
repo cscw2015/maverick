@@ -147,9 +147,10 @@ Using a matrix of this sort seemed to be an effort to reduce the redundancy in d
 E-government, which became popular alongside the development of the Internet in 2000, is the "delivery of government information and services through the Internet 24 hours a day, 7 days per week" [7].
 
 There are three main government relations that pertain to e-government [8]:
-	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications.
-	2. **Government to Business**: purchase for property, equipment, office supplies.
-	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs [9].
+
+1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications.
+2. **Government to Business**: purchase for property, equipment, office supplies.
+3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs [9].
 
 #####Reasons behind innovating with e-government
 
