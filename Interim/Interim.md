@@ -81,17 +81,23 @@ Addressing the first point that Schümmer makes is part of the reason behind our
 
 ### Local Government Innovation
 
-Innovation is an important part of any continued collaborative group work. Walker says innovation is a core task of public institutions and that "innovation has been promoted around the world as a key tool to improve public services" [4]. This is one of the reasons we are targeting the city of Victoria with our study: that public services always stand to be improved, and they are in one of the best positions to affect this change. Ihkre notes that local governments are more likely to innovate than governments at state or federal level because of "their small size and capacity to make decisions quickly and decisively," [2] and this is another reason as to why we are targeting the city of Victoria. While standards do exist at the provincial and federal level for regulating what technologies can be used in government organizations, a municipal government stands to gain more from integrating new technology on a regular basis and is in a good position to do so. 
+Innovation is an important part of any continued collaborative group work. Walker says innovation is a core task of public institutions and that "innovation has been promoted around the world as a key tool to improve public services" [4]. This is one of the reasons we are targeting the city of Victoria with our study: public services always stand to be improved, and the city is in one of the best positions to affect this change. Ihkre notes that local governments are more likely to innovate than governments at the state or federal level because of "their small size and capacity to make decisions quickly and decisively," [2] and this is another reason as to why we are targeting the city of Victoria. While standards do exist at the provincial and federal level for regulating what technologies can be used in government organizations, municipal governments like the city of Victoria can be more receptive to change and can integrate suggestions for improvement at a much faster pace than provincial or federal bodies. 
+
+We believe the city of Victoria would be interested in this sort of study for two reasons. The first is that by recognizing any potential shortcomings in their current practices they can quickly take steps to remedy these shortcomings; our study offers this through analysis of interviews with city officials. The second reason is that local governments tend to get a lot of pressure to "do more with less" [4] so by offering potential alternatives to the city (should they be applicable), the city can choose to shift the technologies they use and potentially lower their current costs. To help inform this decision, should we make any suggestions towards changing the software or the way they use software we will also include the cost of changing this software, where applicable. 
 
 - Haus claims that "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [3]. 
-- local governments also get a lot of pressure to "do more with less" [4]
-- we will incorporate cost estimate of any changes we may propose in final recommendation report to council
 
-- transition into history
+Before addressing how we plan to assess the current state of technological use in the municipality of Victoria, we need to consider what has been done before in this field of research. The following section details the history of CSCW integration with governments. 
 
 ###History of CSCW Use in Government
 
 Here are some examples of previous attempts to integrate CSCW into government organizations. These examples are in chronological order, and attempt to focus on the processes used to research the organizations involved as well as how they built or identified what software suites would be most applicable for the given organization. 
+
+- order of appearance:
+	1. Cuparla [date]
+	2. E-government [date]
+	3. Open source [date]
+	4. Government 2.0 [date]
 
 ####Cuparla
 
@@ -298,12 +304,15 @@ As mentioned before, we also attended public city meetings to observe the usage 
 
 ## Impact
 
-- project can immediately offer two things:
-1. Outside perspective on current communication practices within the government, which may help identify flaws in communication practices
-2. Transparency on communication practices employed by the government, so controversies like the current BC government FOI requests can be avoided
-- scale and time frame of project don't allow for in-depth analysis
-	- similar studies could be conducted on other municipal governments, provincial governments or even federal
-	- larger time frame would allow for observation of different meetings and follow-up interviews
+This project immediately offers two things to the city of Victoria:
+1. It offers an outside perspective on current communication practices within the government, which may help identify flaws in communication practices; and
+2. It offers transparency on communication practices employed by the government, so citizens of Victoria can be more aware of how the city operates on a technical level.
+
+A longer time frame for this study could have allowed for follow-up interviews, observation of private meetings (as opposed to primarily public forums), or even designing and testing a new suite of software that focuses in particular on the needs of the municipality of Victoria. 
+
+Similarily, this study could also be modified to assess similar issues on a provincial or federal scale. Such modified studies would need to have a broader focus (they may involve assessing the public's desires of the government vs. the government's responsibilities towards communications and data privacy) and would require a much larger time frame. 
+
+These types of studies are rarely conducted, in comparison to other fields of work. Typically, government organizations are audited by a specific subset of companies, but these audits tend to focus on ensuring the government is up to the current standard. Our study looks to go beyond the current standards and afford the opportunity for technological innovation, as a benefit for the public. 
 
 ##Appendices
 
