@@ -198,15 +198,15 @@ In the case of Munich, Microsoft was slated to discontinue its support for Windo
 
 #####Transition to Open Source in Munich
 
-The following list details all the options that Munich considered after Microsoft announced the discontinuation of Windows NT: 
+The following list details all the options that Munich considered after Microsoft announced the discontinuation of Windows NT [16]: 
 
-1. MS XP + MS Office XP 
+> 1. MS XP + MS Office XP 
 2. MS XP + OpenOffice 
 3. GNU/Linux + OpenOffice 
 
-For the option of GNU/Linux, given that this was a major change compared to updating to the current Microsoft OS, they also considered two transitional solutions: 
+For the option of GNU/Linux, given that this was a major change compared to updating to the current Microsoft OS, they also considered two transitional solutions [16]: 
 
-1. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
+> 1. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
 2. GNU/Linux + OpenOffice + Terminal Server
 
 In his paper on the transition to open source in Munich, Grassmuck noted that "both transitional solutions presented architectural and operational complexities, not least with respect to security and an increased need for training. They were therefore considered undesirable as such and only to be deployed where no other solution could be found [16].”
