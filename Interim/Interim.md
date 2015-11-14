@@ -218,51 +218,66 @@ Cuparla was only adopted by a few smaller city councils in Germany, and the lite
 
 ####Open Source
 
-- FOSS = “free, open-source software” 
-- “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [12]
-- can save significant amounts of money, but the cost of migration, including training of employees, must be taken into account
+Open source software began to play a prominent role in government in 2001. 
+
+In this section, when we refer to open source software, we are specifically referring to software under the *FOSS* category ("Free open-source software"). This term is “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [12], and serves as a contrast to the proprietary (privately owned) software seen throughout the corporate world. Adopting this type of software can save significant amounts of money (as seen with our example of Munich) but the cost of migration, including training of employees, must be taken into account. 
 
 #####Reasons Behind Innovating with Open Source
-- migrating to a new system involves risks, so it's often a top-down approach by politicians. [12]
-- "factors that influence innovation:
-	1. pressure from legislators or politicians; 
-	2. change in leadership from within or outside an organization; 
-	3. crises or visible public failures; 
-	4. internal failings such as an inability to coordinate across departments or meet the demands of a program;
-	5. new opportunities that occur through development of new technologies or other factors.” [12]
-- independence
-- effectiveness 
-- cost savings 
-- In the case of Munich, Microsoft discontinued its support for Windows NT [13]
-- greater vendor independence (more competition in the software market) [13]
-- "future-proofness" of open protocols, data formats and interfaces [13]
+
+Whenever a group migrates to a new system, there are risks involved. A top-down approach is usually taken by politicians in order to mitigate these risks [12]. However, migration of systems is sometimes necessary to motivate innovation. Some of the factors that influence this innovation include:
+
+1. pressure from legislators or politicians; 
+2. change in leadership from within or outside an organization; 
+3. crises or visible public failures; 
+4. internal failings such as an inability to coordinate across departments or meet the demands of a program;
+5. new opportunities that occur through development of new technologies or other factors. [12]
+ 
+However, that is not to say that this type of change is always caused by a negative event. Many times, groups that make this sort of migration to open source software are looking for independence from propriety software. The effectiveness of the software can also play a factor, as many times there is an open source alternative to proprietary software that has equal or greater functional capability than its proprietary counterpart(s). Cost can also play a factor, as previously companies would have to pay for licenses to use proprietary products. Today there also exist subscription models for these proprietary solutions, so a group (public or private) may look to open source alternatives to save on cost. 
+
+In the case of Munich, Microsoft was slated to discontinue its support for Windows NT by 2004 due to systemic security flaws [new citation], which was the operating system that Munich's city had been primarily using. They took this opportunity to seek alternative solutions in an effort to achieve "greater vendor independence" and take advantage of a highly competitive software market [13]. One of their goals was also to utilise the "future-proofness" of open protocols, data formats and interfaces, and the solution they eventually arrived at was to migrate to open source software. 
+
+#####Transition to Open Source in Munich
+
+The following list details all the options that Munich considered after Microsoft announced the discontinuation of Windows NT: 
+
+1. MS XP + MS Office XP 
+2. MS XP + OpenOffice 
+3. GNU/Linux + OpenOffice 
+
+For the option of GNU/Linux, given that this was a major change compared to updating to the current Microsoft OS, they also considere two transitional solutions: 
+3a. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
+3b. GNU/Linux + OpenOffice + Terminal Server
+
+In his paper on the transition to open source in Munich, Grassmuck noted that "both transitional solutions presented architectural and operational complexities, not least with respect to security and an increased need for training. They were therefore considered undesirable as such and only to be deployed where no other solution could be found.” [13]
+
+Grassmuck also states that the project leaders determined that a successful migration required "consistent adherence to a number of technological and political principles," [13] and used the following principles to guide this migration:
+
+1. Applications should be OS-independent.
+2. New client-server applications would only be developed or commissioned as web applications according to the J2EE model.
+3. Cooperation of all software partners would be necessary as software is customized, and as applications are redeveloped.
+4. The project had to have the support of both political leadership and heads of the administration.
+5. Proactive education and involvement of employees would be essential.
+
+Munich did successfully migrate to using open source alternatives for their computing needs. The following table outlines the timeline they adhered to for transitioning to open source software. 
+
+|Date|Step in Transition|
+|--------|--------------|
+|November 2001|Munich decided to investigate open-source options in operating systems and office suites.|
+|April 2002|Commissioned a consulting company for options|
+|May 2003|Made the decision to migrate to open-source software and web applications.|
+|2004|Migration to open-source began.|
+
+Munich is not the first city to have documented their transition to open source. The first known city to use open-source was Schwäbisch Hall in Baden-Würtemberg, who migrated their servers in 2002 and all their desktops in 2004 [13]. The case of Munich has more research and accessible public information on its transition attached to it, which is why we chose to focus on it. <move this sentence to an earlier point!>
 
 #####Methodology to evaluate usage of open source
-- semi-structured interviews [12]
-- “The interview instrument consisted of a set of identical questions related to motivation, implementation, and results. Each questionnaire also contained a set of questions specific to the position of the interviewee. To facilitate coding and analysis of the interviews I used N-Vivo, a qualitative analysis software program. I also relied on internal reports, audits, and news releases published by each city to develop the necessary background for the research and to substantiate information collected through interviews. Finally, I surveyed news accounts to corroborate data produced by the cities and the interviews” [12]
 
-#####Implementation of Open Source in Munich
-- “The alternatives were: 
-	1. MS XP + MS Office XP 
-	2. MS XP + OpenOffice 
-	3. GNU/Linux + OpenOffice 
-	And two transitional solutions: 
-		3a. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
-		3b. GNU/Linux + OpenOffice + Terminal Server 
-Both transitional solutions presented architectural and operational complexities, not least with respect to security and an increased need for training. They were therefore considered undesirable as such and only to be deployed where no other solution could be found” [13]
-- “the project leaders determined that a successful migration required consistent adherence to a number of technological and political principles: 
-	1. applications should be OS-independent; 
-	2. new client-server applications would only be developed or commissioned as web applications according to the J2EE model; 
-	3. cooperation of all software partners would be necessary as software is customized, and as applications are redeveloped; 
-	4. the project had to have the support of both political leadership and heads of the administration; 
-	5. proactive education and involvement of employees would be essential” [13]
+An independent review of this open source transition was conducted in 2008 by Mark Cassell, in an attempt to explore why cities in Europe had been migrating to open source software. To do so, he relied on semi-structured interviews with members of four cities that had successfully transitioned to open source software: Vienna, Munich, Schwäbisch Hall, and Treuchtlingen [12]. He specifically stated that he used the following methodology to assess the adoption of open source software in these cities.
 
-######Timeline for Munich's Migration
-- November 2001: Munich decided to investigate open-source options in operating systems and office suites
-- April 2002: Commissioned a consulting company for options
-- May 2003: Made the decision to migrate to open-source software and web applications.
-- 2004: Migration to open-source began.
-- Note: The first city to use open-source was Schwäbisch Hall in Baden-Würtemberg, who migrated their servers in 2002 and all their desktops in 2004 [13]
+> The interview instrument consisted of a set of identical questions related to motivation, implementation, and results. Each questionnaire also contained a set of questions specific to the position of the interviewee. To facilitate coding and analysis of the interviews I used N-Vivo, a qualitative analysis software program. I also relied on internal reports, audits, and news releases published by each city to develop the necessary background for the research and to substantiate information collected through interviews. Finally, I surveyed news accounts to corroborate data produced by the cities and the interviews.
+
+These interviews were initially conducted in German and then translated to English. These interviews were conducted over the course of two months and, as Cassell mentions, coded in part by N-Vivo to help in analysis. 
+
+In our project, we did not feel the need to use specific software to assist in coding and analyzing interview data. Given that we are conducting a small number of interviews across two municipalities, most of the interview transcription will be done by hand as interviews are completed. 
 
 ####Government 2.0
 
