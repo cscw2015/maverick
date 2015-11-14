@@ -99,6 +99,8 @@ Here are some examples of previous attempts to integrate CSCW into government or
 	3. Open source (2002-2014)
 	4. Government 2.0 (current)
 
+Much of this research focused on _how_ these software suites were designed and implemented, alongside their benefits. However, we want to focus on _why_ these software suites were designed and _why_ they were adopted. 
+
 ####Cuparla
 
 - Number of socio-tech  projects are coming on a timely manner to improve the city council administration in terms of effective communication by following the below level of practices:
@@ -178,6 +180,7 @@ Here are some examples of previous attempts to integrate CSCW into government or
 
 #####Reasons behind innovating with e-government
 
+- the boom in Internet technology caused demand for online government presence
 - increasing demands for timely and accurate communications
 - emerging opportunities in electronic communications
 - more ownership of home PC’s
@@ -199,8 +202,7 @@ Here are some examples of previous attempts to integrate CSCW into government or
 ######Challenges of e-government
 
 - people creating fake sites and getting the city to include them (eg. Fire Dept) 
-- putting building permits online
-- 100,000 hits/month on website first year, 10,000/day after
+- putting building permits online (sensitivity)
 - people not using online services after major investment
 - requests to put job applications, engineering plans online
 - different than e-business in 3 main respects: Access, Structure, Accountability
@@ -322,7 +324,7 @@ These types of studies are rarely conducted, in comparison to other fields of wo
 ### Appendix 1: Team Roles
 
 ####Kimberlee Graham-Knight: Group Leader
-Kimberlee is taking on the role of group leader. She is responsible for regularly checking in on each group member to ensure that they are fulfilling their roles and that any issues or questions they have can be addressed as soon as possible. This includes delegating tasks as necessary. Kimberlee is also responsible for conducting some of our interviews with city councillors, and has attended some of the city council meetings to help establish a background for our research. 
+Kimberlee is taking on the role of group leader. She is responsible for regularly checking in on each group member to ensure that they are fulfilling their roles and that any issues or questions they have can be addressed as soon as possible. This includes delegating tasks as necessary. Kimberlee is also responsible for conducting some of our interviews with city councillors, and has attended some of the city council meetings to help establish a background for our research. Further, she is responsible for some of the literature review along with Roshni.
 
 ####Roshni Jain: Data Analysis
 Roshni is responsible for overseeing the analysis of all the data we collect from interviews. As interviews are completed, she and Tian will be transcribing the audio recordings provided from these interviews. After all the transcriptions are completed, Roshni will be responsible for leading the analysis on these interview results. She is also responsible for reviewing any relevant literature and collating the background research necessary to ground this project and give it context. To assist with providing context, Roshni has attended some of the city council meetings. 
@@ -391,6 +393,18 @@ As each interview is completed, we have to transcribe them. The dates above are 
 	- councillors indicate they would like to speak by raising hand
 	- mayor writes down a list on paper of which councillor(s) are speaking next
 	- people presenting give slides to council beforehand
+	- agendas are posted online (presented to the public) on the Friday before the Thursday meeting
+	- there are frequently changes between when the agenda is posted and the meeting time, which are announced at the beginning of the meeting before the agenda is adopted (Do council members have access to this updated agenda in advance of the meeting?)
+	- a number of councillors (and the mayor) were observed taking notes on paper (although each councillor had a laptop or tablet)
+	- the Agenda is projected on two large screens in Word; the clerk has to scroll down to each agenda items, which can be rather quick if the pace of the meeting is fast (as it was on this day)
+	- agenda items are emailed to the clerk and to council in advance of the meeting
+	- Mayor “circles” points of discussion on her iPad (she said she was circling something related to the meeting on her iPad)
+	- motions are not always read out in full in the meeting; it is counted on that the councillors can read the motions on their laptops or on the big screen televisions
+	- much of the discussion of motions happens in committees before the council meeting
+	- the three public hearings on this day had no members of the public speaking to them—a stark contrast to the 2+ hour hearing for the social housing at the last council meeting
+	- the clock must be reset manually for each speaker who comes to the mic from the public (one time the clerk forgot to reset)
+	- Outlook is used for the email communications we saw in the council meeting; it seems email is used a lot to conduct council business
+	- everyone who speaks at the meeting is welcomed personally by the mayor
 - small analysis of meetings
 
 ## References
