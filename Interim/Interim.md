@@ -62,6 +62,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 - much of existing research about city governments is about how to improve government-citizen relations
 	- not as much on how technology plays a role in this, or if there is it's outdated
 - we want to focus on inter-governmental collaborations and how city councillors coordinates themselves to solve issues
+- we want to look at how the government currently provides transparency
 - research of this type can provide beneficial information to councillors on how to improve their operations, and provide transparency to citizens on how government collates information and develops laws for the city
 
 ## Related Work
