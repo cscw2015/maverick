@@ -9,7 +9,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		1. [Cuparla](#cuparla)
 			1. [Creating Cuparla](#creating-cuparla)
 			2. [Cuparla Software Design](#cuparla-software-design)
-			3. [Methdology used in developing Cuparla](#methodology-used-in-developing-cuparla)
+			3. [Methodology used in developing Cuparla](#methodology-used-in-developing-cuparla)
 			4. [Evaluation of Cuparla](#evaluation-of-cuparla)
 		2. [E-government](#e-government)
 			1. [Reasons behind innovating with e-government](#reasons-behind-innovating-with-e-government)
@@ -75,7 +75,7 @@ Understanding Schümmer's scheme as it relates to city council is part of the mo
 
 ### Local Government Innovation
 
-Innovation is an important part of any continued collaborative group work. Walker says innovation is a core task of public institutions and that "innovation has been promoted around the world as a key tool to improve public services" [2]. This is one of the reasons we are targeting the city of Victoria with our study: public services always stand to be improved, and the city is in one of the best positions to affect this change. Ihkre notes that local governments are more likely to innovate than governments at the state or federal level because of "their small size and capacity to make decisions quickly and decisively" [3], and this is another reason as to why we are targeting the city of Victoria. While standards do exist at the provincial and federal level for regulating what technologies can be used in government organizations, municipal governments like the city of Victoria can be more receptive to change and can integrate suggestions for improvement at a much faster pace than provincial or federal bodies. 
+Innovation is an important part of any continued collaborative group work. Walker says innovation is a core task of public institutions and that "innovation has been promoted around the world as a key tool to improve public services" [2]. This is one of the reasons we are targeting the city of Victoria with our study: public services always stand to be improved, and the city is in one of the best positions to affect this change. Ihrke notes that local governments are more likely to innovate than governments at the state or federal level because of "their small size and capacity to make decisions quickly and decisively" [3], and this is another reason as to why we are targeting the city of Victoria. While standards do exist at the provincial and federal level for regulating what technologies can be used in government organizations, municipal governments like the city of Victoria can be more receptive to change and can integrate suggestions for improvement at a much faster pace than provincial or federal bodies. 
 
 We believe the city of Victoria would be interested in this sort of study for two reasons. The first is that by recognizing any potential shortcomings in their current practices they can quickly take steps to remedy these shortcomings; our study offers this through analysis of interviews with city officials. The second reason is that local governments tend to get a lot of pressure to "do more with less" [2] so by offering potential alternatives to the city (should they be applicable), the city can choose to shift the technologies they use and potentially lower their current costs. To help inform this decision, should we make any suggestions towards changing the software or the way they use software we will also include the cost of changing this software, where applicable. 
 
@@ -134,7 +134,7 @@ Two analysis and development cycles were used to develop Cuparla. In the first c
 
 ##### Evaluation of Cuparla
 
-Evaluation of cuparla was done on five sets of criteria and four levels of aggregation [6]. The criteria used to evaluate Cuparla were **cost, time, quality, flexilbility,** and **human situation**. The four levels of aggregation used to distinct the user groups involved were the **individual**, the **group**, the **process**, and the **organization**. As seen in the following figure, these criteria were aligned to create a 4x5 matrix for easier evaluation. Any notes made in the evaluation were attributed only to the lowest applicable level. For instance, the costs of a server would be attributed to the **group** as that is the lowest level in direct need of the server, whereas a PC in an office is attributed to the **individual** level. 
+Evaluation of cuparla was done on five sets of criteria and four levels of aggregation [6]. The criteria used to evaluate Cuparla were **cost, time, quality, flexibility,** and **human situation**. The four levels of aggregation used to distinct the user groups involved were the **individual**, the **group**, the **process**, and the **organization**. As seen in the following figure, these criteria were aligned to create a 4x5 matrix for easier evaluation. Any notes made in the evaluation were attributed only to the lowest applicable level. For instance, the costs of a server would be attributed to the **group** as that is the lowest level in direct need of the server, whereas a PC in an office is attributed to the **individual** level. 
 
 <p align="center">
 <img src="https://github.com/cscw2015/maverick/blob/master/Interim/Evaluation of Curparla.png">
@@ -153,7 +153,7 @@ There are three main government relations that pertain to e-government [8]:
 
 #####Reasons behind innovating with e-government
 
-As the boom in Internet technology grew, there was increasing demand for accurate communication within government and with citizens. The development of e-government was fueled by emerging opportunities in electronic communications, and more ownership of home PC's [10]. In short, it was implemented "to increase the government’s level of quality service by making the paper-driven or counter-based services more convenient and accessible to citizens and businesses [11]."
+As the boom in Internet technology grew, there was increasing demand for accurate communication within government and with citizens. The development of e-government was fuelled by emerging opportunities in electronic communications, and more ownership of home PC's [10]. In short, it was implemented "to increase the government’s level of quality service by making the paper-driven or counter-based services more convenient and accessible to citizens and businesses [11]."
 
 #####Methodology to evaluate use of e-government
 
@@ -167,7 +167,7 @@ The website went live in late October 1999, with a cost of implementation of rou
 
 The advantages of moving many government processes online are numerous, and include increased government accountability, "greater public access to information and a more efficient, cost-effective government," and easier access to many services including online voting and licence renewal [12].
 
-In his comprehensive paper about the benefits of e-government, Bhatnagar includes a list of some of its social and economic impacts, taken from cases of cities around the world. These benefits include [13]:
+In his paper about the benefits of e-government, Bhatnagar includes a list of some of its social and economic impacts, taken from cases of cities around the world. These benefits include [13]:
 - **increased transparency** (dissemination of Government rules and procedures; disclosure of public assets; making decisions and actions of civil servants transparent)
 - **reduced administrative corruption** (putting procedures online so that transactions can be easily monitored)
 - **improved service delivery** (less time to complete transactions; reduced travel costs for citizens to interact with government; service to larger segment of population)
@@ -178,7 +178,7 @@ In his comprehensive paper about the benefits of e-government, Bhatnagar include
 
 ####Open Source
 
-Open source software began to play a prominent role in government in 2001, when municipalities in Germany began to migrate their users to open source software. We took a particular look at the case study of Munich, as a lot of data and news articles exist to support the reasoning behind their move to open source software. The case of Munich has more research and accessible public information on its transition attached to it, which is why we chose to focus on it.
+Open source software began to play a prominent role in government in 2001, when municipalities in Germany began to migrate their users to open source software. We took a particular look at the case study of Munich, as a lot of data and news articles exist to support the reasoning behind their move to open source software. The case of Munich has more research and accessible public information on its transition attached to it than other examples of open source software in government, which is why we chose to focus on it.
 
 In this section, when we refer to open source software, we are specifically referring to software under the **free open-source software (FOSS)**  category. This term is “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge [14]," and serves as a contrast to the proprietary (privately owned) software seen throughout the corporate world. Adopting this type of software can save significant amounts of money (as will be seen with our example of Munich) but the cost of migration, including training of employees, must be taken into account. 
 
