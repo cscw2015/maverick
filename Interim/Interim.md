@@ -424,6 +424,19 @@ As each interview is completed, we have to transcribe them. The dates above are 
 	- everyone who speaks at the meeting is welcomed personally by the mayor
 - small analysis of meetings
 
+As we have only completed some of our interviews with councillors and others at this time, we have decided not to include findings from those in this report. However, we have finished our observation of Victoria city council meetings, and have a number of points from this to discuss.
+
+All councillors currently have a laptop or tablet at the meeting. Some laptops run Windows, but most are MacBooks. The meeting begins with the mayor verbally announcing any late additions or changes to the agenda since it was published online on the Friday before the meeting. We observed a number of late items added to the agenda at both meetings we attended. In order to construct the agenda, members email their items to the clerk and to council in advance of the meeting.
+
+During the meeting, a number of councillors and the mayor were observed taking notes on paper. In order to determine the order of speaking, the councillors put up their hands and the mayor acknowledges them by nodding and writing their names on a piece of paper, the speaker’s list. 
+
+Microsoft Outlook is used for email communications in the meeting, along with PowerPoint for slide presentations, and Word for the motions of the agenda (which can be scrolled through rapidly if the meeting is moving quickly). The motions and slide presentations are projected on three large television screens, one facing the council. Motions are not always read out in full; it is assumed that the councillors have had a chance to read the motions beforehand. 
+
+Speakers to the council are each personally welcomed by the mayor, and get a pre-determined amount of time to speak—usually between 5 and 20 minutes. This is monitored by a clock system that turns the speaker’s mic on or off at the appropriate time, and is manually reset by the clerk after each speaker. We observed one time that the clock was not reset for a speaker.
+
+On preliminary inspection, there is potentially room for improvement at the council’s meetings. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Also, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. There are products on the market to automate the voting process such as IVS City Council that may be considered.
+
+
 ## References
 
 1. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
