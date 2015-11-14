@@ -143,47 +143,37 @@ Using a matrix of this sort seemed to be an effot to reduce the redundancy in da
 
 ####E-government
 
-- "delivery of government information and services through the Internet 24 hours a day, 7 days per week" [8]
-- does not consider non-Internet technologies
-- three governmental relationships to consider[9]:
-	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications
-	2. **Government to Business**: purchase for property, equipment, office supplies
-	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs[10]
+E-government, which became popular alongside the development of the Internet in 2000, is the "delivery of government information and services through the Internet 24 hours a day, 7 days per week" [8].
+
+There are three main government relations that pertain to e-government [9]:
+	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications.
+	2. **Government to Business**: purchase for property, equipment, office supplies.
+	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs [10].
 
 #####Reasons behind innovating with e-government
 
-- the boom in Internet technology caused demand for online government presence
-- increasing demands for timely and accurate communications
-- emerging opportunities in electronic communications
-- more ownership of home PC’s
-- goal of citizen and customer communication [11]
-- "To increase the government’s level of quality service by making the paper-driven or counter-based services more convenient and accessible to citizens and businesses." [18]
+As the boom in Internet technology grew, there was increasing demand for accurate communication within government and with citizens. The development of e-government was fueled by emerging opportunities in electronic communications, and more ownership of home PC's [11]. In short, it was implemented "to increase the government’s level of quality service by making the paper-driven or counter-based services more convenient and accessible to citizens and businesses" [18].
 
 #####Methodology to evaluate use of e-government
 
-- in Corpus Christi, Texas, used case study approach
-- data included experiences of co-author, interviews with select individuals and archival records [11]
+As a case study, Jorgensen and Cable measured the success of e-government in Corpus Christi using a number of tools. They collected data from the personal experiences of one of the co-authors in Corpus Christi, from interviews with carefully selected individuals familiar with the inner workings of the city, and from archival records [11]. In our study, we will likewise collect data from interviews and records of the city.
 
 #####Implementation of e-government in Corpus Christi
 
-- site went live in late October 1999 [11]
-- cost of implementing site in 1999 was approx. $13,000.
-- Internet site replicated as Intranet for city employees, includes city directory, city policies, training calendars, a bulletin board, other communications important to employees
-- forms and applications online, from printable to e-mailable, building permits, job applications, utility bills, parking and traffic ticket payment and info
-- staff trained by Communication and Quality Management dept. in Adobe Acrobat 4.0, Adobe ImageReady and Macromedia DreamWeaver
+The website went live in late October 1999, with a cost of implementation of roughly $13,000 [11]. The site included forms and applications online (both printable to e-mailable) including building permits, job applications, utility bills, and parking and traffic ticket payment and information [11]. The Internet site was replicated as Intranet for city employees, and included a city directory, city policies, training calendars, a bulletin board, and other communications important to employees [11].
 
 #####Benefits of e-government
 
 The advantages of moving many government processes online are numerous, and include increased government accountability, "greater public access to information and a more efficient, cost-effective government," and easier access to many services including online voting and licence renewal [19].
 
 In his comprehensive paper about the benefits of e-government, Bhatnagar includes a list of some of its social and economic impacts, taken from cases of cities around the world. These benefits include [20]:
-- increased transparency (dissemination of Government rules and procedures; disclosure of public assets; making decisions and actions of civil servants transparent)
-- reducing administrative corruption (putting procedures online so that transactions can be easily monitored)
-- improving service delivery (less time to complete transactions; reduced travel costs for citizens to interact with government; service to larger segment of population)
-- empowerment (of underserved communities; reduce the brokerage power of intermediaries)
-- streamlined administrative process (increased ability of managers to monitor task completion rates of civil servants; improved efficiency of civil servants by automating tedious work; integration of databases, reducing inaccuracies caused by the presence of redundant, duplicate databases)
-- reduced administrative burdens for businesses (faster access to government and less time needed to interact with government)
-- increased revenue (convenient to pay taxes; improved audit to identify defaulters; plug leakage by reducing corruption)
+- **increased transparency** (dissemination of Government rules and procedures; disclosure of public assets; making decisions and actions of civil servants transparent)
+- **reduced administrative corruption** (putting procedures online so that transactions can be easily monitored)
+- **improved service delivery** (less time to complete transactions; reduced travel costs for citizens to interact with government; service to larger segment of population)
+- **empowerment** (of underserved communities; reduce the brokerage power of intermediaries)
+- **streamlined administrative process** (increased ability of managers to monitor task completion rates of civil servants; improved efficiency of civil servants by automating tedious work; integration of databases, reducing inaccuracies caused by the presence of redundant, duplicate databases)
+- **reduced administrative burdens for businesses** (faster access to government and less time needed to interact with government)
+- **increased revenue** (convenient to pay taxes; improved audit to identify defaulters; plug leakage by reducing corruption)
 
 ####Open Source
 
