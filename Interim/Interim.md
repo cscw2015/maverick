@@ -20,10 +20,6 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 			1. [Reasons behind innovating with Open Source](#reasons-behind-innovating-with-open-source)
 			2. [Transition to Open Source in Munich](#transition-to-open-source-in-munich)
 			3. [Methodology to evaluate usage of Open Source](#methodology-to-evaluate-usage-of-open-source)
-		4. [Government 2.0](#government-20)
-			1. [Research Strategies Followed](#research-strategies-followed)
-			2. [Research Findings](#research-findings)
-			3. [Impact of Web 2.0 on Government](#impact-of-web-20-on-government)
 3. [Methodology](#methodology)
 4. [Impact](#impact)
 5. [Appendices](#appendices)
@@ -41,52 +37,51 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 ## Introduction
 
-Given the rapid pace at which various technologies have evolved and have been developed over the past few years, there exists a need to re-evaluate the current usage of technology in the public sector. In particular, there is a need for the public to ensure that their governments are using current technology to its fullest capabilities in order to better service the public. With our research, we aim to discover what methods the city council of Victoria currently uses for facilitating collaboration and communication. This includes public council meetings as well as their internal communications. We ask three research questions in this paper:
+Given the rapid pace at which various technologies have evolved over the past few years, there exists a need to re-evaluate the current usage of technology in the public sector. In particular, there is a need for the public to ensure that their governments are using current technology to its fullest capabilities in order to better service the public. With our research, we aim to discover what methods the city council of Victoria currently uses for facilitating collaboration and communication. This includes public council meetings as well as their internal communications. We ask three research questions in this paper:
 
-1. What technologies already exist or are being used to help city councillors in their meetings, for document sharing and communications?
+1. What technologies already exist or are being used to help city councillors in their meetings, with respect to document sharing and communication?
 2. What issues are they currently facing with their present technology?
 3. How can we improve communication between city councillors?
 
-One area in particular that we want to focus on is the preparation and management of council meetings via technology. Specifically, we want to find out what technologies are used to prepare for the city council's meetings. What software do they use to construct their meeting agendas? How do they use technology to introduce new bylaws, modify them, and then finalize them? What steps does the city take to make this process transparent to the public? Do city councillors use software or other tools during meetings to facilitate the sharing of information? If they do, how do city councillors use software to afford the opportunity for remote participation in meetings? These are all questions that we wish to answer in our study.  
+One area in particular that we want to focus on is the preparation and management of council meetings via technology. Specifically, we want to find out what technologies are used to prepare for the city council's meetings. What software do they use to construct their meeting agendas? How do they use technology to introduce new bylaws, modify them, and then finalize them? What steps does the city take to make this process transparent to the public? Do city councillors use software or other tools during meetings to facilitate the sharing of information? How do city councillors use software to afford the opportunity for remote participation in meetings? These are all questions that we wish to answer in our study.  
 
-One of the main reasons for conducting this study is that most of the existing research about city governments is about how to improve government-citizen relations. There have not been as many studies on how technology plays a role in governmental organization. For the studies that have been conducted, many of the more prominent studies are outdated by at least 10 years, which in the world of software development is a very long time. In particular, we want to focus on inter-governmental collaboration, and how city councillors coordinate themselves to solve issues in their day-to-day work. By conducting this study, we offer an opportunity for the government to make their current software integration status transparent to its citizens. Transparency on current practices regarding software can be healthy (as seen in the open source community) and research of this type can provide beneficial information to councillors on what they can do to improve their usage of technology. 
+One of the main reasons for conducting this study is that most of the existing research about city governments is about how to improve government-citizen relations. There have not been as many studies on how technology plays a role in governmental organization. For the studies that have been conducted, many of the more prominent studies are outdated by at least 10 years, and/or focus on municipalities located in Europe or in the United States. By conducting this study, we offer an opportunity for the municipal government of Victoria to make their current software integration status transparent to its citizens. Transparency on current practices regarding software can be healthy for growth and improvement (as seen in the open source community), and research of this type can provide beneficial information to councillors on what they can do to improve their usage of technology. 
 
-To accomplish this, we will be conducting interviews with city councillors from Victoria. This is our primary source of data, as these councillors are the primary focus of this study. To augment these interviews with city councillors, we will also be conducting interviews with various members of the public that are affiliated with the municipal government of Victoria, as well as an interview with a member of Sooke's city council for comparison data. Alongside these interviews, we will be observing public council meetings to see what their current practices are for conducting meetings with the public. 
+To accomplish this study of Victoria's municipal government, we will be conducting interviews with its city councillors. This is our primary source of data, as these councillors are the primary focus of this study. To augment these interviews with city councillors, we will also be conducting interviews with various members of the public that are affiliated with the municipal government of Victoria, as well as at least one interview with a member of Sooke's city council for comparison data. Alongside these interviews, we will be observing public council meetings to see what their current practices are for conducting meetings with the public. 
 
 The next section goes over the previous research done in this field and how this previous research is relevant to the research questions we are currently pursuing.
 
 ## Related Work
 
-Before looking at previous implementations of computer-supported collaborative work (CSCW) in government settings, we need to understand some of the difficulties of integrating CSCW into meetings and why it is important for municipal governments to want to incorporate CSCW into their workflow. 
+Before looking at previous implementations of computer-supported collaborative work (CSCW) in government settings, we need to understand some of the difficulties of integrating CSCW into meetings. We also need context for why it is important for municipal governments to want to incorporate modern CSCW into their workflow. 
 
 ### CSCW in Meetings
 
-According to Schümmer, there are three distinct facets of designing an electronic face-to-face meeting system:
+According to Schümmer, there are three distinct facets of designing an electronic face-to-face meeting system  [1]:
 
 1. the peopleware perspective, the design of social processes that are executed by team members,
 2. the generic groupware perspective for designing supportive software tools, and
-3. the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1].
+3. the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space.
 
-Arguably, the hardest facet of designing an electronic meeting system for a group is understanding their needs. Given the level of support in the open source community today, innovation in designing supportive software tools is easier to come by than before. <maybe insert examples here later> Along with this, before designing a meeting space for a group to allow for better collaboration you must understand _who_ you are building the room for, _what_ they need in their room to effectively collaborate and _why_ collaboration is necessary in their line of work.
+Arguably, the hardest facet of designing an electronic meeting system for a group is understanding their needs. To properly assess the needs of a group that needs to meet on a regular basis, you need to observe how the group interacts in a meeting and what the group needs from their available technology to augment and improve their workflow. While many tools (both open source and proprietary) today are being rapidly developed and improved on, they are not guaranteed to meet the needs of public officials. 
 
 Addressing the first point that Schümmer makes is part of the reason behind our study. To ensure that our government has room to innovate, an assessment of their current technological integration and their current communication practices is necessary. 
 
 ### Local Government Innovation
 
-Innovation is an important part of any continued collaborative group work. Walker says innovation is a core task of public institutions and that "innovation has been promoted around the world as a key tool to improve public services" [4]. This is one of the reasons we are targeting the city of Victoria with our study: public services always stand to be improved, and the city is in one of the best positions to affect this change. Ihkre notes that local governments are more likely to innovate than governments at the state or federal level because of "their small size and capacity to make decisions quickly and decisively," [2] and this is another reason as to why we are targeting the city of Victoria. While standards do exist at the provincial and federal level for regulating what technologies can be used in government organizations, municipal governments like the city of Victoria can be more receptive to change and can integrate suggestions for improvement at a much faster pace than provincial or federal bodies. 
+Innovation is an important part of any continued collaborative group work. Walker says innovation is a core task of public institutions and that "innovation has been promoted around the world as a key tool to improve public services" [2]. This is one of the reasons we are targeting the city of Victoria with our study: public services always stand to be improved, and the city is in one of the best positions to affect this change. Ihkre notes that local governments are more likely to innovate than governments at the state or federal level because of "their small size and capacity to make decisions quickly and decisively," [3] and this is another reason as to why we are targeting the city of Victoria. While standards do exist at the provincial and federal level for regulating what technologies can be used in government organizations, municipal governments like the city of Victoria can be more receptive to change and can integrate suggestions for improvement at a much faster pace than provincial or federal bodies. 
 
-We believe the city of Victoria would be interested in this sort of study for two reasons. The first is that by recognizing any potential shortcomings in their current practices they can quickly take steps to remedy these shortcomings; our study offers this through analysis of interviews with city officials. The second reason is that local governments tend to get a lot of pressure to "do more with less" [4] so by offering potential alternatives to the city (should they be applicable), the city can choose to shift the technologies they use and potentially lower their current costs. To help inform this decision, should we make any suggestions towards changing the software or the way they use software we will also include the cost of changing this software, where applicable. 
+We believe the city of Victoria would be interested in this sort of study for two reasons. The first is that by recognizing any potential shortcomings in their current practices they can quickly take steps to remedy these shortcomings; our study offers this through analysis of interviews with city officials. The second reason is that local governments tend to get a lot of pressure to "do more with less" [2] so by offering potential alternatives to the city (should they be applicable), the city can choose to shift the technologies they use and potentially lower their current costs. To help inform this decision, should we make any suggestions towards changing the software or the way they use software we will also include the cost of changing this software, where applicable. 
 
 Before addressing how we plan to assess the current state of technological use in the municipality of Victoria, we need to consider what has been done before in this field of research. The following section details the history of CSCW integration with governments. 
 
 ###History of CSCW Use in Government
 
-Here are some examples of previous attempts to integrate CSCW into government organizations. These examples are in chronological order, and attempt to focus on the processes used to research the organizations involved as well as how they built or identified what software suites would be most applicable for the given organization. In particular, we will be focusing on four case studies that have occurred over the past 20 years:
+Here are some examples of previous attempts to integrate CSCW into government organizations. These examples are in chronological order, and attempt to focus on the processes used to research the organizations involved as well as how they built or identified what software suites would be most applicable for the given organization. In particular, we will be focusing on three case studies that have occurred over the past 20 years:
 
 1. Cuparla (1995)
 2. E-government (2001)
 3. Open source (2002-2014)
-4. Government 2.0 (current)
 
 Much of this research focused on _how_ these software suites were designed and implemented, alongside their benefits. However, we want to focus on _why_ these software suites were designed and _why_ they were adopted. 
 
@@ -98,7 +93,7 @@ Cuparla was only adopted by a few smaller city councils in Germany, and the lite
 
 #####Creating Cuparla
 
-Cuparla was initially developed for the city of Stuttgart, Germany. A detailed analysis of Stuttgart city council work revealed certain characteristics of the city council's work [5]:
+Cuparla was initially developed for the city of Stuttgart, Germany. A detailed analysis of Stuttgart city council work revealed certain characteristics of the city council's work [4]:
 
 - Any software required to support council members needed to have functionality supporting the "any time, any place" style of meeting. This was required as council members did not have fixed office locations to prepare for city hall meetings. 
 - The council members collaborated and behaved differently in different contexts. When in their respective political party groups, council members tended to be more informal and open with regards to communication. In official council meetings, they were more controlled and more formal. 
@@ -109,7 +104,7 @@ Given all this information, the developers for Cuparla aimed to satisfy three ob
 
 #####Cuparla Software Design
 
-Cuparla was designed with the aim to support political entities. The following figure is a screenshot of the software suite's main page. As shown by the picture, this software supported many functions, including "information, communication, coordination, and collaboration."  [6]
+Cuparla was designed with the aim to support political entities. The following figure is a screenshot of the software suite's main page. As shown by the picture, this software supported many functions, including "information, communication, coordination, and collaboration."  [5]
 
 <p align="center">
 <img src="https://github.com/cscw2015/maverick/blob/master/Interim/cuparla.jpg">
@@ -128,12 +123,12 @@ Any documents created in private rooms could be shared by placing them in the ro
 
 To properly evaluate the Stuttgart city council, a detailed analysis of council work was done using Needs Driven Analysis(NDA). NDA is suitable to concurrently design software and intervene in an organization in a large group environment. This type of analysis identified the need for group support, which then served as the basis for the design of Cuparla. An initial design was implemented within the council, and the developers allowed for a few months of usage before analyzing the usage and effectiveness of the software. 
 
-Two analysis and development cycles were used to develop Cuparla. In the first cycle, Cuparla was tested by 11 city council members. The results obtained from this initial wave were then used to do a second analysis, design, implementation and evaluation phase. This second software cycle was tested on 55 of 56 active city council members. By the end of the second cycle, a field test of Cuparla was performed on the small city of Kornwestheim, in order to determine the effectiveness of the tool in a different environment [5]. 
+Two analysis and development cycles were used to develop Cuparla. In the first cycle, Cuparla was tested by 11 city council members. The results obtained from this initial wave were then used to do a second analysis, design, implementation and evaluation phase. This second software cycle was tested on 55 of 56 active city council members. By the end of the second cycle, a field test of Cuparla was performed on the small city of Kornwestheim, in order to determine the effectiveness of the tool in a different environment [4]. 
 	
 
 ##### Evaluation of Cuparla
 
-Evaluation of cuparla was done on five sets of criteria and four levels of aggregation [7]. The criteria used to evaluate Cuparla were **cost, time, quality, flexilbility,** and **human situation**. The four levels of aggregation used to distinct the user groups involved were the **individual**, the **group**, the **process**, and the **organization**. As seen in the following figure, these criteria were aligned to create a 4x5 matrix for easier evaluation. Any notes made in the evaluation were attributed only to the lowest applicable level. For instance, the costs of a server would be attributed to the **group** as that is the lowest level in direct need of the server, whereas a PC in an office is attributed to the **individual** level. 
+Evaluation of cuparla was done on five sets of criteria and four levels of aggregation [6]. The criteria used to evaluate Cuparla were **cost, time, quality, flexilbility,** and **human situation**. The four levels of aggregation used to distinct the user groups involved were the **individual**, the **group**, the **process**, and the **organization**. As seen in the following figure, these criteria were aligned to create a 4x5 matrix for easier evaluation. Any notes made in the evaluation were attributed only to the lowest applicable level. For instance, the costs of a server would be attributed to the **group** as that is the lowest level in direct need of the server, whereas a PC in an office is attributed to the **individual** level. 
 
 <p align="center">
 <img src="https://github.com/cscw2015/maverick/blob/master/Interim/Evaluation of Curparla.png">
@@ -143,30 +138,30 @@ Using a matrix of this sort seemed to be an effot to reduce the redundancy in da
 
 ####E-government
 
-E-government, which became popular alongside the development of the Internet in 2000, is the "delivery of government information and services through the Internet 24 hours a day, 7 days per week" [8].
+E-government, which became popular alongside the development of the Internet in 2000, is the "delivery of government information and services through the Internet 24 hours a day, 7 days per week" [7].
 
-There are three main government relations that pertain to e-government [9]:
+There are three main government relations that pertain to e-government [8]:
 	1. **Government to Citizen**: citizens paying bills or taxes, voter registration, business permits and license applications.
 	2. **Government to Business**: purchase for property, equipment, office supplies.
-	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs [10].
+	3. **Government to Government**: our category of concern; includes enabling project teams to collaborate using CSCW technologies, provide news/information and online report generation/procurement tools, publishing documents and manuals online to reduce printing costs [9].
 
 #####Reasons behind innovating with e-government
 
-As the boom in Internet technology grew, there was increasing demand for accurate communication within government and with citizens. The development of e-government was fueled by emerging opportunities in electronic communications, and more ownership of home PC's [11]. In short, it was implemented "to increase the government’s level of quality service by making the paper-driven or counter-based services more convenient and accessible to citizens and businesses" [18].
+As the boom in Internet technology grew, there was increasing demand for accurate communication within government and with citizens. The development of e-government was fueled by emerging opportunities in electronic communications, and more ownership of home PC's [10]. In short, it was implemented "to increase the government’s level of quality service by making the paper-driven or counter-based services more convenient and accessible to citizens and businesses" [11].
 
 #####Methodology to evaluate use of e-government
 
-As a case study, Jorgensen and Cable measured the success of e-government in Corpus Christi using a number of tools. They collected data from the personal experiences of one of the co-authors in Corpus Christi, from interviews with carefully selected individuals familiar with the inner workings of the city, and from archival records [11]. In our study, we will likewise collect data from interviews and records of the city.
+As a case study, Jorgensen and Cable measured the success of e-government in Corpus Christi using a number of tools. They collected data from the personal experiences of one of the co-authors in Corpus Christi, from interviews with carefully selected individuals familiar with the inner workings of the city, and from archival records [10]. In our study, we will likewise collect data from interviews and records of the city.
 
 #####Implementation of e-government in Corpus Christi
 
-The website went live in late October 1999, with a cost of implementation of roughly $13,000 [11]. The site included forms and applications online (both printable to e-mailable) including building permits, job applications, utility bills, and parking and traffic ticket payment and information [11]. The Internet site was replicated as Intranet for city employees, and included a city directory, city policies, training calendars, a bulletin board, and other communications important to employees [11].
+The website went live in late October 1999, with a cost of implementation of roughly $13,000 [10]. The site included forms and applications online (both printable to e-mailable) including building permits, job applications, utility bills, and parking and traffic ticket payment and information [11]. The Internet site was replicated as Intranet for city employees, and included a city directory, city policies, training calendars, a bulletin board, and other communications important to employees [10].
 
 #####Benefits of e-government
 
-The advantages of moving many government processes online are numerous, and include increased government accountability, "greater public access to information and a more efficient, cost-effective government," and easier access to many services including online voting and licence renewal [19].
+The advantages of moving many government processes online are numerous, and include increased government accountability, "greater public access to information and a more efficient, cost-effective government," and easier access to many services including online voting and licence renewal [12].
 
-In his comprehensive paper about the benefits of e-government, Bhatnagar includes a list of some of its social and economic impacts, taken from cases of cities around the world. These benefits include [20]:
+In his comprehensive paper about the benefits of e-government, Bhatnagar includes a list of some of its social and economic impacts, taken from cases of cities around the world. These benefits include [13]:
 - **increased transparency** (dissemination of Government rules and procedures; disclosure of public assets; making decisions and actions of civil servants transparent)
 - **reduced administrative corruption** (putting procedures online so that transactions can be easily monitored)
 - **improved service delivery** (less time to complete transactions; reduced travel costs for citizens to interact with government; service to larger segment of population)
@@ -179,21 +174,21 @@ In his comprehensive paper about the benefits of e-government, Bhatnagar include
 
 Open source software began to play a prominent role in government in 2001, when municipalities in Germany began to migrate their users to open source software. We took a particular look at the case study in Munich, as a lot of data and news articles exist to support the reasoning behind their move to open source software.
 
-In this section, when we refer to open source software, we are specifically referring to software under the **free open-source software (FOSS)**  category. This term is “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [12], and serves as a contrast to the proprietary (privately owned) software seen throughout the corporate world. Adopting this type of software can save significant amounts of money (as will be seen with our example of Munich) but the cost of migration, including training of employees, must be taken into account. 
+In this section, when we refer to open source software, we are specifically referring to software under the **free open-source software (FOSS)**  category. This term is “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [14], and serves as a contrast to the proprietary (privately owned) software seen throughout the corporate world. Adopting this type of software can save significant amounts of money (as will be seen with our example of Munich) but the cost of migration, including training of employees, must be taken into account. 
 
 #####Reasons Behind Innovating with Open Source
 
-Whenever a group migrates to a new system, there are risks involved. A top-down approach is usually taken by politicians in order to mitigate these risks [12]. However, migration of systems is sometimes necessary to motivate innovation. Some of the factors that influence this innovation include:
+Whenever a group migrates to a new system, there are risks involved. A top-down approach is usually taken by politicians in order to mitigate these risks [14]. However, migration of systems is sometimes necessary to motivate innovation. Some of the factors that influence this innovation include:
 
 1. Pressure from legislators or politicians.
 2. Change in leadership from within or outside an organization.
 3. Crises or visible public failures. 
 4. Internal failings such as an inability to coordinate across departments or meet the demands of a program.
-5. New opportunities that occur through development of new technologies or other factors. [12]
+5. New opportunities that occur through development of new technologies or other factors.
  
 However, that is not to say that this type of change is always caused by a negative event. Many times, groups that make this sort of migration to open source software are looking for independence from propriety software. The effectiveness of the software can also play a factor, as many times there is an open source alternative to proprietary software that has equal or greater functional capability than its proprietary counterpart(s). Cost can also play a factor, as previously companies would have to pay for licenses to use proprietary products. Today there also exist subscription models for these proprietary solutions, so a group (public or private) may look to open source alternatives to save on cost. 
 
-In the case of Munich, Microsoft was slated to discontinue its support for Windows NT by 2004 due to systemic security flaws [new citation], which was the operating system that Munich's city had been primarily using. They took this opportunity to seek alternative solutions in an effort to achieve "greater vendor independence" and take advantage of a highly competitive software market [13]. One of their goals was also to utilise the "future-proofness" of open protocols, data formats and interfaces, and the solution they eventually arrived at was to migrate to open source software. 
+In the case of Munich, Microsoft was slated to discontinue its support for Windows NT by 2004 due to systemic security flaws [new citation], which was the operating system that Munich's city had been primarily using. They took this opportunity to seek alternative solutions in an effort to achieve "greater vendor independence" and take advantage of a highly competitive software market [16]. One of their goals was also to utilise the "future-proofness" of open protocols, data formats and interfaces, and the solution they eventually arrived at was to migrate to open source software. 
 
 #####Transition to Open Source in Munich
 
@@ -208,9 +203,9 @@ For the option of GNU/Linux, given that this was a major change compared to upda
 1. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
 2. GNU/Linux + OpenOffice + Terminal Server
 
-In his paper on the transition to open source in Munich, Grassmuck noted that "both transitional solutions presented architectural and operational complexities, not least with respect to security and an increased need for training. They were therefore considered undesirable as such and only to be deployed where no other solution could be found.” [13]
+In his paper on the transition to open source in Munich, Grassmuck noted that "both transitional solutions presented architectural and operational complexities, not least with respect to security and an increased need for training. They were therefore considered undesirable as such and only to be deployed where no other solution could be found.” [16]
 
-Grassmuck also states that the project leaders determined that a successful migration required "consistent adherence to a number of technological and political principles," [13] and used the following principles to guide this migration:
+Grassmuck also states that the project leaders determined that a successful migration required "consistent adherence to a number of technological and political principles," [16] and used the following principles to guide this migration:
 
 1. Applications should be OS-independent.
 2. New client-server applications would only be developed or commissioned as web applications according to the J2EE model.
@@ -227,11 +222,11 @@ Munich did successfully migrate to using open source alternatives for their comp
 |May 2003|Made the decision to migrate to open-source software and web applications.|
 |2004|Migration to open-source began.|
 
-Munich is not the first city to have documented their transition to open source. The first known city to use open-source was Schwäbisch Hall in Baden-Würtemberg, who migrated their servers in 2002 and all their desktops in 2004 [13]. The case of Munich has more research and accessible public information on its transition attached to it, which is why we chose to focus on it. <move this sentence to an earlier point!>
+Munich is not the first city to have documented their transition to open source. The first known city to use open-source was Schwäbisch Hall in Baden-Würtemberg, who migrated their servers in 2002 and all their desktops in 2004 [16]. The case of Munich has more research and accessible public information on its transition attached to it, which is why we chose to focus on it. <move this sentence to an earlier point!>
 
 #####Methodology to evaluate usage of open source
 
-An independent review of this open source transition was conducted in 2008 by Mark Cassell, in an attempt to explore why cities in Europe had been migrating to open source software. To do so, he relied on semi-structured interviews with members of four cities that had successfully transitioned to open source software: Vienna, Munich, Schwäbisch Hall, and Treuchtlingen [12]. He specifically stated that he used the following methodology to assess the adoption of open source software in these cities.
+An independent review of this open source transition was conducted in 2008 by Mark Cassell, in an attempt to explore why cities in Europe had been migrating to open source software. To do so, he relied on semi-structured interviews with members of four cities that had successfully transitioned to open source software: Vienna, Munich, Schwäbisch Hall, and Treuchtlingen [14]. He specifically stated that he used the following methodology to assess the adoption of open source software in these cities.
 
 > The interview instrument consisted of a set of identical questions related to motivation, implementation, and results. Each questionnaire also contained a set of questions specific to the position of the interviewee. To facilitate coding and analysis of the interviews I used N-Vivo, a qualitative analysis software program. I also relied on internal reports, audits, and news releases published by each city to develop the necessary background for the research and to substantiate information collected through interviews. Finally, I surveyed news accounts to corroborate data produced by the cities and the interviews.
 
@@ -239,46 +234,9 @@ These interviews were initially conducted in German and then translated to Engli
 
 In our project, we did not feel the need to use specific software to assist in coding and analyzing interview data. Given that we are conducting a small number of interviews across two municipalities, most of the interview transcription will be done by hand as interviews are completed. 
 
-####Government 2.0
-
-- Government 2.0 , reflecting the concept of web 2.0 [14] is the extension of the Web 1.0 technologies (which are already been in use by most of the city councils under e-government). 
-- Web 2.0 emphasis to e-democracy wherein multimodal, non-hierarchal and collaborative networks between government people and citizens can be built.
-- It emphasizes a more interactive process with the potential use of media for promoting citizen participation. [15]
-
-#####Research strategies followed
-
-- The group IPTS (Institute of Prospective Technological Studies) conducted a research which aims to monitor Web 2.0 and their socio-economic impact on government related activities. 
- 
-- The following questions were asked:
-	- Are web 2.0 applications relevant for the government context?
-	- If they are, in what way is web 2.0 likely to have an impact on government?
-	- How significant could this impact be?
-	- How are web 2.0 applications implemented in the government context?
-- To answer the above questions, the below methods are followed:
-	- A web survey of existing innovative web 2.0 initiatives in government-related activities was conducted 
-	- A desk-based review of existing web 2.0 applications in the private sector, in order to understand applications that could also have potential for government
-	- A set of case studies of existing experiences, based on desk research and interviews with the project managers.
-
-#####Research Findings
-- The methods followed helped them to find following results
-	- It gave an overview where the web 2.0 technologies can be used
-	- How each of the domains could get impacted  through the adoption of web 2.0 applications.
-
-#####Impact of Web 2.0 on Government
-
-<p align="center">
-<img src="https://github.com/cscw2015/maverick/blob/master/Interim/Web2.0.png">
-</p>
-
-- Here, users are both civil servants and citizens
-	- The centre circle represents group of users who are active in designing and delivering the service. The web 2.0 is used by analysts to create wiki-based intelligence reports in Intellipedia, or citizens creating a new petition online.
-	- The second circle represents the group of users who play a fundamental role in ensuring the quality and relevance of content submitted by other users. For example: the rating of evidence submitted to Peer-to-Patent
-	- The third circle represents the users who used the web 2.0 applications and get benefitted from the other user's services. For instance, review on any e-petition by other users helped the users to come up with some decision.
-	- The fourth circle represents to those who used the online services to get the quality data without any voluntary engagement. In the private sector, a classic example is the "most read articles" page in online newspapers.[16]
-
 ##Methodology
 
-We will be collecting data from two main sources. Our primary method of data collection will be through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collection for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors is the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, should we be unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
+For our research, we will be collecting data from two main sources. Our primary method of data collection will be through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collection for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors is the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, should we be unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
 
 Our goal is to conduct eight 30 minute interview sessions. The council members that we will be interviewing will be decided primarily on availability, as the time available for this research is limited. We want to interview six members of the Victoria city council (including the mayor), a member of Sooke city council, and public figures that involve themselves with the city council on a regular basis. These interviews will be semi-structured, so that we can elaborate on topics that come up through discussion in the interviews. 
 
@@ -287,6 +245,7 @@ As mentioned before, we also attended public city meetings to observe the usage 
 ## Impact
 
 This project immediately offers two things to the city of Victoria:
+
 1. It offers an outside perspective on current communication practices within the government, which may help identify flaws in communication practices; and
 2. It offers transparency on communication practices employed by the government, so citizens of Victoria can be more aware of how the city operates on a technical level.
 
@@ -378,23 +337,19 @@ On preliminary inspection, there is potentially room for improvement at the coun
 ## References
 
 1. Schümmer, T., Tandler, P., & Hakke, J. M. (2012). The next-generation business meeting: from i-lands to flexible meeting landscapes. *Universal Access in the Information Society, 11*(3), 239-258.
-2. Ihrke, D., Proctor, R., & Gapris, J. (2003). Understanding innovation in municipal government: City council member perspectives. *Journal of Urban Affairs, 25*(1), 79-90. 
-3. Haus, M., & Sweeting, D. (2006). Local democracy and political leadership: Drawing a map. *Political studies, 54*(2), 267-288.
-4. Walker, R. M. (2006). Innovation type and diffusion: An empirical analysis of local government. *Public administration, 84*(2), 311-335.
-5. Schwabe, G., & Krcmar, H. (2000). Piloting Socio-Technical Innovation. ECIS 2000 Proceedings, 27.
-6. Schwabe, G., & Krcmar, H. (2000). Digital material in a political work context-The case of Cuparla. ECIS 2000 Proceedings, 150.
-7. Schwage, G. (2000). From Analysis to Evaluation - The Case of Cuparla. Found online: [http://www.zora.uzh.ch/57144/1/20120125131854_merlin-id_3158.p](http://www.zora.uzh.ch/57144/1/20120125131854_merlin-id_3158.p) 
-8. Reddick, C. G., & Frank, H. A. (2007). The perceived impacts of e-government on US cities: A survey of Florida and Texas City managers. Government Information Quarterly, 24(3), 576-594.
-9. Tat-Kei Ho, A. (2002). Reinventing local governments and the e-government initiative. *Public administration review, 62*(4), 434-444.
-10. Reddick, C. G. (2004). A two-stage model of e-government growth: Theories and empirical evidence for US cities. *Government Information Quarterly, 21*(1), 51-64.
-11. Jorgensen, D. J., & Cable, S. (2002). Facing the challenges of e-goverment: A case study of the city of Corpus Christi, Texas. SAM Advanced Management Journal, 67(3), 15.
-12. Cassell, M. (2008). Why governments innovate: Adoption and implementation of open source software by four European cities. International public management Journal, 11(2), 193-213.
-13. Grassmuck, V. “LiMux — Free Software for Munich” (2005) http://waste.informatik.hu-berlin.de/grassmuck/texts/limux.pdf Accessed November 11, 2015.
-14. Reddick, C. G. (Ed.). (2010). Politics, Democracy and E-Government: Participation and Service Delivery: Participation and Service Delivery. IGI Global.
-15. Kloby, K. (Ed.). (2012). Citizen 2.0: Public and Governmental Interaction through Web 2.0 Technologies: Public and Governmental Interaction Through Web 2.0 Technologies. IGI Global.
-16. Osimo, D. (2008). Web 2.0 in government: Why and how. Institute for Prospectice Technological Studies (IPTS), JRC, European Commission, EUR, 23358.
+2. Walker, R. M. (2006). Innovation type and diffusion: An empirical analysis of local government. *Public administration, 84*(2), 311-335.
+3. Ihrke, D., Proctor, R., & Gapris, J. (2003). Understanding innovation in municipal government: City council member perspectives. *Journal of Urban Affairs, 25*(1), 79-90. 
+4. Schwabe, G., & Krcmar, H. (2000). Piloting Socio-Technical Innovation. ECIS 2000 Proceedings, 27.
+5. Schwabe, G., & Krcmar, H. (2000). Digital material in a political work context-The case of Cuparla. ECIS 2000 Proceedings, 150.
+6. Schwage, G. (2000). From Analysis to Evaluation - The Case of Cuparla. Found online: [http://www.zora.uzh.ch/57144/1/20120125131854_merlin-id_3158.p](http://www.zora.uzh.ch/57144/1/20120125131854_merlin-id_3158.p) 
+7. Reddick, C. G., & Frank, H. A. (2007). The perceived impacts of e-government on US cities: A survey of Florida and Texas City managers. Government Information Quarterly, 24(3), 576-594.
+8. Tat-Kei Ho, A. (2002). Reinventing local governments and the e-government initiative. *Public administration review, 62*(4), 434-444.
+9. Reddick, C. G. (2004). A two-stage model of e-government growth: Theories and empirical evidence for US cities. *Government Information Quarterly, 21*(1), 51-64.
+10. Jorgensen, D. J., & Cable, S. (2002). Facing the challenges of e-goverment: A case study of the city of Corpus Christi, Texas. SAM Advanced Management Journal, 67(3), 15.
+11. Burn, J., & Robins, G. (2003). Moving towards e-government: a case study of organisational change processes. Logistics Information Management, 16(1), 25-35.
+12. Carter, L., & Bélanger, F. (2005). The utilization of e‐government services: citizen trust, innovation and acceptance factors*. Information systems journal, 15(1), 5-25.
+13. Bhatnagar, S. (2003). The economic and social impact of e-government. Background Paper for UNDESA publication: E-Government—the Citizens and the State: Debating Governance in The Information Age. World Public Sector Report. http://www. iimahd. ernet. in/~ subhash/pdfs/UNDESAeGovReport. pdf.
+14. Cassell, M. (2008). Why governments innovate: Adoption and implementation of open source software by four European cities. International public management Journal, 11(2), 193-213.
+15. (2003). **Flaw in RPC Endpoint Mapper Could Allow Denial of Service Attacks (331953)**. Accessed online: [https://technet.microsoft.com/library/security/ms03-010](https://technet.microsoft.com/library/security/ms03-010)
+16. Grassmuck, V. “LiMux — Free Software for Munich” (2005) http://waste.informatik.hu-berlin.de/grassmuck/texts/limux.pdf Accessed November 11, 2015.
 17. Poole, M. S., Keyton, J., & Frey, L. R. (1999). *Group communications methodology* (pp 92-112). L. R. Frey, D. S. Gouran, & M. S. Poole (Eds.). Thousand Oaks, CA: Sage Publications. 
-18. Burn, J., & Robins, G. (2003). Moving towards e-government: a case study of organisational change processes. Logistics Information Management, 16(1), 25-35.
-19. Carter, L., & Bélanger, F. (2005). The utilization of e‐government services: citizen trust, innovation and acceptance factors*. Information systems journal, 15(1), 5-25.
-20. Bhatnagar, S. (2003). The economic and social impact of e-government. Background Paper for UNDESA publication: E-Government—the Citizens and the State: Debating Governance in The Information Age. World Public Sector Report. http://www. iimahd. ernet. in/~ subhash/pdfs/UNDESAeGovReport. pdf.
-[new citation] (2003). *Flaw in RPC Endpoint Mapper Could Allow Denial of Service Attacks (331953)*. Accessed online: https://technet.microsoft.com/library/security/ms03-010
