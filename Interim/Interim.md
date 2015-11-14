@@ -8,19 +8,18 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	3. [History of CSCW Use in Government](#history-of-cscw-use-in-government)
 		1. [Cuparla](#cuparla)
 			1. [Creating Cuparla](#creating-cuparla)
-			2. [Methdology used in developing Cuparla](#methodology-used-in-developing-cuparla)
-			3. [Cuparla Software Design](#cuparla-software-design)
+			2. [Cuparla Software Design](#cuparla-software-design)
+			3. [Methdology used in developing Cuparla](#methodology-used-in-developing-cuparla)
 			4. [Evaluation of Cuparla](#evaluation-of-cuparla)
 		2. [E-government](#e-government)
 			1. [Reasons behind innovating with e-government](#reasons-behind-innovating-with-e-government)
 			2. [Methodology to evaluate use of e-government](#methodology-to-evaluate-use-of-e-government)
 			3. [Implementation of e-government in Corpus Christi](#implementation-of-e-government-in-corpus-christi)
-			4. [Challenges of e-government](#challenges-of-e-government)
+			4. [Benefits of e-government](#benefits-of-e-government)
 		3. [Open Source](#open-source)
 			1. [Reasons behind innovating with Open Source](#reasons-behind-innovating-with-open-source)
-			2. [Methodology to evaluate usage of Open Source](#methodology-to-evaluate-usage-of-open-source)
-			3. [Implementation of Open Source in Munich](#implementation-of-open-source-in-munich)
-			4. [Timeline for Munich's Migration](#timeline-for-munichs-migration)
+			2. [Transition to Open Source in Munich](#transition-to-open-source-in-munich)
+			3. [Methodology to evaluate usage of Open Source](#methodology-to-evaluate-usage-of-open-source)
 		4. [Government 2.0](#government-20)
 			1. [Research Strategies Followed](#research-strategies-followed)
 			2. [Research Findings](#research-findings)
@@ -42,28 +41,19 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 ## Introduction
 
-- goal is to discover what methods the city council of Victoria currently uses for collaboration and communication
-- includes public council meetings as well as their internal communications
-- research questions:
-	1. What technologies already exist or are being used to help city councillors in their meetings, for document sharing and communications?
-	2. What issues are they currently facing with their present technology?
-	3. How can we improve communication between city councillors?
-- one area we want to focus on is preparation and management of council meetings via technology
-	- what technologies are used to prepare for the meetings
-	- how is agenda constructed?
-	- how are by-laws introduced, modified and finalized via technology?
-	- how is the by-law process made transparent to the public
-	- what is used *during* meetings to facilitate and share information?
-	- what software is used for remote access to meetings?
-- methods of gathering:
-	- interviews with city councillors from Victoria
-	- smaller number of interviews with Vancouver city councillors (as a control group)
-	- attending public council meetings to see what current practices are
-- much of existing research about city governments is about how to improve government-citizen relations
-	- not as much on how technology plays a role in this, or if there is it's outdated
-- we want to focus on inter-governmental collaborations and how city councillors coordinates themselves to solve issues
-- we want to look at how the government currently provides transparency
-- research of this type can provide beneficial information to councillors on how to improve their operations, and provide transparency to citizens on how government collates information and develops laws for the city
+Given the rapid pace at which various technologies have evolved and have been developed over the past few years, there exists a need to re-evaluate the current usage of technology in the public sector. In particular, there is a need for the public to ensure that their governments are using current technology to its fullest capabilities in order to better service the public. With our research, we aim to discover what methods the city council of Victoria currently uses for facilitating collaboration and communication. This includes public council meetings as well as their internal communications. We ask three research questions in this paper:
+
+1. What technologies already exist or are being used to help city councillors in their meetings, for document sharing and communications?
+2. What issues are they currently facing with their present technology?
+3. How can we improve communication between city councillors?
+
+One area in particular that we want to focus on is the preparation and management of council meetings via technology. Specifically, we want to find out what technologies are used to prepare for the city council's meetings. What software do they use to construct their meeting agendas? How do they use technology to introduce new bylaws, modify them, and then finalize them? What steps does the city take to make this process transparent to the public? Do city councillors use software or other tools during meetings to facilitate the sharing of information? If they do, how do city councillors use software to afford the opportunity for remote participation in meetings? These are all questions that we wish to answer in our study.  
+
+One of the main reasons for conducting this study is that most of the existing research about city governments is about how to improve government-citizen relations. There have not been as many studies on how technology plays a role in governmental organization. For the studies that have been conducted, many of the more prominent studies are outdated by at least 10 years, which in the world of software development is a very long time. In particular, we want to focus on inter-governmental collaboration, and how city councillors coordinate themselves to solve issues in their day-to-day work. By conducting this study, we offer an opportunity for the government to make their current software integration status transparent to its citizens. Transparency on current practices regarding software can be healthy (as seen in the open source community) and research of this type can provide beneficial information to councillors on what they can do to improve their usage of technology. 
+
+To accomplish this, we will be conducting interviews with city councillors from Victoria. This is our primary source of data, as these councillors are the primary focus of this study. To augment these interviews with city councillors, we will also be conducting interviews with various members of the public that are affiliated with the municipal government of Victoria, as well as an interview with a member of Sooke's city council for comparison data. Alongside these interviews, we will be observing public council meetings to see what their current practices are for conducting meetings with the public. 
+
+The next section goes over the previous research done in this field and how this previous research is relevant to the research questions we are currently pursuing.
 
 ## Related Work
 
@@ -91,13 +81,12 @@ Before addressing how we plan to assess the current state of technological use i
 
 ###History of CSCW Use in Government
 
-Here are some examples of previous attempts to integrate CSCW into government organizations. These examples are in chronological order, and attempt to focus on the processes used to research the organizations involved as well as how they built or identified what software suites would be most applicable for the given organization. 
+Here are some examples of previous attempts to integrate CSCW into government organizations. These examples are in chronological order, and attempt to focus on the processes used to research the organizations involved as well as how they built or identified what software suites would be most applicable for the given organization. In particular, we will be focusing on four case studies that have occurred over the past 20 years:
 
-- order of appearance:
-	1. Cuparla (1995)
-	2. E-government (2001)
-	3. Open source (2002-2014)
-	4. Government 2.0 (current)
+1. Cuparla (1995)
+2. E-government (2001)
+3. Open source (2002-2014)
+4. Government 2.0 (current)
 
 Much of this research focused on _how_ these software suites were designed and implemented, alongside their benefits. However, we want to focus on _why_ these software suites were designed and _why_ they were adopted. 
 
@@ -109,7 +98,8 @@ Cuparla was only adopted by a few smaller city councils in Germany, and the lite
 
 #####Creating Cuparla
 
-Cuparla was initially developed for the city of Stuttgart, Germany. A Detailed analysis of Stuttgart city council work revealed certain characteristics of the city council's work:
+Cuparla was initially developed for the city of Stuttgart, Germany. A detailed analysis of Stuttgart city council work revealed certain characteristics of the city council's work [5]:
+
 - Any software required to support council members needed to have functionality supporting the "any time, any place" style of meeting. This was required as council members did not have fixed office locations to prepare for city hall meetings. 
 - The council members collaborated and behaved differently in different contexts. When in their respective political party groups, council members tended to be more informal and open with regards to communication. In official council meetings, they were more controlled and more formal. 
 - There was no inherent structure to be followed for communication. Each member of the city council had the right to initiate communication and they had the right to involve members of the administration in any order. 
@@ -126,8 +116,9 @@ Cuparla was designed with the aim to support political entities. The following f
 </p>
 
 The design of this software was based on the city council's actual work procedure of using distinct *rooms* for different purposes. Each room had its own set of supported functions. Below is a partial listing of the functions supported by each room:
+
 - **Private Room** - Here, the council member works at home. This function is intended for an individual's work.  
-- **Parliamentary Party** - Using this function, a council member has the opportunity to collaborate with their party colleagues. 
+- **Parliamentary Party** - Using this function, a council member has the opportunity to collaborate with their party colleagues.
 - **Committees** - This function lets council members collaborate between parties on particular committee issues. 
 - **Library** - This function allowed any council member to have access to previously filed information. 
 
@@ -190,19 +181,19 @@ Using a matrix of this sort seemed to be an effot to reduce the redundancy in da
 
 ####Open Source
 
-Open source software began to play a prominent role in government in 2001. 
+Open source software began to play a prominent role in government in 2001, when municipalities in Germany began to migrate their users to open source software. We took a particular look at the case study in Munich, as a lot of data and news articles exist to support the reasoning behind their move to open source software.
 
-In this section, when we refer to open source software, we are specifically referring to software under the *FOSS* category ("Free open-source software"). This term is “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [12], and serves as a contrast to the proprietary (privately owned) software seen throughout the corporate world. Adopting this type of software can save significant amounts of money (as seen with our example of Munich) but the cost of migration, including training of employees, must be taken into account. 
+In this section, when we refer to open source software, we are specifically referring to software under the **free open-source software (FOSS)**  category. This term is “a generic term for non-proprietary software that is generally free, can be reviewed by large numbers of users, and can be revised and shared free of charge” [12], and serves as a contrast to the proprietary (privately owned) software seen throughout the corporate world. Adopting this type of software can save significant amounts of money (as will be seen with our example of Munich) but the cost of migration, including training of employees, must be taken into account. 
 
 #####Reasons Behind Innovating with Open Source
 
 Whenever a group migrates to a new system, there are risks involved. A top-down approach is usually taken by politicians in order to mitigate these risks [12]. However, migration of systems is sometimes necessary to motivate innovation. Some of the factors that influence this innovation include:
 
-1. pressure from legislators or politicians; 
-2. change in leadership from within or outside an organization; 
-3. crises or visible public failures; 
-4. internal failings such as an inability to coordinate across departments or meet the demands of a program;
-5. new opportunities that occur through development of new technologies or other factors. [12]
+1. Pressure from legislators or politicians.
+2. Change in leadership from within or outside an organization.
+3. Crises or visible public failures. 
+4. Internal failings such as an inability to coordinate across departments or meet the demands of a program.
+5. New opportunities that occur through development of new technologies or other factors. [12]
  
 However, that is not to say that this type of change is always caused by a negative event. Many times, groups that make this sort of migration to open source software are looking for independence from propriety software. The effectiveness of the software can also play a factor, as many times there is an open source alternative to proprietary software that has equal or greater functional capability than its proprietary counterpart(s). Cost can also play a factor, as previously companies would have to pay for licenses to use proprietary products. Today there also exist subscription models for these proprietary solutions, so a group (public or private) may look to open source alternatives to save on cost. 
 
@@ -217,8 +208,9 @@ The following list details all the options that Munich considered after Microsof
 3. GNU/Linux + OpenOffice 
 
 For the option of GNU/Linux, given that this was a major change compared to updating to the current Microsoft OS, they also considere two transitional solutions: 
-3a. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
-3b. GNU/Linux + OpenOffice + Terminal Server
+
+1. GNU/Linux + OpenOffice + PC Emulation (WINE / VMWare) 
+2. GNU/Linux + OpenOffice + Terminal Server
 
 In his paper on the transition to open source in Munich, Grassmuck noted that "both transitional solutions presented architectural and operational complexities, not least with respect to security and an increased need for training. They were therefore considered undesirable as such and only to be deployed where no other solution could be found.” [13]
 
