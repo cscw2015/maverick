@@ -72,6 +72,7 @@ Before looking at previous implementations of computer-supported collaborative w
 ### CSCW in Meetings
 
 According to Schümmer, there are three distinct facets of designing an electronic face-to-face meeting system:
+
 1. the peopleware perspective, the design of social processes that are executed by team members,
 2. the generic groupware perspective for designing supportive software tools, and
 3. the roomware perspective that considers the configuration of artifacts that constitute the tangible meeting space [1].
@@ -86,8 +87,6 @@ Innovation is an important part of any continued collaborative group work. Walke
 
 We believe the city of Victoria would be interested in this sort of study for two reasons. The first is that by recognizing any potential shortcomings in their current practices they can quickly take steps to remedy these shortcomings; our study offers this through analysis of interviews with city officials. The second reason is that local governments tend to get a lot of pressure to "do more with less" [4] so by offering potential alternatives to the city (should they be applicable), the city can choose to shift the technologies they use and potentially lower their current costs. To help inform this decision, should we make any suggestions towards changing the software or the way they use software we will also include the cost of changing this software, where applicable. 
 
-- Haus claims that "cities hold the potential to construct, articulate and promote common good of their societies by forming policy agendas" [3]. 
-
 Before addressing how we plan to assess the current state of technological use in the municipality of Victoria, we need to consider what has been done before in this field of research. The following section details the history of CSCW integration with governments. 
 
 ###History of CSCW Use in Government
@@ -95,10 +94,10 @@ Before addressing how we plan to assess the current state of technological use i
 Here are some examples of previous attempts to integrate CSCW into government organizations. These examples are in chronological order, and attempt to focus on the processes used to research the organizations involved as well as how they built or identified what software suites would be most applicable for the given organization. 
 
 - order of appearance:
-	1. Cuparla [date]
-	2. E-government [date]
-	3. Open source [date]
-	4. Government 2.0 [date]
+	1. Cuparla (1995)
+	2. E-government (2001)
+	3. Open source (2002-2014)
+	4. Government 2.0 (current)
 
 ####Cuparla
 
@@ -129,7 +128,7 @@ Here are some examples of previous attempts to integrate CSCW into government or
 - After few months, the analysis of the Cuparla usage was performed in two cycles:
 	- In first cycle, the Cuparla was tested by 11 city council members
 		- results obtained from them are then used to do second analysis, design, implementation and evaluation phase
-	- In the second cycle, this software was tested on 55 of 56 active city council members
+	- In the second cycle, this software was tested on 55 or 56 active city council members
 - By the end of the second cycle ,a field test of Cuparla was performed on the small city of Kornwestheim.
 -  To determine the effectiveness of the tool [5]
 	
