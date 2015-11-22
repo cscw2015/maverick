@@ -21,8 +21,11 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 			2. [Transition to Open Source in Munich](#transition-to-open-source-in-munich)
 			3. [Methodology to evaluate usage of Open Source](#methodology-to-evaluate-usage-of-open-source)
 3. [Methodology](#methodology)
-4. [Impact](#impact)
-5. [Appendices](#appendices)
+4. [Results](#results)
+	1. [Results from City Council Meetings](#results-from-city-council-meetings)
+	2. [Interview Analysis](#interview-analysis)
+5. [Impact](#impact)
+6. [Appendices](#appendices)
 	1. [Appendix 1: Team Roles](#appendix-1-team-roles)
 		1. [Kimberlee Graham-Knight](#kimberlee-graham-knight-group-leader)
 		2. [Roshni Jain](#roshni-jain-data-analysis)
@@ -32,8 +35,8 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	2. [Appendix 2: Milestones](#appendix-2-milestones)
 		1. [Status on Original Milestones](#status-on-original-milestones)
 		2. [New Timeline](#new-timeline)
-	3. [Appendix 3: Preliminary Results](#appendix-3-preliminary-results)
-6. [References](#references)
+	3. [Appendix 3: Interview Questions](#appendix-3-interview-questions)
+7. [References](#references)
 
 ## Introduction
 
@@ -45,7 +48,7 @@ Given the rapid pace at which various technologies have evolved over the past fe
 
 One area in particular that we want to focus on is the preparation and management of council meetings via technology. Specifically, we want to find out what technologies are used to prepare for the city council's meetings. What software do they use to construct their meeting agendas? How do they use technology to introduce new bylaws, modify them, and then finalize them? What steps does the city take to make this process transparent to the public? Do city councillors use software or other tools during meetings to facilitate the sharing of information? How do city councillors use software to afford the opportunity for remote participation in meetings? These are all questions that we wish to answer in our study.  
 
-One of the main reasons for conducting this study is that most of the existing research about city governments is about how to improve government-citizen relations. There have not been as many studies on how technology plays a role in governmental organization. For the studies that have been conducted, many of the more prominent studies are outdated by at least 10 years, and/or focus on municipalities located in Europe or in the United States. By conducting this study, we offer an opportunity for the municipal government of Victoria to make their current software integration status transparent to its citizens. Transparency on current practices regarding software can be healthy for growth and improvement (as seen in the open source community), and research of this type can provide beneficial information to councillors on what they can do to improve their usage of technology. 
+One of the main reasons for conducting this study is that most of the existing research about city governments is about how to improve government-citizen relations. There have not been as many studies on how technology plays a role in governmental organization. For the studies that have been conducted, many of the more prominent studies are outdated by at least 10 years, and/or focus on municipalities located in Europe or in the United States. By conducting this study, we offer an opportunity for the municipal government of Victoria to make their current software integration status transparent to its citizens. Transparency on current practices regarding software can be healthy for growth and improvement (as seen in the open source community), since it allows for the government's citizens to critique the current technological solutions (e.g. if cheaper, equally functional alternatives are available). As well, research of this type can provide beneficial information to councillors on what they can do to improve their usage of technology. 
 
 To accomplish this study of Victoria's municipal government, we will be conducting interviews with its city councillors. This is our primary source of data, as these councillors are the primary focus of this study. To augment these interviews with city councillors, we will also be conducting interviews with various members of the public that are affiliated with the municipal government of Victoria, as well as at least one interview with a member of Sooke's city council for comparison data. Alongside these interviews, we will be observing public council meetings to see what their current practices are for conducting meetings with the public. 
 
@@ -247,9 +250,43 @@ For our research, we will be collecting data from two main sources. Our primary 
 
 Our goal is to conduct eight 30 minute interview sessions. The council members that we will be interviewing will be decided primarily on availability, as the time available for this research is limited. We want to interview six members of the Victoria city council (including the mayor), a member of Sooke city council, and public figures that involve themselves with the city council on a regular basis. These interviews will be semi-structured, so that we can elaborate on topics that come up through discussion in the interviews. 
 
+- conducted 6 semi-structured interviews
+	- used [this video](https://www.youtube.com/watch?v=DRL4PF2u9XA) to help design interview questions and structure <cite later!>
+- interviews questions were focused on three major topics:
+ 
+1. Technology used in creating bills
+2. Technology used in day-to-day communications
+3. Personal comfort levels with technology
+
+- full list of interview questions can be found in appendices
+
 As mentioned before, we also attended public city meetings to observe the usage of computers in facilitating meetings. These meetings typically occur every two weeks on Thursday nights at 7:00pm, and are held at City Hall in Victoria. The two meetings attended were held on October 15th and October 29th. The primary goal with attending these meetings was to observe and assess the conduction of the meetings based on the following metrics: what technologies do they use to administer and share documents, how do they allow for crowd contribution, and how is discussion moderated and facilitated. 
 
+## Results
+
+As the interview results are much more detailed than the public meeting results, we will first discuss our analysis of the city of Victoria's public meetings. The results from our interviews follow afterwards. 
+
+### Results from City Council Meetings
+
+All councillors currently have a laptop or tablet at the meeting. Some laptops run Windows, but most are MacBooks. The meeting begins with the mayor verbally announcing any late additions or changes to the agenda since it was published online on the Friday before the meeting. We observed a number of late items added to the agenda at both meetings we attended. In order to construct the agenda, members email their items to the clerk and to council in advance of the meeting.
+
+During the meeting, a number of councillors and the mayor were observed taking notes on paper. In order to determine the order of speaking, the councillors put up their hands and the mayor acknowledges them by nodding and writing their names on a piece of paper, the speaker’s list. 
+
+Microsoft Outlook is used for email communications in the meeting, along with PowerPoint for slide presentations, and Word for the motions of the agenda (which can be scrolled through rapidly if the meeting is moving quickly). The motions and slide presentations are projected on three large television screens, one facing the council. Motions are not always read out in full; it is assumed that the councillors have had a chance to read the motions beforehand. 
+
+Speakers to the council are each personally welcomed by the mayor, and get a pre-determined amount of time to speak—usually between 5 and 20 minutes. This is monitored by a clock system that turns the speaker’s mic on or off at the appropriate time, and is manually reset by the clerk after each speaker. We observed one time that the clock was not reset for a speaker.
+
+On preliminary inspection, there is potentially room for improvement at the council’s meetings. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Also, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. There are products on the market to automate the voting process such as IVS City Council that may be considered.
+
+- transition to interview analysis
+
+### Interview Analysis
+
+
+
 ## Impact
+
+<need to reword this section for past tense>
 
 This project immediately offers two things to the city of Victoria:
 
@@ -326,20 +363,11 @@ At this point in the project, we have a few tasks left to accomplish. Some of ou
 
 As each interview is completed, we have to transcribe it. The dates above are the _final_ dates for interviews and their respective transcriptions; we will be dealing with the data as it flows in. Once we have all of the interview data in a usable format, analysis will be conducted on it to determine the best method of approach to technology for the city council. This best method (or set of methods) will then be presented in a report to the city council at the end of the semester. 
 
-## Appendix 3: Preliminary Results
+## Appendix 3: Interview Questions
 
-As we have only completed some of our interviews with councillors and others at this time, we have decided not to include findings from those in this report. However, we have finished our observation of Victoria city council meetings, and have a number of points from this to discuss.
+The following list of questions were used to prompt discussion in the interviews that we conducted. 
 
-All councillors currently have a laptop or tablet at the meeting. Some laptops run Windows, but most are MacBooks. The meeting begins with the mayor verbally announcing any late additions or changes to the agenda since it was published online on the Friday before the meeting. We observed a number of late items added to the agenda at both meetings we attended. In order to construct the agenda, members email their items to the clerk and to council in advance of the meeting.
-
-During the meeting, a number of councillors and the mayor were observed taking notes on paper. In order to determine the order of speaking, the councillors put up their hands and the mayor acknowledges them by nodding and writing their names on a piece of paper, the speaker’s list. 
-
-Microsoft Outlook is used for email communications in the meeting, along with PowerPoint for slide presentations, and Word for the motions of the agenda (which can be scrolled through rapidly if the meeting is moving quickly). The motions and slide presentations are projected on three large television screens, one facing the council. Motions are not always read out in full; it is assumed that the councillors have had a chance to read the motions beforehand. 
-
-Speakers to the council are each personally welcomed by the mayor, and get a pre-determined amount of time to speak—usually between 5 and 20 minutes. This is monitored by a clock system that turns the speaker’s mic on or off at the appropriate time, and is manually reset by the clerk after each speaker. We observed one time that the clock was not reset for a speaker.
-
-On preliminary inspection, there is potentially room for improvement at the council’s meetings. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Also, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. There are products on the market to automate the voting process such as IVS City Council that may be considered.
-
+- question list goes here
 
 ## References
 
