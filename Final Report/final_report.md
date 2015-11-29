@@ -290,6 +290,25 @@ On preliminary inspection, there is potentially room for improvement at the coun
 
 #### Communication
 
+- Communicate a lot with residents.
+- Receive information in terms of ideas, feedback and complaints through emails, phone calls, Facebook and Twitter 
+- Communication happen with staff and other councillors through email and in person.
+- Have a city councillor page on Facebook. Some councillor have their personal page too.
+- Some councillors are active on social media sites: Facebook and twitter.
+- Sometimes communicate with other councillors from other jurisdictions through twitter but not within the city.
+- Emails are not considered to be private because of freedom of information.
+- People can access to city councillor emails through freedom of information request.
+- Council member has laptop, ipad and smartphone
+- Council members do email all day (Weekdays and weekends).
+- Scheduling of meeting is done over an email.
+- Minimum 5 members required to have a legal meeting.
+- Official meetings are organized by city staff and facilitated by the Mayor.
+
+**Tools ** 
+- Development tracker that has documents about every development that’s happening in the city which is made online this year (2015).
+- NationBuilder , a constituency management  for tracking emails. It’s a political organizer. The website basically runs on the NationBuilder platform which has  a database attached to it.
+
+
 #### Bylaws
 
 <transition into general section on the issues we've identified in city, and how we're classifying them>
