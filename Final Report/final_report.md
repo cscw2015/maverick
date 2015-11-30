@@ -313,18 +313,31 @@ On preliminary inspection, there is potentially room for improvement at the coun
 - Some councillors are active on social media sites: Facebook and Twitter
 - Sometimes communicate with other councillors from other jurisdictions through Twitter but not within the city
 - Emails are not considered to be private because of freedom of information
-	- People have to city councillor emails through freedom of information request
+- People have to city councillor emails through freedom of information request
 - Council member has city-issued laptop, iPad, and smartphone
 - Council members do email all day (Weekdays and weekends).
-	- some get upwards of 1000 emails/day
+- some get upwards of 1000 emails/day
 - Scheduling of meeting is done over an email
-	- SurveyMonkey is used to collect available meeting times from all councillors
+- SurveyMonkey is used to collect available meeting times from all councillors
 - Minimum 5 members required to have a legal meeting
 - Official meetings are organized by city staff and facilitated by the Mayor
+- Website is there for council-public communication.
+- HaveYourSay is the portal where all the citizen engagement activities are posted.
+- PlaySpeak was used to track development applications earlier.
+- 1000 page binder for budget discussion.
+- Learning of .json code writing  to have a data approach instead of file approach.
+- Internal App of Civic web is used to manage huge agendas on the councillors ipad during meeting.
+- Some councillors don’t like twitter.
+- Councillors do informal group meetings with citizens at a small level.
+- Council uses different color code for printing agenda because of privacy issue.
+
 
 **Tools**
 - Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
 - NationBuilder, a constituency management  for tracking emails. It’s a political organizer. The website basically runs on the NationBuilder platform which has  a database attached to it.
+- Atomic Crayon, website provider
+- Icompass provides software for information management services for council and committee operations.
+- Granicus and Civic web are for council operations. 
 
 
 #### Bylaws
