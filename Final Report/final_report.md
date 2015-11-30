@@ -21,11 +21,17 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 			2. [Transition to Open Source in Munich](#transition-to-open-source-in-munich)
 			3. [Methodology to evaluate usage of Open Source](#methodology-to-evaluate-usage-of-open-source)
 3. [Methodology](#methodology)
+	1. [Alternatives Considered](#alternatives-considered)
+	2. [Our Methodology](#our-methodology)
 4. [Results](#results)
 	1. [Results from City Council Meetings](#results-from-city-council-meetings)
-	2. [Interview Analysis](#interview-analysis)
-5. [Impact](#impact)
-6. [Appendices](#appendices)
+	2. [Interview Results](#interview-results)
+		1. [Communication](#communication)
+		2. [Bylaws](#bylaws)
+	3. [Issues Identified](#issues-identified)
+5. [Conclusions](#conclusions)
+6. [Impact](#impact)
+7. [Appendices](#appendices)
 	1. [Appendix 1: Team Roles](#appendix-1-team-roles)
 		1. [Kimberlee Graham-Knight](#kimberlee-graham-knight-group-leader)
 		2. [Roshni Jain](#roshni-jain-data-analysis)
@@ -36,7 +42,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		1. [Status on Original Milestones](#status-on-original-milestones)
 		2. [New Timeline](#new-timeline)
 	3. [Appendix 3: Interview Questions](#appendix-3-interview-questions)
-7. [References](#references)
+8. [References](#references)
 
 ## Introduction
 
@@ -246,7 +252,17 @@ In our project, we did not feel the need to use specific software to assist in c
 
 ##Methodology
 
-<transition here>
+For our research, we considered a few different types of approaches to discover what the city council of Victoria currently uses for technology, and how to improve the usage of technology by the city. Before we introduce what our research encompassed and the methodology we followed, we first want to discuss the alternatives approaches and why we rejected them. 
+
+### Alternatives Considered 
+
+One of the approaches we considered was to conduct a usability study on the website currently used by the city of Victoria. 
+- list more details here
+	- what would we have looked at?
+	- why did we choose to ignore the site?
+- other approaches considered 
+
+- transition into what methodology we used in our research
 
 ### Our Methodology
 
@@ -266,7 +282,6 @@ Our goal is to conduct eight 30 minute interview sessions. The council members t
 
 As mentioned before, we also attended public city meetings to observe the usage of computers in facilitating meetings. These meetings typically occur every two weeks on Thursday nights at 7:00pm, and are held at City Hall in Victoria. The two meetings attended were held on October 15th and October 29th. The primary goal with attending these meetings was to observe and assess the conduction of the meetings based on the following metrics: what technologies do they use to administer and share documents, how do they allow for crowd contribution, and how is discussion moderated and facilitated. 
 
-### Alternatives Considered <could put this before our methodology to make it flow better into results?>
 
 ## Results
 
@@ -290,23 +305,26 @@ On preliminary inspection, there is potentially room for improvement at the coun
 
 #### Communication
 
-- Communicate a lot with residents.
+- Councillors communicate a lot with residents <can we make a diagram for what we expected vs. what we found?> 
 - Receive information in terms of ideas, feedback and complaints through emails, phone calls, Facebook and Twitter 
-- Communication happen with staff and other councillors through email and in person.
-- Have a city councillor page on Facebook. Some councillor have their personal page too.
-- Some councillors are active on social media sites: Facebook and twitter.
-- Sometimes communicate with other councillors from other jurisdictions through twitter but not within the city.
-- Emails are not considered to be private because of freedom of information.
-- People can access to city councillor emails through freedom of information request.
-- Council member has laptop, ipad and smartphone
+- Communication happens with staff and other councillors through email and in person
+- Have a city councillor page on Facebook
+	- Some councillor have their personal page too
+- Some councillors are active on social media sites: Facebook and Twitter
+- Sometimes communicate with other councillors from other jurisdictions through Twitter but not within the city
+- Emails are not considered to be private because of freedom of information
+	- People have to city councillor emails through freedom of information request
+- Council member has city-issued laptop, iPad, and smartphone
 - Council members do email all day (Weekdays and weekends).
-- Scheduling of meeting is done over an email.
-- Minimum 5 members required to have a legal meeting.
-- Official meetings are organized by city staff and facilitated by the Mayor.
+	- some get upwards of 1000 emails/day
+- Scheduling of meeting is done over an email
+	- SurveyMonkey is used to collect available meeting times from all councillors
+- Minimum 5 members required to have a legal meeting
+- Official meetings are organized by city staff and facilitated by the Mayor
 
-**Tools ** 
-- Development tracker that has documents about every development that’s happening in the city which is made online this year (2015).
-- NationBuilder , a constituency management  for tracking emails. It’s a political organizer. The website basically runs on the NationBuilder platform which has  a database attached to it.
+**Tools**
+- Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
+- NationBuilder, a constituency management  for tracking emails. It’s a political organizer. The website basically runs on the NationBuilder platform which has  a database attached to it.
 
 
 #### Bylaws
@@ -316,6 +334,18 @@ On preliminary inspection, there is potentially room for improvement at the coun
 
 ### Issues Identified
 
+## Conclusions 
+
+- research questions reiterated here so we can affirm whether or not they were answered:
+
+1. What technologies already exist or are being used to help city councillors in their meetings, with respect to document sharing and communication?
+2. What issues are they currently facing with their present technology?
+3. How can we improve communication between city councillors?
+
+- answers to each question
+- other questions that have arisen from work
+	- what can be explored next? What should be explored next?
+	- do other nearby municipalities have similar setups and/or issues re:technology?
 
 ## Impact
 
@@ -398,9 +428,7 @@ As each interview is completed, we have to transcribe it. The dates above are th
 
 ## Appendix 3: Interview Questions
 
-The following list of questions were used to prompt discussion in the interviews that we conducted. 
-
-- question list goes here
+The following list contains general questions used throughout our interviews to facilitate discussion. Not all questions are listed, as some are context-specific to interviews and/or break confidentiality. 
 
 ## References
 
