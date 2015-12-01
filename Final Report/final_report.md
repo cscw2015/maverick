@@ -337,6 +337,14 @@ From our six interviews, we chose to divide our findings into two major categori
 - Some councillors don’t like twitter
 - Councillors do informal group meetings with citizens at a small level
 - Council uses different color code for printing agenda because of privacy issue
+- Data are encrypted in the official laptops of Councillors to maintain the privacy.	
+- Each councillor has its username and password to operate their machine.
+- Sensitive data are shared through hard copies.
+- Councillor can join to City Meetings through Skype
+- Electronic version of agenda is available on Meeting management software during city meetings.
+- Late Items  are added into addendum of agenda during the meetings.
+- Comparative study is followed to determine the software which can be used within the City council.
+
 
 **Tools**
 - Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
@@ -344,6 +352,12 @@ From our six interviews, we chose to divide our findings into two major categori
 - Atomic Crayon, website provider
 - Icompass provides software for information management services for council and committee operations.
 - Granicus and Civic web are for council operations. 
+- Meeting Management Software designed by iCompass is used  to get the agenda and do some modifications as and when required during the council meetings.
+- Meeting  Broadcast Software designed by Granicus is used to broadcast the city meetings.
+- Microsoft suite is used for core productivity.
+- Tempest is used for building and permitting software.
+- JD Edward Software is used for core financial purposes.
+
 
 
 #### Bylaw Development
