@@ -27,7 +27,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	1. [Results from City Council Meetings](#results-from-city-council-meetings)
 	2. [Interview Results](#interview-results)
 		1. [Communication](#communication)
-		2. [Bylaws](#bylaws)
+		2. [Bylaw Development](#bylaw-development)
 	3. [Issues Identified](#issues-identified)
 5. [Conclusions](#conclusions)
 6. [Impact](#impact)
@@ -282,10 +282,14 @@ Our goal is to conduct eight 30 minute interview sessions. The council members t
 
 As mentioned before, we also attended public city meetings to observe the usage of computers in facilitating meetings. These meetings typically occur every two weeks on Thursday nights at 7:00pm, and are held at City Hall in Victoria. The two meetings attended were held on October 15th and October 29th. The primary goal with attending these meetings was to observe and assess the conduction of the meetings based on the following metrics: what technologies do they use to administer and share documents, how do they allow for crowd contribution, and how is discussion moderated and facilitated. 
 
-
 ## Results
 
-As the interview results are much more detailed than the public meeting results, we will first discuss our analysis of the city of Victoria's public meetings. The results from our interviews follow afterwards. 
+There are two components to our results from this study:
+
+1. City Council Meeting Observation
+2. Interview Results
+ 
+Since we observed two meetings and conducted six interviews, our results from the city council meetings have less depth than the interview findings. We'll discuss our findings from the city council meetings, followed by the interview results. 
 
 ### Results from City Council Meetings
 
@@ -297,15 +301,19 @@ Microsoft Outlook is used for email communications in the meeting, along with Po
 
 Speakers to the council are each personally welcomed by the mayor, and get a pre-determined amount of time to speak—usually between 5 and 20 minutes. This is monitored by a clock system that turns the speaker’s mic on or off at the appropriate time, and is manually reset by the clerk after each speaker. We observed one time that the clock was not reset for a speaker.
 
-On preliminary inspection, there is potentially room for improvement at the council’s meetings. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Also, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. There are products on the market to automate the voting process such as IVS City Council that may be considered.
+<findings from interviews that pertain to city council meetings here> 
 
-- transition to interview analysis
+While the findings from our observation of city council meetings are few, they provide a basis and context for how the city operates and how councillors interact with each other. Our interviews provided much more depth on how city councillors go about doing their work and how modern technology fits in to their work. 
 
 ### Interview Results
+
+From our six interviews, we chose to divide our findings into two major categories: **communication** and **bylaw development.** Part of our focus with our research was to improve councilor-to-councilor communication, so many of our questions were focused on how councilors currently communicate amongst themselves and what channels they use to communicate. Our other questions related to what work they have to complete and what technologies they use to complete said work; most work that councilors do culminates in the creation of bylaws for the municipality. After discussing our findings from the interviews, we go over some of the issues that we identified from the interviews and from the meetings along with possible solutions (if they immediately exist). 
 
 #### Communication
 
 - Councillors communicate a lot with residents <can we make a diagram for what we expected vs. what we found?> 
+	- expected: councilor-to-councilor interaction being encouraged and facilitated
+	- found: majority of councilors focus on councilor-citizen communication, communication between councilors is done when they meet for committees or in other official meetings
 - Receive information in terms of ideas, feedback and complaints through emails, phone calls, Facebook and Twitter 
 - Communication happens with staff and other councillors through email and in person
 - Have a city councillor page on Facebook
@@ -313,24 +321,22 @@ On preliminary inspection, there is potentially room for improvement at the coun
 - Some councillors are active on social media sites: Facebook and Twitter
 - Sometimes communicate with other councillors from other jurisdictions through Twitter but not within the city
 - Emails are not considered to be private because of freedom of information
-- People have to city councillor emails through freedom of information request
+	- People have access to city councillor emails through freedom of information request
 - Council member has city-issued laptop, iPad, and smartphone
-- Council members do email all day (Weekdays and weekends).
-- some get upwards of 1000 emails/day
+- Council members do email all day (Weekdays and weekends)
+	- some get upwards of 1000 emails/day
 - Scheduling of meeting is done over an email
+- Official meetings are organized by city staff and facilitated by the Mayor
 - SurveyMonkey is used to collect available meeting times from all councillors
 - Minimum 5 members required to have a legal meeting
-- Official meetings are organized by city staff and facilitated by the Mayor
-- Website is there for council-public communication.
-- HaveYourSay is the portal where all the citizen engagement activities are posted.
-- PlaySpeak was used to track development applications earlier.
-- 1000 page binder for budget discussion.
-- Learning of .json code writing  to have a data approach instead of file approach.
-- Internal App of Civic web is used to manage huge agendas on the councillors ipad during meeting.
-- Some councillors don’t like twitter.
-- Councillors do informal group meetings with citizens at a small level.
-- Council uses different color code for printing agenda because of privacy issue.
-
+	- 5 members is the threshold for legal majority -> requires an official meeting
+- Website is there for council-public communication
+- HaveYourSay is the portal where all the citizen engagement activities are posted
+- PlaySpeak was used to track development applications earlier
+- Internal App of Civic web is used to manage huge agendas on the councillors ipad during meeting
+- Some councillors don’t like twitter
+- Councillors do informal group meetings with citizens at a small level
+- Council uses different color code for printing agenda because of privacy issue
 
 **Tools**
 - Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
@@ -340,12 +346,28 @@ On preliminary inspection, there is potentially room for improvement at the coun
 - Granicus and Civic web are for council operations. 
 
 
-#### Bylaws
+#### Bylaw Development
 
+- version control
+	- expected:
+	- found:
+- collaborative editing on documents
+	- one councilor uses Google Docs with their "closest allies" 
+	- editing typically is not done collaboratively -- councilors talk about issues, city staff write the reports
+- one interviewee views city council being fairly hypocritical in their plan vs. their execution
+	- statement to want to go paperless
+	- 1000 page binder for budget discussion made soon after
+- city currently uploads data in CSV, KML, SHP, XLS formats
+	- Learning of .json code writing to have a data approach instead of file approach
+		- **being conducted by a citizen**
 <transition into general section on the issues we've identified in city, and how we're classifying them>
-<classifications fall under some type of categorization, depending on severity of issue and time expected to fix/address>
 
 ### Issues Identified
+
+<classifications fall under some type of categorization, depending on severity of issue and time expected to fix/address>
+- On preliminary inspection, there is potentially room for improvement at the council’s meetings. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Also, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. There are products on the market to automate the voting process such as IVS City Council that may be considered.
+- citizens feel that to get data in a more parseable format they have to put the files into that format
+	- should be an effort on city level to put this data into more parseable forms (.json example brought up in one of the interviews)
 
 ## Conclusions 
 
