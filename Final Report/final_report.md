@@ -46,17 +46,17 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 
 ## Introduction
 
-Given the rapid pace at which various technologies have evolved over the past few years, there exists a need to re-evaluate the current usage of technology in the public sector. In particular, there is a need for the public to ensure that their governments are using current technology to its fullest capabilities in order to better service the public. With our research, we aim to discover what methods the city council of Victoria currently uses for facilitating collaboration and communication. This includes public council meetings as well as their internal communications. We ask three research questions in this paper:
+Given the rapid pace at which various technologies have evolved over the past few years, there exists a need to re-evaluate the current usage of technology in the public sector. In particular, there is a need for the public to ensure that their governments are using current technology to its fullest capabilities in order to better service the public. With our research, we aimed to discover what methods the city council of Victoria currently uses for facilitating collaboration and communication. This includes public council meetings as well as their internal communications. We ask three research questions in this paper:
 
 1. What technologies already exist or are being used to help city councillors in their meetings, with respect to document sharing and communication?
 2. What issues are they currently facing with their present technology?
 3. How can we improve communication between city councillors?
 
-One area in particular that we want to focus on is the preparation and management of council meetings via technology. Specifically, we want to find out what technologies are used to prepare for the city council's meetings. What software do they use to construct their meeting agendas? How do they use technology to introduce new bylaws, modify them, and then finalize them? What steps does the city take to make this process transparent to the public? Do city councillors use software or other tools during meetings to facilitate the sharing of information? How do city councillors use software to afford the opportunity for remote participation in meetings? These are all questions that we wish to answer in our study.  
+One area in particular that we wanted to focus on was the preparation and management of council meetings via technology. Specifically, we wanted to find out what technologies are used to prepare for the city council's meetings. What software do they use to construct their meeting agendas? How do they use technology to introduce new bylaws, modify them, and then finalize them? What steps does the city take to make this process transparent to the public? Do city councillors use software or other tools during meetings to facilitate the sharing of information? How do city councillors use software to afford the opportunity for remote participation in meetings? These are all questions that we sought to answer in our study.  
 
 One of the main reasons for conducting this study is that most of the existing research about city governments is about how to improve government-citizen relations. There have not been as many studies on how technology plays a role in governmental organization. For the studies that have been conducted, many of the more prominent studies are outdated by at least 10 years, and/or focus on municipalities located in Europe or in the United States. By conducting this study, we offer an opportunity for the municipal government of Victoria to make their current software integration status transparent to its citizens. Transparency on current practices regarding software can be healthy for growth and improvement (as seen in the open source community), since it allows for the government's citizens to critique the current technological solutions (e.g. if cheaper, equally functional alternatives are available). As well, research of this type can provide beneficial information to councillors on what they can do to improve their usage of technology. 
 
-To accomplish this study of Victoria's municipal government, we will be conducting interviews with its city councillors. This is our primary source of data, as these councillors are the primary focus of this study. To augment these interviews with city councillors, we will also be conducting interviews with various members of the public that are affiliated with the municipal government of Victoria, as well as at least one interview with a member of Sooke's city council for comparison data. Alongside these interviews, we will be observing public council meetings to see what their current practices are for conducting meetings with the public. 
+To accomplish this study of Victoria's municipal government, we conducted interviews with its city councillors. This was our primary source of data, as these councillors are the primary focus of this study. To augment these interviews with city councillors, we also conducted interviews with various members of the public that are affiliated with the municipal government of Victoria and one interview with a member of Sooke's city council for comparison data. Alongside these interviews, we observed public council meetings to see what their current practices are for conducting meetings with the public. 
 
 The next section goes over the previous research done in this field and how this previous research is relevant to the research questions we are currently pursuing.
 
@@ -88,7 +88,7 @@ Innovation is an important part of any continued collaborative group work. Walke
 
 We believe the city of Victoria would be interested in this sort of study for two reasons. The first is that by recognizing any potential shortcomings in their current practices they can quickly take steps to remedy these shortcomings; our study offers this through analysis of interviews with city officials. The second reason is that local governments tend to get a lot of pressure to "do more with less" [2] so by offering potential alternatives to the city (should they be applicable), the city can choose to shift the technologies they use and potentially lower their current costs. To help inform this decision, should we make any suggestions towards changing the software or the way they use software we will also include the cost of changing this software, where applicable. 
 
-Before addressing how we plan to assess the current state of technological use in the municipality of Victoria, we need to consider what has been done before in this field of research. The following section details the history of CSCW integration with governments. 
+Before addressing how we assessed the current state of technological use in the municipality of Victoria, we need to consider what has been done before in this field of research. The following section details the history of CSCW integration with governments. 
 
 ###History of CSCW Use in Government
 
@@ -139,7 +139,6 @@ Any documents created in private rooms could be shared by placing them in the ro
 To properly evaluate the Stuttgart city council, a detailed analysis of council work was done using Needs Driven Analysis (NDA). NDA is suitable to concurrently design software and intervene in an organization in a large group environment. This type of analysis identified the need for group support, which then served as the basis for the design of Cuparla. An initial design was implemented within the council, and the developers allowed for a few months of usage before analyzing the usage and effectiveness of the software. 
 
 Two analysis and development cycles were used to develop Cuparla. In the first cycle, Cuparla was tested by 11 city council members. The results obtained from this initial wave were then used to do a second analysis, design, implementation and evaluation phase. This second software cycle was tested on 55 of 56 active city council members. By the end of the second cycle, a field test of Cuparla was performed on the small city of Kornwestheim, in order to determine the effectiveness of the tool in a different environment [4]. 
-	
 
 ##### Evaluation of Cuparla
 
@@ -149,7 +148,7 @@ Evaluation of cuparla was done on five sets of criteria and four levels of aggre
 <img src="https://github.com/cscw2015/maverick/blob/master/Interim/Evaluation of Curparla.png">
 </p>
 
-Using a matrix of this sort seemed to be an effort to reduce the redundancy in data obtained from the evaluation. We will not be using such a method in our study to evaluate software, as our study is more of an exploratory study. 
+Using a matrix of this sort seemed to be an effort to reduce the redundancy in data obtained from the evaluation. We did not be using such a method in our study to evaluate software, as our study was more of an exploratory study.
 
 ####E-government
 
@@ -185,6 +184,8 @@ In his paper about the benefits of e-government, Bhatnagar includes a list of so
 - **streamlined administrative process** (increased ability of managers to monitor task completion rates of civil servants; improved efficiency of civil servants by automating tedious work; integration of databases, reducing inaccuracies caused by the presence of redundant, duplicate databases)
 - **reduced administrative burdens for businesses** (faster access to government and less time needed to interact with government)
 - **increased revenue** (convenient to pay taxes; improved audit to identify defaulters; plug leakage by reducing corruption)
+
+<need transition here; it cuts off abruptly> 
 
 ####Open Source
 
@@ -248,7 +249,7 @@ An independent review of this open source transition was conducted in 2008 by Ma
 
 These interviews were initially conducted in German and then translated to English. These interviews were conducted over the course of two months and, as Cassell mentions, coded in part by N-Vivo to help in analysis. 
 
-In our project, we did not feel the need to use specific software to assist in coding and analyzing interview data. Given that we are conducting a small number of interviews across two municipalities, most of the interview transcription will be done by hand as interviews are completed. 
+In our project, we did not feel the need to use specific software to assist in coding and analyzing interview data. Given that we were conducting a small number of interviews across two municipalities, most of the interview transcription was done by hand as interviews were completed. 
 
 ##Methodology
 
@@ -266,19 +267,17 @@ One of the approaches we considered was to conduct a usability study on the webs
 
 ### Our Methodology
 
-For our research, we will be collecting data from two main sources. Our primary method of data collection will be through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collection for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors is the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, should we be unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
+For our research, we collected data from two main sources. Our primary method of data collection was through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collection for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors was the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, in case we were unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
 
-Our goal is to conduct eight 30 minute interview sessions. The council members that we will be interviewing will be decided primarily on availability, as the time available for this research is limited. We want to interview six members of the Victoria city council (including the mayor), a member of Sooke city council, and public figures that involve themselves with the city council on a regular basis. These interviews will be semi-structured, so that we can elaborate on topics that come up through discussion in the interviews. 
+We conducted six semi-structred 30-minute interview sessions in total. The council members that we interviewed were decided primarily on availability, as the time available for this research was limited. Three interviews were conducted with city council members of Victoria, with one interview from the IT manager of the city of Victoria and one interview with a citizen that continually involves themselves with city council operations. To provide control data for other local municipalities, we also interviewed a member of the Sooke city council. 
 
-- conducted 6 semi-structured interviews
-	- used [this video](https://www.youtube.com/watch?v=DRL4PF2u9XA) to help design interview questions and structure <cite later!>
-- interviews questions were focused on three major topics:
+As previously mentioned, these interviews were semi-structured in nature to allow for topics to be expanded as they were discussed. To design our interviews, we used Löfgren's video on qualitative analysis of interview data [18] so that we knew how to phrase questions in order to obtain the information we desired. Our interviews were focused on three main topics: 
  
 1. Technology used in creating bills
 2. Technology used in day-to-day communications
 3. Personal comfort levels with technology
 
-- full list of interview questions can be found in appendices
+A partial list of interview questions (that don't violate interviewee privacy) can be found in Appendix C. 
 
 As mentioned before, we also attended public city meetings to observe the usage of computers in facilitating meetings. These meetings typically occur every two weeks on Thursday nights at 7:00pm, and are held at City Hall in Victoria. The two meetings attended were held on October 15th and October 29th. The primary goal with attending these meetings was to observe and assess the conduction of the meetings based on the following metrics: what technologies do they use to administer and share documents, how do they allow for crowd contribution, and how is discussion moderated and facilitated. 
 
@@ -398,8 +397,6 @@ From our six interviews, we chose to divide our findings into two major categori
 
 ## Impact
 
-<need to reword this section for past tense>
-
 This project immediately offers two things to the city of Victoria:
 
 1. It offers an outside perspective on current communication practices within the government, which may help identify flaws in communication practices; and
@@ -498,3 +495,4 @@ The following list contains general questions used throughout our interviews to 
 15. (2003). Flaw in RPC Endpoint Mapper Could Allow Denial of Service Attacks (331953). Accessed online: [https://technet.microsoft.com/library/security/ms03-010](https://technet.microsoft.com/library/security/ms03-010)
 16. Grassmuck, V. “LiMux — Free Software for Munich” (2005) http://waste.informatik.hu-berlin.de/grassmuck/texts/limux.pdf Accessed November 11, 2015.
 17. Poole, M. S., Keyton, J., & Frey, L. R. (1999). *Group communications methodology* (pp 92-112). L. R. Frey, D. S. Gouran, & M. S. Poole (Eds.). Thousand Oaks, CA: Sage Publications. 
+18. Löfgren, K. (2013). *Qualitative analysis of interview data: A step-by-step guide*. Accessed online: [https://www.youtube.com/watch?v=DRL4PF2u9XA](https://www.youtube.com/watch?v=DRL4PF2u9XA)
