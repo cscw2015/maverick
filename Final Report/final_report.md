@@ -405,7 +405,10 @@ From our six interviews, we chose to divide our findings into two major categori
 - no central repository for files that need to be shared
 	- all councillors primarily use computer's file system for file organization
 - webcasts and website not well-formatted on mobile
-<insert pictures here>
+
+![alt-text](https://github.com/cscw2015/maverick/blob/master/Final Report/city_hall_main_page.png "Main page on mobile")
+![alt-text](https://github.com/cscw2015/maverick/blob/master/Final Report/city_video_mobile.png "View for accessing old webcasts")
+![alt-text](https://github.com/cscw2015/maverick/blob/master/Final Report/fullscreen_webcast.png "An old webcast, fullscreen")
 
 ## Conclusions 
 
