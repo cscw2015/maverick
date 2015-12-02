@@ -313,17 +313,26 @@ From our six interviews, we chose to divide our findings into two major categori
 - Councillors communicate a lot with residents <can we make a diagram for what we expected vs. what we found?> 
 	- expected: councilor-to-councilor interaction being encouraged and facilitated
 	- found: majority of councilors focus on councilor-citizen communication, communication between councilors is done when they meet for committees or in other official meetings
-- Receive information in terms of ideas, feedback and complaints through emails, phone calls, Facebook and Twitter 
+		- supposed to follow proper channels for communication: all communication directed at coworkers has to be conducted through city manager
+- Receive information in terms of ideas, feedback and complaints through emails, phone calls, Facebook and Twitter
+	- some councilors redirect phone calls from their "official" number to their personal cell number
+	- some request phone calls to follow up on particularly large/complicated emails
+		- emails are expected to be "perfect" in terms of grammar/dialogue, phone calls don't have to be as formal
 - Communication happens with staff and other councillors through email and in person
+	- "very little unstructured time with other councillors"
+		- cut official council lunches from budget
 - Have a city councillor page on Facebook
 	- Some councillor have their personal page too
 - Some councillors are active on social media sites: Facebook and Twitter
 - Sometimes communicate with other councillors from other jurisdictions through Twitter but not within the city
 - Emails are not considered to be private because of freedom of information
 	- People have access to city councillor emails through freedom of information request
+	- only things that can be legally private are legal issues and employee relations
+		- anything that can hurt future jobs is allowed to be kept private, the rest is **public**
 - Council member has city-issued laptop, iPad, and smartphone
 - Council members do email all day (Weekdays and weekends)
 	- some get upwards of 1000 emails/day
+	- they "have some councillors that have gotten to the point where they've given up on emails"
 - Scheduling of meeting is done over an email
 - Official meetings are organized by city staff and facilitated by the Mayor
 - SurveyMonkey is used to collect available meeting times from all councillors
@@ -342,8 +351,7 @@ From our six interviews, we chose to divide our findings into two major categori
 - Councillor can join to City Meetings through Skype
 - Electronic version of agenda is available on Meeting management software during city meetings.
 - Late Items  are added into addendum of agenda during the meetings.
-- Comparative study is followed to determine the software which can be used within the City council.
-
+- Comparative study is followed to determine the software which can be used within the City council
 
 **Tools**
 - Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
@@ -362,10 +370,15 @@ From our six interviews, we chose to divide our findings into two major categori
 #### Bylaw Development
 
 - version control
-	- expected:
-	- found:
+	- expected: emailing documents back and forth
+	- found: emailing documents back and forth
+	- expectations were largely on point -- city council does most of their work by paper or email, version control is largely nonexistant 
+- sharing/collecting data
+	- primarily email
+		- one scans documents and emails them to share date
 - collaborative editing on documents
 	- one councilor uses Google Docs with their "closest allies" 
+		- anyone that they're not 100% sure they can trust, documents are sent back and forth via email
 	- editing typically is not done collaboratively -- councilors talk about issues, city staff write the reports
 - one interviewee views city council being fairly hypocritical in their plan vs. their execution
 	- statement to want to go paperless
@@ -381,6 +394,18 @@ From our six interviews, we chose to divide our findings into two major categori
 - On preliminary inspection, there is potentially room for improvement at the council’s meetings. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Also, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. There are products on the market to automate the voting process such as IVS City Council that may be considered.
 - citizens feel that to get data in a more parseable format they have to put the files into that format
 	- should be an effort on city level to put this data into more parseable forms (.json example brought up in one of the interviews)
+- weak wifi in city council chambers
+	- takes a while to download files (sometimes 2000+ pg PDFs) while in city council meetings
+	- some people have to resort to tethering off their iPhones to get wifi in the meeting room
+	- shouldn't be an issue in 2015 -- get a stronger setup in the room(s)!
+	- loading of files manual or automatic?
+- IT is isolated from city hall
+	- located in a separate building from city hall entirely
+	- software suites are chosen by finance department -- IT only maintains, has no say over what's being chosen in terms of software
+- no central repository for files that need to be shared
+	- all councillors primarily use computer's file system for file organization
+- webcasts and website not well-formatted on mobile
+<insert pictures here>
 
 ## Conclusions 
 
