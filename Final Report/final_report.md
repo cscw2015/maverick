@@ -261,6 +261,7 @@ One of the approaches we considered was to conduct a usability study on the webs
 - list more details here
 	- what would we have looked at?
 	- why did we choose to ignore the site?
+		- we chose to ignore the site because we were much more interested on how individual council members were communicating with each other, and then it turned into how they communicate with constituents. Research was generally from the viewpoint of individual councillors, website is more how the council as a whole shares information
 - other approaches considered 
 
 - transition into what methodology we used in our research
@@ -269,7 +270,7 @@ One of the approaches we considered was to conduct a usability study on the webs
 
 For our research, we collected data from two main sources. Our primary method of data collection was through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collection for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors was the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, in case we were unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
 
-We conducted six semi-structred 30-minute interview sessions in total. The council members that we interviewed were decided primarily on availability, as the time available for this research was limited. Three interviews were conducted with city council members of Victoria, with one interview from the IT manager of the city of Victoria and one interview with a citizen that continually involves themselves with city council operations. To provide control data for other local municipalities, we also interviewed a member of the Sooke city council. 
+We conducted six semi-structured 30-minute interview sessions in total. The council members that we interviewed were decided primarily on availability, as the time available for this research was limited. Three interviews were conducted with city council members of Victoria, with one interview from the IT manager of the city of Victoria and one interview with a citizen that continually involves themselves with city council operations. To provide control data for other local municipalities, we also interviewed a member of the Sooke city council. 
 
 As previously mentioned, these interviews were semi-structured in nature to allow for topics to be expanded as they were discussed. To design our interviews, we used Löfgren's video on qualitative analysis of interview data [18] so that we knew how to phrase questions in order to obtain the information we desired. Our interviews were focused on three main topics: 
  
@@ -306,16 +307,16 @@ While the findings from our observation of city council meetings are few, they p
 
 ### Interview Results
 
-From our six interviews, we chose to divide our findings into two major categories: **communication** and **bylaw development.** Part of our focus with our research was to improve councilor-to-councilor communication, so many of our questions were focused on how councilors currently communicate amongst themselves and what channels they use to communicate. Our other questions related to what work they have to complete and what technologies they use to complete said work; most work that councilors do culminates in the creation of bylaws for the municipality. After discussing our findings from the interviews, we go over some of the issues that we identified from the interviews and from the meetings along with possible solutions (if they immediately exist). 
+From our six interviews, we chose to divide our findings into two major categories: **communication** and **bylaw development.** Part of our focus with our research was to improve councillor-to-councillor communication, so many of our questions were focused on how councillors currently communicate amongst themselves and what channels they use to communicate. Our other questions related to what work they have to complete and what technologies they use to complete said work; most work that councillors do culminates in the creation of bylaws for the municipality. After discussing our findings from the interviews, we go over some of the issues that we identified from the interviews and from the meetings along with possible solutions (if they immediately exist). 
 
 #### Communication
 
 - Councillors communicate a lot with residents <can we make a diagram for what we expected vs. what we found?> 
-	- expected: councilor-to-councilor interaction being encouraged and facilitated
-	- found: majority of councilors focus on councilor-citizen communication, communication between councilors is done when they meet for committees or in other official meetings
-		- supposed to follow proper channels for communication: all communication directed at coworkers has to be conducted through city manager
+	- expected: councillor-to-councillor interaction being encouraged and facilitated
+	- found: majority of councillors focus on councillor-citizen communication, communication between councillors is done when they meet for committees or in other official meetings
+		- supposed to follow proper channels for communication: all communication directed at city workers has to be conducted through city manager
 - Receive information in terms of ideas, feedback and complaints through emails, phone calls, Facebook and Twitter
-	- some councilors redirect phone calls from their "official" number to their personal cell number
+	- some councillors redirect phone calls from their "official" <office?> number to their personal cell number
 	- some request phone calls to follow up on particularly large/complicated emails
 		- emails are expected to be "perfect" in terms of grammar/dialogue, phone calls don't have to be as formal
 - Communication happens with staff and other councillors through email and in person
@@ -330,7 +331,7 @@ From our six interviews, we chose to divide our findings into two major categori
 	- only things that can be legally private are legal issues and employee relations
 		- anything that can hurt future jobs is allowed to be kept private, the rest is **public**
 - Council member has city-issued laptop, iPad, and smartphone
-- Council members do email all day (Weekdays and weekends)
+- Council members do email all day every day (Weekdays and weekends)
 	- some get upwards of 1000 emails/day
 	- they "have some councillors that have gotten to the point where they've given up on emails"
 - Scheduling of meeting is done over an email
@@ -372,14 +373,14 @@ From our six interviews, we chose to divide our findings into two major categori
 - version control
 	- expected: emailing documents back and forth
 	- found: emailing documents back and forth
-	- expectations were largely on point -- city council does most of their work by paper or email, version control is largely nonexistant 
+	- expectations were largely on point -- city council does most of their work by paper or email, version control is largely nonexistent 
 - sharing/collecting data
 	- primarily email
 		- one scans documents and emails them to share date
 - collaborative editing on documents
-	- one councilor uses Google Docs with their "closest allies" 
+	- one councillor uses Google Docs with their "closest allies" 
 		- anyone that they're not 100% sure they can trust, documents are sent back and forth via email
-	- editing typically is not done collaboratively -- councilors talk about issues, city staff write the reports
+	- editing typically is not done collaboratively -- councillors talk about issues, city staff write the reports
 - one interviewee views city council being fairly hypocritical in their plan vs. their execution
 	- statement to want to go paperless
 	- 1000 page binder for budget discussion made soon after
@@ -419,8 +420,12 @@ From our six interviews, we chose to divide our findings into two major categori
 3. How can we improve communication between city councillors?
 
 - answers to each question
+- 1. Currently using Microsoft Word on screens in council chambers to see the current document and changed to the document. All have individual laptops and/or tablets that they use to look at documents and references during meetings. 
+- 2. Currently facing weak wifi in council chambers, overwhelmed by email. No version control, just email new versions to everyone
+- 3. Turns out to be less of an issue than we initially thought. Probably could use some sort of messaging system for communicating with other councillors, as current system seems pretty dysfunctional.
 - other questions that have arisen from work
 	- what can be explored next? What should be explored next?
+		- things to be explored next include in depth look at website, the possibility of implementing some sort of version control software
 	- do other nearby municipalities have similar setups and/or issues re:technology?
 
 ## Impact
