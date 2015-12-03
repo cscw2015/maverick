@@ -28,6 +28,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 	2. [Interview Results](#interview-results)
 		1. [Communication](#communication)
 		2. [Bylaw Development](#bylaw-development)
+		3. [Councillor Comfort with Technology](#councillor-comfort-with-technology)
 	3. [Issues Identified](#issues-identified)
 5. [Conclusions](#conclusions)
 6. [Impact](#impact)
@@ -268,6 +269,8 @@ One of the approaches we considered was to conduct a usability study on the webs
 
 ### Our Methodology
 
+Before conducting our research, we sought information on what previous research in the field of CSCW had been conducted on government organizations. If previous research had provided insights on what technologies or software suites were preferable to governments, this would be valuable information to bring to the city of Victoria. We found three sources of previous work that helped to shape the methodology used for this project. The end results of two of these works, **Cuparla** and **E-government**, were not as relevant to our research (given their age and the rate at which the computing industry has evolved over the past 20 years), but the methods these studies employed helped to refine ours. In the **open source** study, both the methodology used to evaluate the success of adopting open source software and the results are relevant to our study, as open source software is a cost-effective alternative that, depending on the tools currently used, contains similar functionality to its proprietary counterparts. 
+
 For our research, we collected data from two main sources. Our primary method of data collection was through interviews with city councillors, with our secondary method being observance of public city meetings. We chose these two methods of data collection for a few reasons, with the primary reason being that our research questions involve assessing the quality of communication and document sharing that city councillors currently have access to. Talking directly to these city councillors was the most effective way of assessing this information. Our secondary form of data collection allows us to observe the city's methods of sharing documents with the public and their use of technology to moderate and augment their communications between the city and the public. It also serves as a form of risk mitigation, in case we were unable to conduct all of our planned interviews. Alongside these reasons, we chose these methods because they have been shown to be effective in previous studies of a similar form. Poole notes that group observation and asking questions of individual members are the two best ways to obtain information on group dynamics, and he specifically recommends in-depth interviews in order to "obtain symbols that members naturally use to describe their behaviour" [17]. 
 
 We conducted six semi-structured 30-minute interview sessions in total. The council members that we interviewed were decided primarily on availability, as the time available for this research was limited. Three interviews were conducted with city council members of Victoria, with one interview from the IT manager of the city of Victoria and one interview with a citizen that continually involves themselves with city council operations. To provide control data for other local municipalities, we also interviewed a member of the Sooke city council. 
@@ -278,7 +281,7 @@ As previously mentioned, these interviews were semi-structured in nature to allo
 2. Technology used in day-to-day communications
 3. Personal comfort levels with technology
 
-A partial list of interview questions (that don't violate interviewee privacy) can be found in Appendix C. 
+A partial list of interview questions (that do not violate interviewee privacy) can be found in Appendix C. 
 
 As mentioned before, we also attended public city meetings to observe the usage of computers in facilitating meetings. These meetings typically occur every two weeks on Thursday nights at 7:00pm, and are held at City Hall in Victoria. The two meetings attended were held on October 15th and October 29th. The primary goal with attending these meetings was to observe and assess the conduction of the meetings based on the following metrics: what technologies do they use to administer and share documents, how do they allow for crowd contribution, and how is discussion moderated and facilitated. 
 
@@ -300,8 +303,6 @@ During the meeting, a number of councillors and the mayor were observed taking n
 Microsoft Outlook is used for email communications in the meeting, along with PowerPoint for slide presentations, and Word for the motions of the agenda (which can be scrolled through rapidly if the meeting is moving quickly). The motions and slide presentations are projected on three large television screens, one facing the council. Motions are not always read out in full; it is assumed that the councillors have had a chance to read the motions beforehand. 
 
 Speakers to the council are each personally welcomed by the mayor, and get a pre-determined amount of time to speak—usually between 5 and 20 minutes. This is monitored by a clock system that turns the speaker’s mic on or off at the appropriate time, and is manually reset by the clerk after each speaker. We observed one time that the clock was not reset for a speaker.
-
-<findings from interviews that pertain to city council meetings here> 
 
 While the findings from our observation of city council meetings are few, they provide a basis and context for how the city operates and how councillors interact with each other. Our interviews provided much more depth on how city councillors go about doing their work and how modern technology fits in to their work. 
 
@@ -366,8 +367,6 @@ From our six interviews, we chose to divide our findings into two major categori
 - Tempest is used for building and permitting software.
 - JD Edward Software is used for core financial purposes.
 
-
-
 #### Bylaw Development
 
 - version control
@@ -388,6 +387,8 @@ From our six interviews, we chose to divide our findings into two major categori
 	- Learning of .json code writing to have a data approach instead of file approach
 		- **being conducted by a citizen**
 <transition into general section on the issues we've identified in city, and how we're classifying them>
+
+#### Councillor Comfort with Technology
 
 ### Issues Identified
 
