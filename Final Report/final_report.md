@@ -31,7 +31,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		3. [Councillor Comfort with Technology](#councillor-comfort-with-technology)
 	3. [Issues Identified](#issues-identified)
 5. [Conclusions](#conclusions)
-6. [Impact](#impact)
+6. [Impact](#impact-and-future-work)
 7. [Appendices](#appendices)
 	1. [Appendix 1: Team Roles](#appendix-1-team-roles)
 		1. [Kimberlee Graham-Knight](#kimberlee-graham-knight-group-leader)
@@ -355,9 +355,9 @@ The vehicle most widely used to share documents between city council members is 
 We learned from our interviews that one citizen is already trying to make data more accessible on their own. This citizen is taking development documents produced by the city (the exact format was unspecified in our interview) and is "learning how to codeb them with .json so you can actually turn [the development documents] into functional bits of data." This speaks volumes about the effort that the city is currently putting in to make data accessible, in that a small subset of the population of Victoria is unhappy enough to start putting this effort of file translation in. The city of Victoria may need to reconsider how they are distributing documents and data digitally in order to keep up with the pace of the digital world; currently, the city offers CSV, KML, SHP and XLS files through their Open Data section of their website. An in-house effort to provide data in more parsable formats (i.e. json) may be something worth considering on the city's end. 
 
 <don't want to remove this stuff just yet, but can't find best place for it currently>
-<- Electronic version of agenda is available on Meeting management software during city meetings>
-<- Late Items  are added into addendum of agenda during the meetings>
-<- Comparative study is followed to determine the software which can be used within the City council>
+<Electronic version of agenda is available on Meeting management software during city meetings>
+<Late Items  are added into addendum of agenda during the meetings>
+<Comparative study is followed to determine the software which can be used within the City council>
 
 #### Councillor Comfort with Technology
 
@@ -377,13 +377,13 @@ Through our sample size of 4 councillors interviewed, we found that half of them
 
 Through the interviews we managed to gain some insight on problems that both councillors and city staff face in their day-to-day operations. Here we go over some of the immediate issues that were presented in the interviews, and some other key points that we felt were problematic (or could be problematic). Some points from observing city council meetings are also brought up in this section, as there are some issues with how the city currently facilitates their meetings.  
 
+On preliminary inspection, there is potentially room for improvement at the council’s meetings. As previously mentioned, currently the city uses a paper-based solution to keep track of the speaker's list (which councillors are talking and in what order), but this could be improved. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Given that the city council has also expressed the desire to go paperless, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. <There are products on the market to automate the voting process such as IVS City Council that may be considered.> <commenting this sentence out, voting isn't paper based and isn't currently broken, so why fix it just yet>
+
 One of the first issues that we discovered through our interviews was that the wifi in city council chambers is particularly weak. One councillor noted that it took him a while to download documents during meetings (sometimes 2000+ pages) and that many people had to tether off their iPhones or other smartphones in order to get internet access during city meetings. This type of issue shouldn't be encountered in 2015, and should be addressed sooner rather than later.
 
 However, this point made by the councillor inadvertently raised another key issue that needs to be addressed by the city. Currently the city employs no methods to facilitate file sharing beyond emailing documents back and forth. While the problem of having weak internet to download 2000+ page PDFs during meetings is apparent, one possible fix (that would take more time to implement) would be to set up a file sharing server or a network drive for use in sharing documents. This way, when a councillor enters the building and loads up their device they don't have to go and search for the file to download, wait for the download to complete and then be able to view it, because it's already available to them and is ready to go. Services such as Dropbox exist for this type of purpose, but Dropbox in particular may not be an applicable solution to the city of Victoria due to B.C.'s data privacy laws. Whatever the final solution may be, this should be employed alongside strengthening wifi access in city hall. 
 
 We brought up this issue in the Bylaw section but felt it was worth mentioning again: citizens are starting to feel that the data made available by the city is lacking and that improvements need to be made. The fact that citizens are taking the documents made available by the city and translating them to .json format should be sounding alarms to workers in the city, because this means that the format in which they are offering data isn't being accepted by the public. <need more here, probably need better phrasing too>
-
-- On preliminary inspection, there is potentially room for improvement at the council’s meetings. One possibility could be some type of system to automate the speaker’s list, perhaps using an app on a smartphone to indicate speaker order as opposed to paper. Also, perhaps the city council could consider a note-taking app to move away from taking notes about the meeting with pen on paper. There are products on the market to automate the voting process such as IVS City Council that may be considered.
 
 One point that came up through our interviews, although not explicitly, is that the IT department is separated from many facets of the city's operations. The city's IT crew is located in a separate building from the city, and essentially maintains the status quo that the city sets regarding technology. All choices regarding technology used by the city are not decided by the IT department; through our interviews, we learned that the software suites that are used by the city are decided by the finance department for the city. While cost is an important factor in deciding what software to use, it is not by any means the only factor that should be taken into consideration. Given that technology is the strong point of the IT department, this group should have a larger say in what software suites are used by the city and what technologies are employed by government employees. 
 
@@ -395,22 +395,28 @@ As seen from this screenshot, there is a large chunk of uneven white space and t
 
 ## Conclusions 
 
-- research questions reiterated here so we can affirm whether or not they were answered:
+In order to assess whether our study gathered the information we desired, we need to reaffirm what our research questions were. The three questions we asked in this study were: 
 
 1. What technologies already exist or are being used to help city councillors in their meetings, with respect to document sharing and communication?
 2. What issues are they currently facing with their present technology?
 3. How can we improve communication between city councillors?
 
-- answers to each question
-- 1. Currently using Microsoft Word on screens in council chambers to see the current document and changed to the document. All have individual laptops and/or tablets that they use to look at documents and references during meetings. 
-- 2. Currently facing weak wifi in council chambers, overwhelmed by email. No version control, just email new versions to everyone
-- 3. Turns out to be less of an issue than we initially thought. Probably could use some sort of messaging system for communicating with other councillors, as current system seems pretty dysfunctional.
+For technologies that are being used to help city councillors in document sharing and communication, we need to look at the meeting environment and the day-to-day work that each councillor conducts. For meetings, Microsoft Word is displayed on a projector screen to view the agenda or current document. We know that groups that present to the city during the meetings we observed use PowerPoint presentations to share information, but with regards to other document types (e.g. PDFs of reports) we are unsure of how these are being distributed. In day-to-day work, document sharing is facilitated primarily via email, with some councillors using applications like Google Documents only with people that they trust. With respect to communication, councillors primarily use email as a technological medium to interact with each other. Due to the way the city operates, these interactions are fairly limited (as any points that are discussed in detail need to be brought to a meeting environment) so instead councillors interact with their constituents. They do this via email and phone primarily, with a few using Twitter or Facebook to communicate with constituents. 
+
+The only explicit issue that was brought up during interviews was the weak wifi in city council chambers. However, after going through the interview results we have determined that some councillors feel overwhelmed by the volume of email that they have to deal with on a daily basis, and that for some individuals it may be overwhelming enough to dissuade them from trying to respond to emails at all. There may be a mismanagement or misallocation of emails between the councillors (some reported getting only 200 emails a day while others are getting up to 1000 a day), but the key issue here is that councillors have no real way of filtering the emails without opening up each one to see if they can respond to it adequately. One other major issue that we have discovered is that the city offers no solution to its councillors in terms of version control, which is a topic that we explicitly searched for through interviews and through observation. 
+
+For improving communication between city councillors, this is a misconception that we had when we began our research. As outlined before, we believed that in order to conduct their jobs, councillors needed to collaborate with one another outside of the meeting environment. This is not the case, as the majority of communication that occurs is between councillors and constituents. While the possibility of improving councillor-to-councillor communication still exists (and should eventually be explored) councillors place much more weight on interacting with their constituents. Future research should take a look at this and explore the possibility of improving councillor-to-citizen communication over attempting to improve councillor-to-councillor communication. 
+
+<1. Currently using Microsoft Word on screens in council chambers to see the current document and changed to the document. All have individual laptops and/or tablets that they use to look at documents and references during meetings.>
+<2. Currently facing weak wifi in council chambers, overwhelmed by email. No version control, just email new versions to everyone>
+<3. Turns out to be less of an issue than we initially thought. Probably could use some sort of messaging system for communicating with other councillors, as current system seems pretty dysfunctional.>
+
 - other questions that have arisen from work
 	- what can be explored next? What should be explored next?
 		- things to be explored next include in depth look at website, the possibility of implementing some sort of version control software
 	- do other nearby municipalities have similar setups and/or issues re:technology?
 
-## Impact
+## Impact and Future Work
 
 This project immediately offers two things to the city of Victoria:
 
@@ -490,7 +496,6 @@ As each interview is completed, we have to transcribe it. The dates above are th
 ## Appendix 3: Interview Questions
 
 The following list contains general questions used throughout our interviews to facilitate discussion. Not all questions are listed, as some are context-specific to interviews and/or break confidentiality. 
-
 
 ## Appendix 4: Tools Used by Council
 
