@@ -278,7 +278,7 @@ We conducted six semi-structured 30-minute interview sessions in total. The coun
 
 As previously mentioned, these interviews were semi-structured in nature to allow for topics to be expanded as they were discussed. To design our interviews, we used Löfgren's video on qualitative analysis of interview data [18] so that we knew how to phrase questions in order to obtain the information we desired. Our interviews were focused on three main topics: 
  
-1. Technology used in creating bills
+1. Technology used in creating bylaws
 2. Technology used in day-to-day communications
 3. Personal comfort levels with technology
 
