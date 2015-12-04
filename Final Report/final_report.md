@@ -389,7 +389,7 @@ One point that came up through our interviews, although not explicitly, is that 
 
 One of the final issues that we noted was brought up in passing through one of our interviews. The city of Victoria offers a livestream for viewing their city meetings, and they conduct this through a service called Granicus. While we have not been able to affirm the quality of the livestreamed video (as it was not the focus of our study) by taking a look at the service used we see room for improvement. Below is a screenshot of the view a user would see when they attempt to access an older video via computer. 
 
-![alt-text](https://github.com/cscw2015/maverick/blobl/master/Final Report/granicus_agenda_video.png "View for accessing old webcasts")
+![alt-text](https://github.com/cscw2015/maverick/blob/master/Final%20Report/granicus_agenda_video.png "View for accessing old webcasts")
 
 As seen from this screenshot, there is a large chunk of uneven white space and the video appears to be an afterthough, as it's pushed to a corner of the screen rather than being the main focus of the page. Again, the structure of the website and its usability was not a core part of our research, but keeping their website up to date is an important task for the city. 
 
