@@ -318,45 +318,40 @@ One of the results that was highly emphasized through all our interviews is who 
 
 Most of the discussion that happens between councillors is done through official meetings or committees. This is in part due to how the city has organized itself. Members of the city are expected to follow the proper channels for communication: any communication directed towards city workers has to be conducted through an intermediary city manager. Along with this, any communication channel (e.g. an email chain) that contains 5 or more city members constitutes a legal majority that can affect change, so any communication that involves 5 or more city council members must be conducted at an official meeting. This doesn't mean that councillors are forbidden to interact with other councillors - given that they all have offices next to each other, whenever informal discussion needs to happen between councillors it primarily happens in-person. One interviewee did note that there was "very little unstructed time with other councillors," which highlights that the majority of the communication for councillors occurs between councillors and their consituents. 
 
-To collect information from their consituents, councillors use a few technological mediums. The core technology used in their workflow is email, but councillors also make usage of phone calls, Facebook, and Twitter to interact with their constituents. 
+To collect information from their consituents, councillors use a few technological mediums. The core technology used in their workflow is email, but councillors also make usage of phone calls, Facebook, and Twitter to interact with their constituents. Many of the councillors view their job as a 24/7 job; councillors have to be available at all times to reply to emails, answer phone calls from constituents, and navigate through social media to address issues that come up with constituents. Each councillor has different ways to make this workflow manageable, but the methods employed to manage their individual work flows vary depending on how much they have to respond to in a day. Looking at emails alone, some of the councillors get 200 emails per day, whereas others can get up to 1000 emails a day. One councillor said that "because [emails] can be forwarded, and because they're permanent in writing, they have to be good. Grammar has to be fine, content has to be fine." If a councillor is getting up to 1000 emails a day and they're being held to the standard of good content and good grammar, it can be very easy to fall behind. According to some of our interviews, some councillors have "gotten to the point where they've given up on emails." If it is true that some councillors have given up on email because it is unmanageable (compared to the amount of effort they have to put in to manage it) then something needs to be done to address this. 
 
-- Receive information in terms of ideas, feedback and complaints through emails, phone calls, Facebook and Twitter
-	- some councillors redirect phone calls from their "official" <office?> number to their personal cell number
-	- some request phone calls to follow up on particularly large/complicated emails
-		- emails are expected to be "perfect" in terms of grammar/dialogue, phone calls don't have to be as formal
-- Communication happens with staff and other councillors through email and in person
-	- "very little unstructured time with other councillors"
-		- cut official council lunches from budget
-- Have a city councillor page on Facebook
-	- Some councillor have their personal page too
-- Some councillors are active on social media sites: Facebook and Twitter
-- Sometimes communicate with other councillors from other jurisdictions through Twitter but not within the city
-- Emails are not considered to be private because of freedom of information
-	- People have access to city councillor emails through freedom of information request
-	- only things that can be legally private are legal issues and employee relations
-		- anything that can hurt future jobs is allowed to be kept private, the rest is **public**
+The city council of Victoria also interacts as its own entity with the public by usage of social media and the city web site. The city of Victoria has a general page on [Facebook](https://www.facebook.com/CityofVictoriaPage/) <cite later?> that serves as an announcement page for events going on in the city. Some city councillors also make an attempt to maintain their own personal Facebook pages and Twitter accounts. These are mostly used to interact with their constituents, but some councillors also reach out to councillors from *other jurisdictions* via Twitter; interaction between councillors in Victoria is not conducted via social media. However, one interviewee mentioned that the city has "one guy who is primarily for day to day Twitter" for pushing promotional material out and responding to general questions to the city. So there is a movement from the city towards using social media, but not everyone is buying in. One interviewee said that they don't like Twitter "because there is a problem in trying to get relevant information out of folks in a short number of characters." Whether this is a sentiment shared by other council members remains to be seen, but the fact that some councillors actively use Twitter has to be seen as a positive. 
+
+One topic that we wanted to bring up in interviews was the notion of privacy. We wanted to know how city councillors ensured private data was kept private and what types of data need to be kept private. A lot of the work and communication that councillors put out (through email, Facebook, other) can be accessed by citizens through a Freedom of Information request (FOI), which means that the majority of written communication conducted by councillors is public information. Some exceptions do exist in regards to privacy; any documents regarding legal issues and any written communication on employee relations or employee performance do not have to be given out via a FOI request. Beyond these two exceptions, councillors have no expectation of privacy in their work and the way they conduct their communication with constituents reflects this. This may also help explain why some councillors are seemingly giving up on responding to emails: at a large enough volume, if they send out a poorly worded email it may come to hurt them in the future (e.g. for job prospects) so it's simply easier to just not respond rather than do a poor job of managing communication. 
+
+- Council uses different color code for printing agenda because of privacy issue
+- Data are encrypted in the official laptops of Councillors to maintain the privacy	
+- Each councillor has its username and password to operate their machine.
+- Sensitive data are shared through hard copies.
+
+- Councillors do informal group meetings with citizens at a small level
+- some councillors redirect phone calls from their "official" <office?> number to their personal cell number
+- some request phone calls to follow up on particularly large/complicated emails
+
+
 - Council member has city-issued laptop, iPad, and smartphone
-- Council members do email all day every day (Weekdays and weekends)
-	- some get upwards of 1000 emails/day
-	- they "have some councillors that have gotten to the point where they've given up on emails"
+
 - Scheduling of meeting is done over an email
 - Official meetings are organized by city staff and facilitated by the Mayor
 - SurveyMonkey is used to collect available meeting times from all councillors
-- Minimum 5 members required to have a legal meeting
-	- 5 members is the threshold for legal majority -> requires an official meeting
 - Website is there for council-public communication
 - HaveYourSay is the portal where all the citizen engagement activities are posted
 - PlaySpeak was used to track development applications earlier
 - Internal App of Civic web is used to manage huge agendas on the councillors ipad during meeting
-- Some councillors don’t like twitter
-- Councillors do informal group meetings with citizens at a small level
-- Council uses different color code for printing agenda because of privacy issue
-- Data are encrypted in the official laptops of Councillors to maintain the privacy.	
-- Each councillor has its username and password to operate their machine.
-- Sensitive data are shared through hard copies.
-- Councillor can join to City Meetings through Skype
-- Electronic version of agenda is available on Meeting management software during city meetings.
-- Late Items  are added into addendum of agenda during the meetings.
+
+
+
+- Councillor can join to city meetings through Skype
+	- none of the councillors interviewed were aware that there were bylaws that permitted them to participate remotely in meetings
+		- either bylaw found on site is incorrect or councillors simply haven't felt the need to remotely participate in meetings yet
+	- for comparison, interviewee from Sooke made mention of some participation via phone for meetings
+- Electronic version of agenda is available on Meeting management software during city meetings
+- Late Items  are added into addendum of agenda during the meetings
 - Comparative study is followed to determine the software which can be used within the City council
 
 **Tools**
