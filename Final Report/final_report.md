@@ -43,6 +43,7 @@ Analyzing and Modernizing Victoria City Council's Communications: An Interim Rep
 		1. [Status on Original Milestones](#status-on-original-milestones)
 		2. [New Timeline](#new-timeline)
 	3. [Appendix 3: Interview Questions](#appendix-3-interview-questions)
+	4. [Appendix 4: Tools Used by Council](#appendix-4-tools-used-by-council)
 8. [References](#references)
 
 ## Introduction
@@ -314,7 +315,9 @@ From our six interviews, we chose to divide our findings into three major catego
 
 One of the results that was highly emphasized through all our interviews is who city councillors primarily interact and communicate with it. When we started our research, one of our main questions was on how we could improve councillor-to-councillor communication; this presumed that in order to get the majority of their work done and their information organized, councillors would have to work and interact with each other on a frequent basis. However, through our interviews we discovered that councillors place a higher emphasis on communicating and interacting with their constituents. The following diagram helps illustrate what we expected versus what we found regarding councillor-to-councillor communication. 
 
-<citycomm.png>
+<p align="center">
+<img src="https://github.com/cscw2015/maverick/blob/master/Final Report/citycomm.png">
+</p>
 
 Most of the discussion that happens between councillors is done through official meetings or committees. This is in part due to how the city has organized itself. Members of the city are expected to follow the proper channels for communication: any communication directed towards city workers has to be conducted through an intermediary city manager. Along with this, any communication channel (e.g. an email chain) that contains 5 or more city members constitutes a legal majority that can affect change, so any communication that involves 5 or more city council members must be conducted at an official meeting. This doesn't mean that councillors are forbidden to interact with other councillors - given that they all have offices next to each other, whenever informal discussion needs to happen between councillors it primarily happens in-person. One interviewee did note that there was "very little unstructed time with other councillors," which highlights that the majority of the communication for councillors occurs between councillors and their consituents. 
 
@@ -322,28 +325,21 @@ To collect information from their consituents, councillors use a few technologic
 
 The city council of Victoria also interacts as its own entity with the public by usage of social media and the city web site. The city of Victoria has a general page on [Facebook](https://www.facebook.com/CityofVictoriaPage/) <cite later?> that serves as an announcement page for events going on in the city. Some city councillors also make an attempt to maintain their own personal Facebook pages and Twitter accounts. These are mostly used to interact with their constituents, but some councillors also reach out to councillors from *other jurisdictions* via Twitter; interaction between councillors in Victoria is not conducted via social media. However, one interviewee mentioned that the city has "one guy who is primarily for day to day Twitter" for pushing promotional material out and responding to general questions to the city. So there is a movement from the city towards using social media, but not everyone is buying in. One interviewee said that they don't like Twitter "because there is a problem in trying to get relevant information out of folks in a short number of characters." Whether this is a sentiment shared by other council members remains to be seen, but the fact that some councillors actively use Twitter has to be seen as a positive. 
 
+- some councillors were active on social media primarily for being elected, and neglect to update page afterwards
+- one councillor used software (NationBuilder) to help analyse trends in social media, but noted that they only felt it was useful for getting elected
+
 One topic that we wanted to bring up in interviews was the notion of privacy. We wanted to know how city councillors ensured private data was kept private and what types of data need to be kept private. A lot of the work and communication that councillors put out (through email, Facebook, other) can be accessed by citizens through a Freedom of Information request (FOI), which means that the majority of written communication conducted by councillors is public information. Some exceptions do exist in regards to privacy; any documents regarding legal issues and any written communication on employee relations or employee performance do not have to be given out via a FOI request. Beyond these two exceptions, councillors have no expectation of privacy in their work and the way they conduct their communication with constituents reflects this. This may also help explain why some councillors are seemingly giving up on responding to emails: at a large enough volume, if they send out a poorly worded email it may come to hurt them in the future (e.g. for job prospects) so it's simply easier to just not respond rather than do a poor job of managing communication. 
 
-- Council uses different color code for printing agenda because of privacy issue
-- Data are encrypted in the official laptops of Councillors to maintain the privacy	
-- Each councillor has its username and password to operate their machine.
-- Sensitive data are shared through hard copies.
+For data that does need to remain private (personal files on laptops, for example) there are a few measures put in to place by the city. Each councillor is issued a laptop, an iPad, and a smartphone by the city; while the laptop and smartphone model decision is left to the councillor in question, each of these city-issued devices is encrypted by the IT department. Should these devices be lost, misplaced or stolen from councillors, the data on the devices themselves is encrypted and is much harder to gain access to. Through the interviews, we also learned that communication between city staff members and city council members is stored on servers physically located in Victoria; this is compliant with privacy laws in B.C. that state that personal information cannot be stored outside of B.C. Any sensitive documents that have to be shared between council members are typically shared as physical copies, and are shredded after usage. This approach respects privacy well, but may be open to improvement in the future. 
+
+With regards to meetings, councillors spend a decent amount of time in meetings, both informal and formal. Some councillors conduct informal group meetings with citizens 
 
 - Councillors do informal group meetings with citizens at a small level
 - some councillors redirect phone calls from their "official" <office?> number to their personal cell number
 - some request phone calls to follow up on particularly large/complicated emails
 
-
-- Council member has city-issued laptop, iPad, and smartphone
-
 - Scheduling of meeting is done over an email
 - Official meetings are organized by city staff and facilitated by the Mayor
-- SurveyMonkey is used to collect available meeting times from all councillors
-- Website is there for council-public communication
-- HaveYourSay is the portal where all the citizen engagement activities are posted
-- PlaySpeak was used to track development applications earlier
-- Internal App of Civic web is used to manage huge agendas on the councillors ipad during meeting
-
 
 
 - Councillor can join to city meetings through Skype
@@ -354,37 +350,24 @@ One topic that we wanted to bring up in interviews was the notion of privacy. We
 - Late Items  are added into addendum of agenda during the meetings
 - Comparative study is followed to determine the software which can be used within the City council
 
-**Tools**
-- Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
-- NationBuilder, a constituency management  for tracking emails. It’s a political organizer. The website basically runs on the NationBuilder platform which has  a database attached to it.
-- Atomic Crayon, website provider
-- Icompass provides software for information management services for council and committee operations.
-- Granicus and Civic web are for council operations. 
-- Meeting Management Software designed by iCompass is used  to get the agenda and do some modifications as and when required during the council meetings.
-- Meeting  Broadcast Software designed by Granicus is used to broadcast the city meetings.
-- Microsoft suite is used for core productivity.
-- Tempest is used for building and permitting software.
-- JD Edward Software is used for core financial purposes.
-
 #### Bylaw Development
 
-- version control
-	- expected: emailing documents back and forth
-	- found: emailing documents back and forth
-	- expectations were largely on point -- city council does most of their work by paper or email, version control is largely nonexistent 
-- sharing/collecting data
-	- primarily email
-		- one scans documents and emails them to share date
-- collaborative editing on documents
-	- one councillor uses Google Docs with their "closest allies" 
-		- anyone that they're not 100% sure they can trust, documents are sent back and forth via email
-	- editing typically is not done collaboratively -- councillors talk about issues, city staff write the reports
+As seen before, data collection for the purposes of changing or creating bylaws is largely an individual effort for city councillors. Each councillor collects data, opinions and complaints from their constituents (primarily via email) and collates these into reports or summaries that they bring to their respective committees or meetings. To facilitate data collection, one interviewee reported that they scan physical documents and then email these attachments to other people for further input. A lot of documents are emailed back and forth between constituents, councillors, and other individuals, with very little collaborative editing or writing occurring. One councillor mentioned that they use Google Docs for collaboratively working with their "closest allies" but that seems to be the exception rather than the rule. This type of version control is what we expected to find when we conducted these interviews: that no official protocol exists for controlling and ensuring the correct version of the document is being used. 
+
+Meetings and committees are where the majority of discussion occurs regarding bylaw development. After issues are discussed and debated in these meetings, city staff that were moderating the meetings will type up reports on what happened during the meeting. From what we gathered from our interviews, city staff do not collaboratively write these reports after the meetings - these reports are typically written on an individual basis and then shared either digitally or via printed copy for further review. It's important to note that the city councillors are not the individuals writing the reports after meetings and committees and that city staff are responsible for writing these documents, as further studies may wish to target this group for study instead of the city councillors. 
+
+The vehicle most widely used to share documents between city council members is sharing via physical distribution.
+
+Some of the data from meetings and reports is made accessible via the city of Victoria's website. Currently, the city offers data in CSV, KML, SHP and XLS formats. However, from our interviews we learned that 
+
 - one interviewee views city council being fairly hypocritical in their plan vs. their execution
 	- statement to want to go paperless
 	- 1000 page binder for budget discussion made soon after
 - city currently uploads data in CSV, KML, SHP, XLS formats
 	- Learning of .json code writing to have a data approach instead of file approach
 		- **being conducted by a citizen**
+		- idea is to take the "millions" of PDFs the city generates and convert them to .json so they can be more easily accessed, edited and modified
+
 <transition into general section on the issues we've identified in city, and how we're classifying them>
 
 #### Councillor Comfort with Technology
@@ -508,6 +491,28 @@ As each interview is completed, we have to transcribe it. The dates above are th
 ## Appendix 3: Interview Questions
 
 The following list contains general questions used throughout our interviews to facilitate discussion. Not all questions are listed, as some are context-specific to interviews and/or break confidentiality. 
+
+
+## Appendix 4: Tools Used by Council
+
+Through all the interviews we discovered a set of software tools that the city is currently using to manage their day-to-day operations. As these tools do not fit into any other section of the report, we list them here along with their general function. Future studies on the city of Victoria may want to look at these tools (or their replacements, should they be replaced) and assess whether they are being used effectively. 
+
+**Tools**
+- Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
+- NationBuilder, a constituency management  for tracking emails. It’s a political organizer. The website basically runs on the NationBuilder platform which has  a database attached to it.
+- Atomic Crayon, website provider
+- Icompass provides software for information management services for council and committee operations.
+- Granicus and Civic web are for council operations. 
+- Meeting Management Software designed by iCompass is used  to get the agenda and do some modifications as and when required during the council meetings.
+- Meeting  Broadcast Software designed by Granicus is used to broadcast the city meetings.
+- Microsoft suite is used for core productivity.
+- Tempest is used for building and permitting software.
+- JD Edward Software is used for core financial purposes.
+- SurveyMonkey is used to collect available meeting times from all councillors
+- Website is there for council-public communication
+- HaveYourSay is the portal where all the citizen engagement activities are posted
+- PlaySpeak was used to track development applications earlier
+- Internal App of Civic web is used to manage huge agendas on the councillors ipad during meeting
 
 ## References
 
