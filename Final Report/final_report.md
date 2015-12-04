@@ -477,7 +477,32 @@ As each interview is completed, we have to transcribe it. The dates above are th
 
 ## Appendix 3: Interview Questions
 
-The following list contains general questions used throughout our interviews to facilitate discussion. Not all questions are listed, as some are context-specific to interviews and/or break confidentiality. 
+The following list contains general questions used throughout our interviews to facilitate discussion. Not all questions are listed, as some are context-specific to interviews and/or break confidentiality.
+
+- What kind of data do you need to share on a day to day basis to do your job? For example, who do you need to communicate with to do your job?
+- How much of your job is data that you have to keep private?
+- How do people request access to your emails?
+- So about creating bills. How do you go about creating those? Do you collaboratively work documents together and if so, how do you do that? What technologies do you use usually? Email?
+- So when you collect different data to collect a bill you get a bunch of different information from people right? How do you organize, collate, and sort that data?
+- How do you make sure everyone has the same version of documents when you're collaborating with other city councillors?
+- How many city council related emails would you say you get in a day?
+- When you are speaking with people who are other councillors, what types of technology do you use? Do you post them in person? What about texting?
+- When you're dealing with other councillors, how do you communicate with them?
+- Who organizes the meetings then? How do they organize the meetings?
+- How comfortable do you feel with your smartphone and your computer? Do you feel like you're using it to the best of your ability? Do you feel like you could be using it more?
+- How would you rate your technology literacy? How good would you say you are with technology?
+- Do you feel like you're limited in any way with your current tech setup? Are you able to do everything you feel like you need to do? Is there something you would change or that you wished you could do a little better?
+- Have you ever seen any miscommunication at the council level?
+- How does a member of the public find out about bill creation and follow legislation at the council level?
+- How would you get the public input?
+- What types of information do you browse for, in terms of your job, on the Internet?
+- How do you ensure that things don't get discussed [between councillors] and that they go to a meeting, who ensures that?
+- How do you organize and run meetings, council meetings?
+- What kinds of technology do you use in the meeting rooms?
+- Are councillors allowed to remotely participate in meetings?
+- What do you feel most comfortable doing with your technology that you do on a frequent basis?
+- Is there a way for people to share their documents generally in meeting if they need to?
+- Do you handle sensitive information by using different technologies and avoid using email?
 
 ## Appendix 4: Tools Used by Council
 
@@ -499,6 +524,7 @@ Through all the interviews we discovered a set of software tools that the city i
 - HaveYourSay is the portal where all the citizen engagement activities are posted
 - PlaySpeak was used to track development applications earlier
 - Internal App of Civic web is used to manage huge agendas on the councillors ipad during meeting
+- Team Budget by Questica for keeping track of finances in a group
 
 ## References
 
