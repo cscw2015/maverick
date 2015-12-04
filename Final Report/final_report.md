@@ -391,15 +391,6 @@ The only explicit issue that was brought up during interviews was the weak wifi 
 
 For improving communication between city councillors, this is a misconception that we had when we began our research. As outlined before, we believed that in order to conduct their jobs, councillors needed to collaborate with one another outside of the meeting environment. This is not the case, as the majority of communication that occurs is between councillors and constituents. While the possibility of improving councillor-to-councillor communication still exists (and should eventually be explored) councillors place much more weight on interacting with their constituents. Future research should take a look at this and explore the possibility of improving councillor-to-citizen communication over attempting to improve councillor-to-councillor communication. 
 
-<Currently using Microsoft Word on screens in council chambers to see the current document and changed to the document. All have individual laptops and/or tablets that they use to look at documents and references during meetings.>
-<Currently facing weak wifi in council chambers, overwhelmed by email. No version control, just email new versions to everyone>
-<Turns out to be less of an issue than we initially thought. Probably could use some sort of messaging system for communicating with other councillors, as current system seems pretty dysfunctional.>
-
-- other questions that have arisen from work
-	- what can be explored next? What should be explored next?
-		- things to be explored next include in depth look at website, the possibility of implementing some sort of version control software
-	- do other nearby municipalities have similar setups and/or issues re:technology?
-
 ## Impact and Future Work
 
 This project immediately offers two things to the city of Victoria:
@@ -409,7 +400,9 @@ This project immediately offers two things to the city of Victoria:
 
 A longer time frame for this study could have allowed for follow-up interviews, observation of private meetings (as opposed to primarily public forums), or even designing and testing a new suite of software that focuses in particular on the needs of the municipality of Victoria. Similarly, this study could also be modified to assess similar issues on a provincial or federal scale. Such modified studies would need to have a broader focus (they may involve assessing the public's desires of the government vs. the government's responsibilities towards communications and data privacy) and would require a much larger time frame. 
 
-These types of studies are rarely conducted, in comparison to other fields of work. Typically, government organizations are audited by a specific subset of companies, but these audits tend to focus on ensuring the government is up to the current standard. Our study looks to go beyond the current standards and afford the opportunity for technological innovation, as a benefit for the public. 
+These types of studies are rarely conducted, in comparison to other fields of work. Typically, government organizations are audited by a specific subset of companies, but these audits tend to focus on ensuring the government is up to the current standard. Our study looks to go beyond the current standards and afford the opportunity for technological innovation, as a benefit for the public.
+
+Other questions have arisen from this work that require more research. For example, there could be research into how the public perceives technology use in city council, versus how councillors perceive it, versus what is actually used. This would be a valuable offering in the field of CSCW. Further, recommendations could be made to city council about what specific technologies to adopt, such as for version control and for updating their website, and these would require more research into matching the various softwares available to the various needs of city council. This study provides the foundation for much more research to be conducted in the field of CSCW and governm
 
 ##Appendices
 
