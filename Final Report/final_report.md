@@ -259,17 +259,9 @@ For our research, we considered a few different types of approaches to discover 
 
 ### Alternatives Considered 
 
-One of the approaches we considered was to conduct a usability study on the website currently used by the city of Victoria. 
-- list more details here
-	- what would we have looked at?
-	- why did we choose to ignore the site?
-		- we chose to ignore the site because we were much more interested on how individual council members were communicating with each other, and then it turned into how they communicate with constituents. Research was generally from the viewpoint of individual councillors, website is more how the council as a whole shares information
-- other approaches considered 
-- other approach considered was to send out mass survey
-	- for time frame available, we felt it wouldn't get enough quality data
-	- only 8 councillors in Victoria -> makes more sense to conduct interiews
+One of the approaches we considered was to conduct a usability study on the website currently used by the city of Victoria. We were not sure what content of the website we would have looked at, or what rubric for evaluation we would have used, until we talked to people first in order to get a sense of what was most important on the website. Now that we have spoken to councillors and to people in the community, it has become clear that the data available on the website in terms of bylaw development and passing is most important, and that this is readily available on the website according to sources we spoke with. We chose to ignore the site in our research because we were much more interested on how individual council members were communicating with each other, and then it turned into how they communicate with constituents. Research was generally from the viewpoint of individual councillors, while the website is more how the council as a whole shares information.
 
-- transition into what methodology we used in our research
+Another approach we considered was to send out a mass survey of councillors in Victoria. We could have developed a good set of questions and sent them out by email to the 8 councillors and waited for them to respond. However, this would have allowed for limited time to respond, which might have limited the results we received. Also, because there are only 8 councillors total in Victoria, plus the mayor, it seemed manageable to interview them. And judging by the results we received, it was unlikely we would have received as much data from questionnaires. In the end, we decided interviews were the best way to extract data from the councillors.
 
 ### Our Methodology
 
