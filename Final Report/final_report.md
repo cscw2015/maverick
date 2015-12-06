@@ -40,8 +40,6 @@ Analyzing and Modernizing Victoria City Council's Communications: Final Report
 		4. [Tian Geng](#tian-geng-data-analysis)
 		5. [Myan Panikkar](#myan-panikkar-editor)
 	2. [Appendix 2: Milestones](#appendix-2-milestones)
-		1. [Status on Original Milestones](#status-on-original-milestones)
-		2. [New Timeline](#new-timeline)
 	3. [Appendix 3: Interview Questions](#appendix-3-interview-questions)
 	4. [Appendix 4: Tools Used by Council](#appendix-4-tools-used-by-council)
 8. [References](#references)
@@ -416,50 +414,35 @@ Nigel kept the encrypted USB stick with the interviews on it and would collect a
 Tian is working with Roshni to create transcriptions of interviews as they are completed. He is also working with Kimberlee and Nigel to conduct interviews of city council members of Victoria. Tian is also responsible for conducting literature review alongside Roshni and Kimberlee. 
 
 ####Myan Panikkar: Editor
-Myan is responsible for all written deliverables in the project. As the primary editor, his job is to ensure that documents needed for the project are coherent, cohesive, and that they are delivered as complete products. This involves some leadership alongside Kimberlee, namely for delegating section content amongst group members as necessary. Myan will also be writing and designing the consultant report that our group intends to deliver to the city council after our interview data has been analyzed. Myan also attended city council meetings to help provide background research. 
+Myan was responsible for all written deliverables in the project. As the primary editor, his job was to ensure that documents needed for the project are coherent, cohesive, and that they are delivered as complete products. This involved some leadership alongside Kimberlee, namely for delegating section content amongst group members as necessary. He also attended city council meetings to help provide background research and helped in designing and giving presentations. 
 
 ## Appendix 2: Milestones
 
-The following table outlines our previous milestones and our progress on these milestones as of November 4th (when we gave an oral update on our project). Many of our milestones were met successfully, but a few issues arose when we compared our progress to our initial timeline draft. 
+The following table outlines our milestones that we used to ensure completing of tasks throughout our research. 
 
-### Status on Original Milestones
-
-| Date | Task to Complete | Status |
-|------|------------------|--------|
-|October 15| City Meeting 1 | Finished |
-|October 16| Project Proposal Finished | Finished  | 
-|October 19| Interview Template Finalized | Finished | 
-|October 19| Requests for Interview sent | Pending | 
-|October 19| Ethics application complete | Finished | 
-|October 29| City Meeting 2 | Finished
-|November 4| Oral update on project | Pending |
-|November 6| Interviews Completed| Date to be adjusted | 
-|November 13| Interim Project Report| Pending |
-|December 2| Project Presentation | N/A | 
-|December 4| Project Report Finalized | N/A |
-
-One of the more visible issues that can be seen from this table pertains to the interviews. Specifically, we intended to send out requests for interviews on October 19 (when we planned to have our ethics application completed) but we did not complete this until November 4th. While we recognize that our initial deadline was ambitious, leaving our requests for interview until this past week does set us back slightly. Combine this with our increased number of interviews planned and our next deadlines become much stricter. Our new planned date to complete interviews is November 20th. Part of the reason we chose this date pertains to our next issue.
-
-The next issue that this table fails to address is when we plan to have the data from our interviews transcribed. As we plan to do eight interviews in total, transcribing these interviews will take a considerable amount of time. However, we do not have a considerable amount of time available to complete the interviews, transcribe the interviews, interpret their results and propose possible changes to the city's technological setup (if necessary). Currently, we plan to transcribe interviews as we finish. We do need to set a final date for when we want these transcriptions to be complete, so to allow ourselves enough time to analyze the data we chose November 23rd as the final date for interview transcriptions to be completed. 
-
-A third issue that that isn't visible from looking at this table is that we never detailed what would be given to the city council of Victoria as a final deliverable, nor did we state when such a deliverable would be completed and delivered to the city. To address this, we chose to develop a non-academic report to deliver to the city council of Victoria. This report will be less formal in nature and will not contain as many of the academic citations as our final report will, but it will follow a similar structure in order to highlight our findings from the interviews we plan to conduct. 
-
-Given these issues, we made amendments to our timeline from November 4th and beyond. The following table details the changes we previously described in our timeline. 
-
-### New Timeline
-| Date | Task to Complete | 
+| Date | Task to Complete |
 |------|------------------|
+|October 15| City Meeting 1 |
+|October 16| Project Proposal Finished |
+|October 19| Interview Template Finalized |
+|October 19| Requests for Interview sent|
+|October 19| Ethics application complete |
+|October 29| City Meeting 2 |
 |November 4|Requests for Interview sent|
-|November 4|Oral update on project|
+|November 4| Oral update on project |
 |November 13|Interim Project Report|
-|November 20|Interviews will be Completed|
-|November 23|Transcripts will be Completed|
-|November 27|Data Analysis will be done|
+|November 20|Completion of Interviews|
+|November 23|Interview transcription completed|
+|November 27|Finalization of data analysis|
 |December 2|Project Presentation|
-|December 4|Final Report|
-|December 4|Consultant's Report|
+|December 5|Final Report|
+|December 5|Consultant's Report|
 
-As each interview was completed, we had to transcribe it. The dates above are the _final_ dates for interviews and their respective transcriptions; we dealt with the data as it flowed in. With all of the interview data in a usable format, analysis was conducted on it to determine the best method of approach to technology for the city council. This best method (or set of methods) will then be presented in a report to the city council at the end of the semester. 
+The two city meetings attended were two hour sessions on Thursday nights. As these sessions are available for the public to attend and give input on, we used these to get context behind what the council currently does and how it communicates its decisions to the public. 
+
+Interviews took longer than expected to complete, partially because our requests for interview were sent out later than expected. This may have affected the number of interviews we were able to obtain, as we were only able to get 6 interviews in total. 
+
+As each interview was completed, we had to transcribe it. The dates above are the _final_ dates for interviews and their respective transcriptions; we processed the data as it flowed in. With all of the interview data in a usable format, analysis was conducted on it to determine any flaws or issues regarding technology usage within the municipality of Victoria. 
 
 ## Appendix 3: Interview Questions
 
@@ -494,7 +477,6 @@ The following list contains general questions used throughout our interviews to 
 
 Through all the interviews we discovered a set of software tools that the city is currently using to manage their day-to-day operations. As these tools do not fit into any other section of the report, we list them here along with their general function. Future studies on the city of Victoria may want to look at these tools (or their replacements, should they be replaced) and assess whether they are being used effectively. 
 
-**Tools**
 - Development tracker that has documents about every development that’s happening in the city which was made online this year (2015)
 - NationBuilder, a constituency management  for tracking emails. It’s a political organizer. The website basically runs on the NationBuilder platform which has  a database attached to it.
 - Atomic Crayon, website provider
