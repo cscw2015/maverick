@@ -34,13 +34,6 @@ One of the final issues that we noted was brought up in passing through one of o
 
 We hope that this study and its recommendations have offered a different take on the use of technology by Victoria City Council. We genuinely enjoyed meeting with the councillors, and commend Victoria on a well-run and efficient council system. We look forward to future studies and developments that will unearth even more potential improvements for the city. Thank you for reading this report.
 
-For more information, please contact any of the study's authors:
-Kimberlee Graham-Knight (kimberleegk@gmail.com),
-Roshni Jain (roshni.jain46@gmail.com),
-Myan Panikkar (myanpanikkar@gmail.com),
-Tian Geng (tian2.geng@gmail.com), and
-Nigel Dufty (nigeldufty@gmail.com).
-
 ### References
 
 1. Walker, R. M. (2006). Innovation type and diffusion: An empirical analysis of local government. Public administration, 84(2), 311-335.
